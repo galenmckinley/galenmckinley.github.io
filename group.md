@@ -10,23 +10,26 @@ Some text introducing members of the Group
 
 ## GALEN A. McKINLEY 
 
-I study the physical structures and biogeochemical processes in large water bodies that impact large-scale carbon cycling and primary productivity. This requires an interdisciplinary approach across fluid dynamics, aquatic chemistry and ecology. Numerical models, historical datasets, and remote sensing are my primary tools. My research group and I are currently working to (1) assess change in the global ocean carbon sink from surface ocean pCO2, (2) quantify recent carbon uptake and productivity changes in the North Atlantic, (3) directly separate internal variability from anthropogenic change in the ocean carbon sink using large ensembles of coupled climate models, and (4) assess the biogeochemical impacts of invasive species in the Laurentian Great Lakes. 
+![Photo of Galen McKinley]({{site.baseurl}}/assets/img/headshot.jpg)  
 
-![Galen McKinley]({{site.baseurl}}/assets/img/headshot.jpg) 
+I am interested in how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. Thus in the most general sense, we are interested in fluid and climate dynamics, biogeochemical processes and marine ecology. To answer our research questions, my group develops, runs and analyzes models and also analyzes large historical datasets.  
 
-### Person 1
+As of spring 2018, our primary research thrusts are (1) separating natural variability from anthropogenic change in the global ocean carbon sink, (2) using observations and climate models together to improve spatial mapping of air-sea CO2 fluxes, (3) understanding impacts on carbon uptake of growing Arctic freshwater export to the North Atlantic, and (4) developing an improved regional coupled physical-biogeochemical model of the Atlantic-Arctic system. 
 
-Some text about them and a link to their page and probably a photo two 
+### AMANDA FAY
 
-### Person 2 
+Amanda Fay has been a research scientist in the McKinley group since 2011. She is currently on an Indian Ocean GO-SHIP cruise and will update this site when she returns. Her blog is here. 
 
-Some more text about them with a link and photo
+### LUCAS GLOEGE
 
+Some more text about Luke will go here....
+
+### SEAN RIDGE
+
+Some more text about Sean will go here....
 
 ### Note to Prospective Students
 
-I am always interested in discussing graduate school opportunities with students interested in using quantitative methods to learn about coupled physical-biogeochemical processes in the oceans and Great Lakes. Please have a look at my website to understand my research areas and approaches, and then contact me with any questions.
+I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about coupled physical-biogeochemical processes in the oceans. Undergraduates interested in research are also welcome to contact me. This website is a great way for you to get an initial feel of the research we do and the approaches we use. Please give the site a good look and then contact me with you questions.
 
-My students are usually in the Atmospheric and Oceanic Sciences graduate program, but I have also worked with students in Environment and Resources. I’d also be glad to discuss opportunities with Freshwater and Marine Science prospective students.
 
-Undergraduates interested in research are also welcome to contact me. I usually host a couple of undergraduate researchers in my group at a time.
