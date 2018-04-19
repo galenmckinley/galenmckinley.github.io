@@ -1,0 +1,12 @@
+<ul class="list list--posts">
+  {% assign related = true %}
+  {% for page in related_posts %}
+    <li class="item item--post">
+      <div class="typeset">
+        <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+        {% include post-meta.html %}
+        <span><br/>{{ page.excerpt | truncatewords: 10 }}</span>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,123 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+- github-pages
+
+# 3. Gem settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+paginate: 8 # jekyll-paginate > items per page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # base url for jekyll mentions
+
+compress_html:
+  clippings: all
+
+twitter:
+  username:  # jekyll-seo-tag > Owners twitter username
+
+author:  # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name:  # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: /:categories/:title/  # define url construction
+timezone: America/New_York # Timezone for blog posts and alike
+
+# 6. Site wide defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image:  # Default image for sharing
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: tag
+collections:
+  tag:
+      output: true
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "McKinley Ocean Carbon Group" # Site name or title, also used in jekyll-seo-tag
+logo:  # Site logo, also used in jekyll-seo-tag
+
+# Site description and default description, also used in jekyll-seo-tag
+url: "http://zentouro.github.io" # Site url, also used in jekyll-seo-tag
+repo: "http://github.com/zentouro/"
+disqus: 
+avatarurl: 
+
+# site verification
+webmaster_verifications:
+  google: sCRGg28ReGiDdQ4JQ75b6RCTtmBD9J6QQwh1kpIMDAU
+
+# default markdown processor and highlighter
+markdown: kramdown
+highlighter: rouge
+error_mode: strict
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Publications: /publications/
+  Group: /group/
+  Carbon Cycle: /CarbonCycle/
+  Updates: /blog/
+
+
+#site credits
+navigation_footer:
+  Adopted Alembic Theme: https://alembic.darn.es/
+
+contact:
+  #email:      https:
+  #github:     https:
+  #linkedin:   https:
+  #twitter:    https:
+  #flickr:     https:
+  
+#columbia:
+  #cs: http://www.cs.columbia.edu/
+  #university: http://www.columbia.edu/

@@ -1,0 +1,30 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<!-- General meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.indexing == false %}
+<meta name="robots" content="noindex">
+{% endif %}
+{% if page.collection %}
+{% seo title=false %}
+<title>{{ page.title }}</title>
+{% else %}
+{% seo %}
+{% endif %}
+{% include site-favicons.html %}
+{% feed_meta %}
+</head>
+<body>
+{% include site-icons.svg %}
+{% include site-header.html %}
+{{ content }}
+{% include google-analytics.html %}
+{% include site-footer.html %}
+</body>
+<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+</html>
