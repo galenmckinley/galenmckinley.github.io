@@ -2,7 +2,7 @@
 layout: home
 title: Publications
 feature_text: <h1 style="color:White;"> Publications </h1>
-image: http://zentouro.github.io/assets/img/productivity.jpg
+image: http://galenmckinley.github.io/assets/img/productivity.jpg
 ---
 
 
@@ -136,7 +136,7 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Chen, H., and G.A. McKinley. Summertime heterotrophy in the lower euphotic zone of the western North Atlantic subtropical gyre, in prep.
+Chen, H., and G.A. McKinley.  Isopycnal processes allow for summertime net heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, in prep.
 
 deJong, M.F., S. M. Lozier, G.A. McKinley and L. Gloege, Interannual variability of the northern boundary of the North Atlantic oligotrophic gyre, in prep.
 
@@ -144,9 +144,9 @@ Gloege, L, G.A. McKinley, R. Mooney, J.D. Allan, M. Diebel, P. McIntyre. Potenti
 
 McKinley, G.A. and V. Bennington. Physical drivers of biogeochemical and carbon cycling in Lake Superior, in prep. for J. Great Lakes Res.
 
-Pilcher, D.J., G.A. McKinley, K. Lindsay, and M.C. Long. Mechanisms of the forced trends in surface ocean pCO2, in prep. for Global Biogeochem. Cycles.
+Pilcher, D.J., G.A. McKinley, K. Lindsay, and M.C. Long. Mechanisms of the forced trends in surface ocean pCO2, in prep. 
 
-Ridge, S.M. and G.A. McKinley. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep for Biogeosciences.
+Ridge, S.M. and G.A. McKinley. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep 
 
 ### Thesis 
 
