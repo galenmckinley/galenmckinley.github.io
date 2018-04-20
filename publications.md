@@ -136,7 +136,7 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Chen, H., and G.A. McKinley. Summertime heterotrophy in the lower euphotic zone of the western North Atlantic subtropical gyre, in prep.
+Chen, H., and G.A. McKinley.  Isopycnal processes allow for summertime net heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, in prep.
 
 deJong, M.F., S. M. Lozier, G.A. McKinley and L. Gloege, Interannual variability of the northern boundary of the North Atlantic oligotrophic gyre, in prep.
 
