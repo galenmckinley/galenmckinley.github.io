@@ -7,7 +7,7 @@ image: http://zentouro.github.io/assets/img/ocean.jpg
 
 ## GALEN A. McKINLEY 
 
-![Photo of Galen McKinley]({{site.baseurl}}/assets/img/headshot.jpg)  
+![Photo of Galen McKinley]({{site.baseurl}}/assets/img/headshot_GAMsmall.jpg)  
 
 Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist.  She has expertise also in the science of the Laurentian Great Lakes, particularly Lakes Superior and Michigan. 
 
@@ -19,15 +19,15 @@ Amanda Fay has been a research scientist in the McKinley group since 2011. She i
 
 ### RAPHAEL DUSSIN
 
-Raphael Dussin is a new addition to the McKinley group..
+Raphael Dussin has recently joined the group..
 
 ### LUCAS GLOEGE
 
-Lucas Gloege is a 4th year PhD student in the McKinley group. 
+Lucas Gloege is a 4th year PhD student ...
 
 ### SEAN RIDGE
 
-Sean Ridge is a 3rd year PhD student in the McKinley group. 
+Sean Ridge is a 3rd year PhD student ...
 
 ### LAUREN MOSELEY 
 
