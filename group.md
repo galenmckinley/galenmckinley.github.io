@@ -9,11 +9,9 @@ image: http://zentouro.github.io/assets/img/ocean.jpg
 
 ![Photo of Galen McKinley]({{site.baseurl}}/assets/img/headshot.jpg)  
 
-Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of human emissions. Thus, understanding the ocean carbon cycle is critical to understanding current and predicting future climate change.
+Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist.  She has expertise also in the science of the Laurentian Great Lakes, particularly Lakes Superior and Michigan. 
 
-My group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass fluid dynamics, climate processes, biogeochemistry and ecology.  To answer our research questions, my group develops, runs and analyzes numerical models and also analyzes large historical datasets.  
-
-As of spring 2018, our primary research thrusts are (1) separating natural variability from anthropogenic change in the global ocean carbon sink, (2) using observations and climate models together to improve spatial mapping of air-sea CO2 fluxes, (3) understanding impacts on carbon uptake of growing Arctic freshwater export to the North Atlantic, and (4) developing an improved regional coupled physical-biogeochemical model of the Atlantic-Arctic system so that detailed mechanistic assessments of the North Atantic carbon sink can be made. 
+Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. 
 
 ### AMANDA FAY
 
