@@ -84,8 +84,8 @@ title: "McKinley Ocean Carbon Group" # Site name or title, also used in jekyll-s
 logo:  # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
-url: "http://zentouro.github.io" # Site url, also used in jekyll-seo-tag
-repo: "http://github.com/zentouro/"
+url: "http://galenmckinley.github.io/" # Site url, also used in jekyll-seo-tag
+repo: "http://github.com/galenmckinley/"
 disqus: 
 avatarurl: 
 
