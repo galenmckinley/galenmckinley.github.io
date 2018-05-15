@@ -12,4 +12,4 @@ The group's new website is now here, and replaces our old one at University of W
 
 Check out our educational site on the [carbon cycle]({{site.baseurl}}/CarbonCycle), also newly renovated in both spanish and english.
 
-Thanks to Miriam Nielsen for her work over the last year to put this together. 
+Thanks to [Miriam Nielsen](https://zentouro.github.io) for her work over the last year to put this together. 
