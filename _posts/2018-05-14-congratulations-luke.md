@@ -2,8 +2,8 @@
 title: Congrats to Luke Gloege
 category: 
 excerpt: Luke has passed his dissertation proposal
-feature_text: Congrats to Luke
-image: https://c1.staticflickr.com/5/4095/35275368490_51d0b0b74c_c.jpg
+feature_text: <h1 style="color:White;"> Congrats to Luke Gloege </h1>
+image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 tags: 
 comments: true
 ---
