@@ -2,7 +2,7 @@
 layout: home
 title: McKinley Ocean Carbon Group 
 feature_text: <h1 style="color:White;"> McKinley Ocean Carbon Group </h1>
-image: http://galenmckinley.github.io/assets/img/perpetual.jpg
+image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 ---
 
 Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed the equivalent of 40% of all human fossil fuel emissions. Thus, understanding the ocean carbon cycle is critical to understanding and predicting climate change.
