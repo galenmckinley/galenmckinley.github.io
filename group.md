@@ -15,7 +15,7 @@ Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Ocea
 
 ### AMANDA FAY
 
-Amanda Fay has been a research scientist in the McKinley group since 2011. She is currently on an Indian Ocean GO-SHIP cruise and will update this site when she returns. Her blog is here. 
+Amanda Fay has been a research scientist in the McKinley group since 2011. For April-June 2018, she is on an Indian Ocean GO-SHIP cruise. Her blog is [here](https://fayamanda.weebly.com).
 
 ### RAPHAEL DUSSIN
 
@@ -23,11 +23,11 @@ Raphael Dussin has recently joined the group..
 
 ### LUCAS GLOEGE
 
-Lucas Gloege is a 4th year PhD student ...
+Lucas Gloege is a 4th year PhD student...
 
 ### SEAN RIDGE
 
-Sean Ridge is a 3rd year PhD student ...
+Sean Ridge is a 3rd year PhD student...
 
 ### LAUREN MOSELEY 
 
