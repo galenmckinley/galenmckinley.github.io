@@ -8,4 +8,4 @@ tags:
 comments: true
 ---
 
-Leonard Boncenne is an undergraduate at ENSTA-Paris who is working with the group this summer on ecosystem modeling. Welcome Leonard!
+Leonard Boncenne is an Master of Engineering student at ENSTA-Paris who is working with the group this summer on ecosystem modeling. Welcome Leonard!
