@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ## GALEN A. McKINLEY 
 
-![Photo of Galen McKinley]<width="500" height="600">({{site.baseurl}}/assets/img/headshot_GAMsmall.jpg)  
+![Photo of Galen McKinley](<width="500" height="600">{{site.baseurl}}/assets/img/headshot_GAMsmall.jpg)  
 
 Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist.  She has additional expertise in the physics and biogeochemistry of Lakes Superior and Michigan. 
 
@@ -15,7 +15,7 @@ Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Ocea
 
 ### AMANDA FAY
 
-![Photo of Amanda Fay at Cape of Good Hope 2018]<width="500" height="600">({{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg)  
+![Photo of Amanda Fay at Cape of Good Hope 2018](<width="500" height="600">{{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg)  
 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
