@@ -13,7 +13,7 @@ McKinley, G. A., Ritzer, A. L., and Lovenduski, N. S.: Mechanisms of northern No
 
 ### Publications
 
-Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences,[doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
+Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences, [doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
 
 Muller-Karger et al. (2018) Satellite Sensor Requirements for Monitoring Essential Biodiversity Variables of Coastal Ecosystems. Ecological Applications, [doi:10.1002/eap.1682](http://onlinelibrary.wiley.com/doi/10.1002/eap.1682/full). (50)
 
