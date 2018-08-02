@@ -36,7 +36,7 @@ Sean Ridge is a 3rd year PhD student...
 
 Lauren Moseley will start in the McKinley group in Fall 2018. 
 
-### Note to Prospective Students
+### Note to Prospective Students from Professor McKinley
 
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Undergraduates interested in research are also welcome to contact me. This website is a great way for you to get an initial feel of the research we do and the approaches we use. Please give the site a good look and then contact me with you questions.
 
