@@ -30,7 +30,9 @@ Lucas Gloege is a 4th year PhD student...
 
 ### SEAN RIDGE
 
-Sean Ridge is a 3rd year PhD student...
+![Photo of Sean Ridge 2018]({{site.baseurl}}/assets/img/SeanRidge_2018.jpg){:height="40%" width="40%"}  
+
+Sean is a fourth year PhD student studying the carbon cycle in the North Atlantic. He primarily uses earth system models to improve our mechanistic understanding of future changes to ocean carbon uptake. In support of his research, Sean is interested in contributing to open source software solutions that tackle big data problems in earth science. Check out his [GitHub user page](http://github.com/sridge)
 
 ### LAUREN MOSELEY 
 
