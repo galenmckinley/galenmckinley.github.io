@@ -6,7 +6,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 ---
 
 
-
 ### Papers in Review
 
 McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in review](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018.

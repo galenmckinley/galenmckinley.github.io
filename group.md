@@ -36,7 +36,7 @@ Sean is a fourth year PhD student studying the carbon cycle in the North Atlanti
 
 ### LAUREN MOSELEY 
 
-![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="40%" width="40%"} 
+![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="50%" width="50%"} 
 
 Lauren is a first year PhD student. She is interested in using earth system models to better understand carbon and oxygen mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
 
