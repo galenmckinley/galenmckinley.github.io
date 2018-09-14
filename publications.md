@@ -9,7 +9,9 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-McKinley, G. A., Ritzer, A. L., and Lovenduski, N. S.: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in review](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018.
+McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in review](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018.
+
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, submitted to Nature Sustainability, 2018.
 
 ### Publications
 
