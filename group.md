@@ -26,7 +26,10 @@ Raphael Dussin has recently joined the group..
 
 ### LUCAS GLOEGE
 
-Lucas Gloege is a 4th year PhD student...
+![Photo of Luke Gloege on Star Lake, MN 2018]({{site.baseurl}}/assets/img/LukeGloege2018.jpg){:height="40%" width="40%"}  
+
+Luke is a fifth year PhD student. His research focuses on understanding spatial patterns of nutrients and pCO2 in large lakes and oceans. His work can be applied to enhance efficiency of nutrient management in large lakes and reduce uncertainty in the global carbon budget. Tools he uses to tackle these problems include: computer models, satellite data, and in-situ observations. Luke is committed to open-science. [Check out his webpage](https://lgloege.github.io)
+
 
 ### SEAN RIDGE
 
