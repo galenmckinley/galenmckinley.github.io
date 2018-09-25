@@ -13,6 +13,8 @@ Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia 
 
 Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-ALL-external-Apr2018.pdf).
 
+You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or phone 845.365.8585. 
+
 ### AMANDA FAY
 
 ![Photo of Amanda Fay at Cape of Good Hope 2018]({{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg){:height="40%" width="40%"}  
