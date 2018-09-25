@@ -10,7 +10,9 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in review](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018.
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, submitted to Nature Sustainability, 2018.
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, Nature Sustainability, in review 2018.
+
+Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, submitted to PNAS, 2018. 
 
 ### Publications
 
