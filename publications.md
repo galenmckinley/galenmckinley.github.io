@@ -16,7 +16,7 @@ Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotro
 
 ### Publications
 
-McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in press](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018. (52)
+McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences, doi: 10.5194/bg-2018-89, [in press](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018. (52)
 
 Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences, [doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
 
