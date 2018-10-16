@@ -10,13 +10,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, Nature Sustainability, in review 2018.
 
-Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, submitted to Nature Climate Change, 2018. 
+Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, Nature Climate Change, in review 2018. 
 
 Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, submitted to Global Biogeochemical Cycles, 2018.
 
 ### Publications
 
-McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences 15, 6049-6066, [https://doi.org/10.5194/bg-15-6049-2018](https://www.biogeosciences.net/15/6049/2018/), 2018. (52)
+McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski (2018) Mechanisms of northern North Atlantic biomass variability, Biogeosciences 15, 6049-6066, [https://doi.org/10.5194/bg-15-6049-2018](https://www.biogeosciences.net/15/6049/2018/). (52)
 
 Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences 15, 3841-3855, [doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
 
