@@ -16,9 +16,9 @@ Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotro
 
 ### Publications
 
-McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences, doi: 10.5194/bg-2018-89, [in press](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018. (52)
+McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski: Mechanisms of northern North Atlantic biomass variability, Biogeosciences 15, 6049-6066, [https://doi.org/10.5194/bg-15-6049-2018](https://www.biogeosciences.net/15/6049/2018/), 2018. (52)
 
-Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences, [doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
+Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams (2018) Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences 15, 3841-3855, [doi:10.5194/bg-15-3841-2018](https://www.biogeosciences.net/15/3841/2018/). (51)
 
 Muller-Karger et al. (2018) Satellite sensor requirements for monitoring essential biodiversity variables of coastal ecosystems. Ecological Applications, [doi:10.1002/eap.1682](http://onlinelibrary.wiley.com/doi/10.1002/eap.1682/full). (50)
 
