@@ -60,7 +60,8 @@ Kitchell, J.F., T. Cline, V. Bennington and G.A. McKinley (2015) Challenges of m
 
 Fay, A.R., G.A. McKinley, N. Lovenduski (2014) Southern Ocean carbon trends: Sensitivity to methods, Geophys. Res. Lett. [doi: 10.1002/2014GL061324](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061324/abstract?campaign=wolacceptedarticle). (31)
 
-Fay, A. R., and G. A. McKinley (2014) Global ocean biomes: mean and temporal variability, Earth Syst. Sci. Data 6, 273-284, [doi:10.5194/essd-6-273-2014](http://www.earth-syst-sci-data.net/6/273/2014/). (30)
+Fay, A. R., and G. A. McKinley (2014) Global ocean biomes: mean and temporal variability, Earth Syst. Sci. Data 6, 273-284, [doi:10.5194/essd-6-273-2014](http://www.earth-syst-sci-data.net/6/273/2014/). [Download biomes here](https://doi.pangaea.de/10.1594/PANGAEA.828650)(30)
+
 
 Cline, T., J.F. Kitchell, V. Bennington, G.A. McKinley, E.K. Moody, B.C. Weidel (2014) Climate impacts on landlocked sea lamprey: Implications for host-parasite interactions and invasive species management. Ecosphere 5 (6), art68. [doi: 10.1890/ES14-00059.1](http://www.esajournals.org/doi/abs/10.1890/ES14-00059.1). (29)
 
