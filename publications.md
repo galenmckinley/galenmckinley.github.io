@@ -139,8 +139,6 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, in prep.
 
-Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, Nature Climate Change, in prep. 
-
 deJong, M.F., S. M. Lozier, G.A. McKinley and L. Gloege, Interannual variability of the northern boundary of the North Atlantic oligotrophic gyre, in prep.
 
 Ridge, S.M. and G.A. McKinley. An expanded context for the nutrient stream: Regulation of North Atlantic anthropogenic carbon uptake by the uptake jet, in prep 
