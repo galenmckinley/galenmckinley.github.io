@@ -8,11 +8,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, Nature Sustainability, in review 2018.
-
-Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, Nature Climate Change, in review 2018. 
-
-Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, submitted to Global Biogeochemical Cycles, 2018.
+Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, in revision for Global Biogeochemical Cycles, 2018.
 
 ### Publications
 
@@ -141,15 +137,13 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Chen, H., and G.A. McKinley.  Isopycnal processes allow for summertime net heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, in prep.
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, in prep.
+
+Lovenduski, N.S., S.G. Yeager, C.S. Harrison and G.A. McKinley: Forecasting ocean carbon absorption for the world’s top five fossil fuel emitters, Nature Climate Change, in prep. 
 
 deJong, M.F., S. M. Lozier, G.A. McKinley and L. Gloege, Interannual variability of the northern boundary of the North Atlantic oligotrophic gyre, in prep.
 
-Gloege, L, G.A. McKinley, R. Mooney, J.D. Allan, M. Diebel, P. McIntyre. Potential impacts of tributary loads on coastal ecosystem services in Lake Michigan, in prep. 
-
-McKinley, G.A. and V. Bennington. Physical drivers of biogeochemical and carbon cycling in Lake Superior, in prep. for J. Great Lakes Res.
-
-Pilcher, D.J., G.A. McKinley, K. Lindsay, and M.C. Long. Mechanisms of the forced trends in surface ocean pCO2, in prep. 
+Ridge, S.M. and G.A. McKinley. An expanded context for the nutrient stream: Regulation of North Atlantic anthropogenic carbon uptake by the uptake jet, in prep 
 
 Ridge, S.M. and G.A. McKinley. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep 
 
