@@ -137,11 +137,14 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel, P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, in prep.
-
-Gloege, L., G.A. McKinley, P. Landscühtzer, N.S. Lovenduski, K.B. Rodgers, A. Fay, T. Frölicher, J.C. Fyfe6, T. Illyina, S.D. Jones, C. Rödenbeck, S. Schlunegger, Y. Takano: Large ensemble testbed to evaluate pCO2 interpolation methods, in prep. 
 
 deJong, M.F., S. M. Lozier, G.A. McKinley and L. Gloege, Interannual variability of the northern boundary of the North Atlantic oligotrophic gyre, in prep.
+
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, in prep.
+
+Gloege, L., G.A. McKinley, P. Landscühtzer, N.S. Lovenduski, K.B. Rodgers, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones, C. Rödenbeck, S. Schlunegger and Y. Takano: Large ensemble testbed to evaluate pCO2 interpolation methods, in prep. 
+
+McKinley, G.A., A. Fay and L. Gloege: Forced changes in the ocean carbon sink, in prep. 
 
 Ridge, S.M. and G.A. McKinley. An expanded context for the nutrient stream: Regulation of North Atlantic anthropogenic carbon uptake by the uptake jet, in prep. 
 
