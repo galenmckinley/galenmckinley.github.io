@@ -2,7 +2,7 @@
 title: Lauren on women in STEM 
 category: 
 excerpt: Lauren Moseley's advice on supporting women in STEM 
-%feature_text: <h1 style="color:Yellow;"> Lauren on supporting women in STEM </h1>
+feature_text: <h1 style="color:White;">  </h1>
 image: http://galenmckinley.github.io/assets/img/LDEO4March2019.jpg
 tags: 
 comments: true
