@@ -1,5 +1,5 @@
 ---
-title: Lauren on supporting women in STEM 
+title: Lauren on women in STEM 
 category: 
 excerpt: Lauren Moseley's advice on supporting women in STEM 
 %feature_text: <h1 style="color:Yellow;"> Lauren on supporting women in STEM </h1>
