@@ -2,7 +2,7 @@
 title: Interview with Lauren Moseley
 category: 
 excerpt: Interview with Lauren Moseley about women in science
-feature_text: <h1 style="color:White;"> Read this interview with Lauren </h1>
+feature_text: <h1 style="color:Black;"> Read this interview with Lauren </h1>
 image: http://galenmckinley.github.io/assets/img/LDEO4March2019.jpg
 tags: 
 comments: true
