@@ -1,5 +1,5 @@
 ---
-title: Interview with Lauren Moseley
+title: Lauren on supporting women in STEM 
 category: 
 excerpt: Interview with Lauren Moseley about women in science
 feature_text: <h1 style="color:Black;"> Lauren on supporting women in STEM </h1>
