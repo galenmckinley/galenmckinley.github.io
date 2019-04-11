@@ -11,7 +11,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist.  She has additional expertise in the physics and biogeochemistry of Lakes Superior and Michigan. 
 
-Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-ALL-external-Apr2018.pdf).
+Prior to coming to Columbia in 2017, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-ALL-Apr2019.pdf).
 
 You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or phone 845.365.8585. 
 
@@ -24,7 +24,9 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 
 ### RAPHAEL DUSSIN
 
-Raphael Dussin has recently joined the group..
+![Raphael Dussin on a mountaintop]({{site.baseurl}}/assets/img/Raphael_hiking_fromgithub.png){:height="40%" width="40%"}  
+
+[Raphael Dussin](https://www.ldeo.columbia.edu/user/rdussin) joined the McKinley group in spring 2018 to work on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin)
 
 ### LUCAS GLOEGE
 
