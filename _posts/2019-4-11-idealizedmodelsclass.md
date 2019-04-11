@@ -3,7 +3,7 @@ title: Idealized Models Fall 2019
 category: 
 excerpt: Professors McKinley and Fiore are teaching a new course on idealized models in Fall 2019
 feature_text: <h1 style="color:White;">  </h1>
-image: http://galenmckinley.github.io/assets/img/Box_model_schematic2.pdf
+image: http://galenmckinley.github.io/assets/img/ocean.jpg
 tags: 
 comments: true
 ---
