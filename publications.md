@@ -8,11 +8,11 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Chen, H.C. and G.A. McKinley: Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, in revision for Global Biogeochemical Cycles, 2019.
-
 Ridge, S.M. and G.A. McKinley: Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, submitted to Geophys. Res. Lett. 2019.
 
 ### Publications
+
+Chen, H.C. and G.A. McKinley (2019) Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower euphotic zone of the North Atlantic subtropical gyre, Global Biogeochemical Cycles, in press. (53)
 
 McKinley, G.A., A.L. Ritzer, and N.S. Lovenduski (2018) Mechanisms of northern North Atlantic biomass variability, Biogeosciences 15, 6049-6066, [https://doi.org/10.5194/bg-15-6049-2018](https://www.biogeosciences.net/15/6049/2018/). (52)
 
