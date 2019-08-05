@@ -1,7 +1,7 @@
 ---
 title: Sean wins best poster award at CESM LE meeting
 category: 
-excerpt: Sean wins best poster award!
+excerpt: Congrats to Sean!
 feature_text: <h1 style="color:White;"> New paper </h1>
 image: http://galenmckinley.github.io/assets/img/perpetual.jpg
 tags: 
