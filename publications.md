@@ -8,7 +8,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Ridge, S.M. and G.A. McKinley: Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Geophys. Res. Lett., in review 2019.
+McKinley, G.A., A.R. Fay, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, Nature, in review 2019.
+
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, in review 2019.
+
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in review 2019.
+
+Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Geophys. Res. Lett., in review 2019.
 
 ### Publications
 
