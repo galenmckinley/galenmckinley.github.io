@@ -10,5 +10,5 @@ comments: true
 
 Congratulations to Sean Ridge for his best poster award at the CESM Large Ensemble meeting in July 2019!
 
-![Sean getting his poster award 2018]({{site.baseurl}}/assets/img/LEmeeting2019_bestposter_ridge.jpg){:height="80%" width="80%"} 
+![Sean getting his poster award 2018]({{site.baseurl}}/assets/img/LEmeeting2019_bestposter_ridge2.jpg){:height="80%" width="80%"} 
 
