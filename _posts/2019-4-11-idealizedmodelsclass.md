@@ -10,6 +10,6 @@ comments: true
 
 Professor McKinley and [Professor Arlene Fiore](https://www.ldeo.columbia.edu/~amfiore/) will teach a new course in Fall 2019 entitled Idealized Models of Climate Processes (GR6926). 
 
-Check out the [syllabus]({{site.baseurl}}/assets/doc/Syllabus_EESC6926_IdealizedModels_11April2019.pdf).
+Check out the [syllabus]({{site.baseurl}}/assets/doc/Syllabus_EESC6926_IdealizedModels_3Sept2016.pdf).
 
 
