@@ -42,7 +42,7 @@ Lauren is a second year PhD student. She is interested in using earth system mod
 
 ### Note to Prospective Students from Professor McKinley
 
-I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are great ways for you to get an initial feel of the research we do and the approaches we use. Please check these out and then contact me with you questions.
+I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are great ways for you to start to understand the scientific questions and tools used in my group. Please check these out and then contact me with you questions.
 
 
 ### Former group members
