@@ -45,3 +45,6 @@ Lauren is a second year PhD student. She is interested in using earth system mod
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Undergraduates interested in research are also welcome to contact me. Reading this website and checking out some of our publications are great ways for you to get an initial feel of the research we do and the approaches we use. Please check these out and then contact me with you questions.
 
 
+### Former group members
+
+[Raphael Dussin](https://www.ldeo.columbia.edu/user/rdussin) was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
