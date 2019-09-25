@@ -12,9 +12,9 @@ McKinley, G.A., A.R. Fay, L. Gloege and N. Lovenduski, External forcing explains
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, in review 2019.
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in review 2019.
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in revision 2019.
 
-Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Geophys. Res. Lett., in review 2019.
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Proc. Nat. Acad. Sci. in review.
 
 ### Publications
 
@@ -117,9 +117,9 @@ McKinley, G.A., T. Takahashi, E. Buitenhuis, F. Chai, J. R. Christian, S. C. Don
 
 McKinley, G.A., M. Zuk, M. Hojer, M. Avalos, I. Gonzalez, R. Iniestra, I. Laguna, M.A. Martinez, P. Osnaya, and J. Martinez (2005) Quantification of local and global benefits from air pollution control in Mexico City. Environ. Sci. Technol., 39, 1954-1961 [doi:10.1021/es035183e](http://dx.doi.org/10.1021/es035183e). (7)
 
-Peylin, P., P. Bousquet, C. LeQuere, P. Friedlingstein, S. Sitch, G.A. McKinley, N. Gruber, P. Ciais, and P. Rayner (2005) Multiple constraints of regional CO2 flux variations over land and oceans.Global Biogeochem. Cycles. 18, GB1011, [doi: 10/1029/2003GB002214](http://dx.doi.org/10.1029/2003GB002214). (6)
+Peylin, P., P. Bousquet, C. LeQuere, P. Friedlingstein, S. Sitch, G.A. McKinley, N. Gruber, P. Ciais, and P. Rayner (2005) Multiple constraints of regional CO2 flux variations over land and oceans. Global Biogeochem. Cycles. 18, GB1011, [doi: 10/1029/2003GB002214](http://dx.doi.org/10.1029/2003GB002214). (6)
 
-McKinley, G.A., C. Rodenbeck, M. Gloor, S. Houweling and M. Heimann (2004) Pacific dominance to global air-sea CO2 flux variablility: A novel atmospheric inversion agrees with ocean models.Geophys. Res. Let., 31, GL22308, [doi:10.1029/2004GL021069](http://dx.doi.org/10.1029/2004GL021069).  (5)
+McKinley, G.A., C. Rodenbeck, M. Gloor, S. Houweling and M. Heimann (2004) Pacific dominance to global air-sea CO2 flux variablility: A novel atmospheric inversion agrees with ocean models. Geophys. Res. Let., 31, GL22308, [doi:10.1029/2004GL021069](http://dx.doi.org/10.1029/2004GL021069).  (5)
 
 McKinley, G. A., M. J. Follows, and J. Marshall (2004), Mechanisms of air-sea CO2 flux variability in the equatorial Pacific and the North Atlantic, Global Biogeochem. Cycles, 18, GB2011, [doi:10.1029/2003GB002179](http://dx.doi.org/10.1029/2003GB002179). (4)
 
@@ -145,11 +145,9 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Physical enhancement of nutrient stress to Great Lakes ecosystem services, in prep.
-
 Gloege, L., G.A. McKinley, P. Landscühtzer, N.S. Lovenduski, K.B. Rodgers, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones, C. Rödenbeck, S. Schlunegger and Y. Takano: Large ensemble testbed to evaluate pCO2 interpolation methods, in prep. 
 
-McKinley, G.A., A. Fay and L. Gloege: Forced changes in the ocean carbon sink, in prep. 
+Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in prep.
 
 Ridge, S.M. and G.A. McKinley. An expanded context for the nutrient stream: Regulation of North Atlantic anthropogenic carbon uptake by the uptake jet, in prep. 
 
