@@ -10,11 +10,10 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 McKinley, G.A., A.R. Fay, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, Nature, in review 2019.
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, in review 2019.
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2019.
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in revision 2019.
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Proc. Nat. Acad. Sci. in review.
 
 ### Publications
 
@@ -144,6 +143,8 @@ Mooney, M. E., Ackerman, S., Mckinley, G. A., Whittaker, T. and Jasmin, T. (2012
 McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Preliminary Carbon Budgets for the Laurentian Great Lakes, OCB News 4 [Download PDF](http://web.whoi.edu/ocb/wp-content/uploads/sites/43/2016/12/OCB_NEWS_SPR_SUM11.pdf)
 
 ### Papers in Preparation
+
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, in prep.
 
 Gloege, L., G.A. McKinley, P. Landscühtzer, N.S. Lovenduski, K.B. Rodgers, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones, C. Rödenbeck, S. Schlunegger and Y. Takano: Large ensemble testbed to evaluate pCO2 interpolation methods, in prep. 
 
