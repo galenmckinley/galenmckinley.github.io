@@ -8,7 +8,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, in review, 2019.
+McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2019.
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2019.
 
