@@ -10,12 +10,12 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2019.
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2019.
-
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith & M. Levy, The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in revision 2019.
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2019.
 
 
 ### Publications
+
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in revision 2019. [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
 
 Chen, H.C. and G.A. McKinley (2019) Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower-euphotic zone of the western North Atlantic subtropical gyre, Global Biogeochemical Cycles, [doi:10.1029/2018GB006094](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006094). (53)
 
