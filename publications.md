@@ -15,7 +15,7 @@ Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy
 
 ### Publications
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., in revision 2019. [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
 
 Chen, H.C. and G.A. McKinley (2019) Isopycnal processes allow for summertime heterotrophy despite net oxygen accumulation in the lower-euphotic zone of the western North Atlantic subtropical gyre, Global Biogeochemical Cycles, [doi:10.1029/2018GB006094](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006094). (53)
 
