@@ -8,10 +8,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2019.
+McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2020.
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2019.
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2020.
 
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. in review 2020.
+
+Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in data-based estimates of ocean carbon sink variability, PNAS, in review 2020. 
 
 ### Publications
 
@@ -143,10 +146,6 @@ Mooney, M. E., Ackerman, S., Mckinley, G. A., Whittaker, T. and Jasmin, T. (2012
 McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Preliminary Carbon Budgets for the Laurentian Great Lakes, OCB News 4 [Download PDF](http://web.whoi.edu/ocb/wp-content/uploads/sites/43/2016/12/OCB_NEWS_SPR_SUM11.pdf)
 
 ### Papers in Preparation
-
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, in prep.
-
-Gloege, L., G.A. McKinley, P. Landscühtzer, N.S. Lovenduski, K.B. Rodgers, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones, C. Rödenbeck, S. Schlunegger and Y. Takano: Large ensemble testbed to evaluate pCO2 interpolation methods, in prep. 
 
 Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in prep.
 
