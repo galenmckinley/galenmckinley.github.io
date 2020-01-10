@@ -8,4 +8,4 @@ tags:
 comments: true
 ---
 
-Luke Gloege has contributed to a project on feedbacks between local winds, albedo and dust erosion. This work was led by Jordan Abell and Gisela Winckler in Geochemistry at LDEO [See details here](https://www.ldeo.columbia.edu/news-events/evolving-landscape-added-fuel-gobi-desert’s-high-speed-winds)
+Luke Gloege has contributed to a project on feedbacks between local winds, albedo and dust erosion. This work was led by Jordan Abell and Gisela Winckler in Geochemistry at LDEO. [See details here](https://www.ldeo.columbia.edu/news-events/evolving-landscape-added-fuel-gobi-desert’s-high-speed-winds)
