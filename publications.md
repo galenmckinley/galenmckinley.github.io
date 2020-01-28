@@ -16,7 +16,7 @@ Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advectiv
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. in review 2020.
 
-Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020. 
+Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
 ### Publications
 
