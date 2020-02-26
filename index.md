@@ -13,7 +13,7 @@ Currently, our primary research thrusts are (1) understanding the external drive
 
 Here's the group in February 2020
 
-![McKinley Group Feb 2020]({{site.baseurl}}/assets/img/McKinleyGroup_feb2020_sm.jpg){:height="80%" width="80%"}
+![McKinley Group Feb 2020]({{site.baseurl}}/assets/img/McKinleyGroup_feb2020_sm2.jpg){:height="80%" width="80%"}
 
 Sean Ridge, Amanda Fay, Galen McKinley, Luke Gloege, Lauren Moseley
 
