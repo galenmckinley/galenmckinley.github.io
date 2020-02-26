@@ -12,10 +12,13 @@ We all went to San Diego for a busy week of talks, posters and side meetings. We
 Here are some pictures:
 
 The group, Sean Ridge, Amanda Fay, Galen McKinley, Luke Gloege, Lauren Moseley.
+
 ![McKinley Group Feb 2020]({{site.baseurl}}/assets/img/McKinleyGroup_feb2020_sm.jpg){:height="80%" width="80%"}
 
 Sean presenting his poster:
+
 ![Sean Ridge Poster Feb 2020]({{site.baseurl}}/assets/img/RidgePosterFeb2020_sm.jpg){:height="80%" width="80%"}
 
 Lauren presenting her poster: 
+
 ![Lauren Moseley Feb 2020]({{site.baseurl}}/assets/img/Lauren_poster_OS2020_sm.jpg){:height="80%" width="80%"}
