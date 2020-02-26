@@ -11,7 +11,7 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 
 Currently, our primary research thrusts are (1) understanding the external drivers responsible for the bulk of recent decadal variability in the global ocean carbon sink, (2) combining observations and climate models using modern data science approaches to improve spatial mapping of air-sea CO2 fluxes, (3) understanding the mechanisms of anthropogenic carbon uptake in the North Atlantic, (4) assessing how the ocean carbon sink will respond to future changes in emissions, and (5) developing an improved regional coupled physical-biogeochemical model of the Atlantic-Arctic system. 
 
-A recent group photo! Here is the group in February 2020 
+Here's the group in February 2020 
 ![McKinley Group Feb 2020]({{site.baseurl}}/assets/img/McKinleyGroup_feb2020_sm.jpg){:height="80%" width="80%"}
 
 Sean Ridge, Amanda Fay, Galen McKinley, Luke Gloege, Lauren Moseley
