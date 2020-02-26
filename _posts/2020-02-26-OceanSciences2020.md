@@ -22,3 +22,5 @@ Sean presenting his poster:
 Lauren presenting her poster: 
 
 ![Lauren Moseley Feb 2020]({{site.baseurl}}/assets/img/Lauren_poster_OS2020_sm.jpg){:height="80%" width="80%"}
+
+Great work everyone! 
