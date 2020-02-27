@@ -18,7 +18,7 @@ Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 ### Publications
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2020) Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](10.1038/s41467-020-14955-0) (55)
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2020) Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](10.1038/s41467-020-14955-0). (55)
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
 
@@ -149,9 +149,11 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Ridge, S.M. and G.A. McKinley. An expanded context for the nutrient stream: Regulation of North Atlantic anthropogenic carbon uptake by the uptake jet, in prep. 
+Ridge, S.M., G.A. McKinley and M.C. Long. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep.
 
-Ridge, S.M. and G.A. McKinley. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep.
+Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mitigation, in prep.
+
+Gloege, L., G.A. McKinley, M. Yan and T. Zheng. A Hybrid Physics Data (HPD) approach to global mapping of sparse surface ocean carbon data, in prep.
 
 ### Thesis 
 
