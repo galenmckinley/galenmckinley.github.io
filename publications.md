@@ -10,8 +10,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2020. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10501723.1)
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications, in review 2020.
-
 Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in review 2020.
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre: Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. in review 2020.
@@ -19,6 +17,8 @@ Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre:
 Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
 ### Publications
+
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy, Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](10.1038/s41467-020-14955-0) (55)
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
 
