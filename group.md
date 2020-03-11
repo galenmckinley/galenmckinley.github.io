@@ -22,12 +22,6 @@ You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
 
-### LUCAS GLOEGE
-
-![Photo of Luke Gloege on Star Lake, MN 2018]({{site.baseurl}}/assets/img/LukeGloege2018.jpg){:height="40%" width="40%"}  
-
-Luke is a sixth year PhD student. His research focuses on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. His work can be applied to reduce uncertainty in the global carbon budget. Tools he uses to tackle these problems include: computer models, satellite data, in-situ observations, and data science techniques. Luke is committed to open-science. [Check out his webpage](https://lgloege.github.io)
-
 ### SEAN RIDGE
 
 ![Photo of Sean Ridge 2018]({{site.baseurl}}/assets/img/SeanRidge2018.jpg){:height="40%" width="40%"}  
@@ -46,5 +40,7 @@ I am glad to discuss graduate school opportunities with students interested in u
 
 
 ### Former group members
+
+Luke Gloege received his PhD in March 2020.  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. Luke is now a postdoc at Columbia in the Gentine group, working on land carbon cycle research. [Check out his webpage](https://lgloege.github.io)
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
