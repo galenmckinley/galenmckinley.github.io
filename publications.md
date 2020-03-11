@@ -12,7 +12,7 @@ McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External for
 
 Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in review 2020.
 
-Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
+Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
 ### Publications
 
