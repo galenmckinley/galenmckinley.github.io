@@ -16,7 +16,7 @@ Gloege, L., G.A. McKinley, P. Landscühtzer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 ### Publications
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. in press.
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. in press. (56)
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2020) Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](10.1038/s41467-020-14955-0). (55)
 
