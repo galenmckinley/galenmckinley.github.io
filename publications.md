@@ -8,7 +8,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances in review, 2020. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10501723.1)
+McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski, External forcing explains recent decadal variability of the ocean carbon sink, revised for AGU Advances, 2020. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10501723.1)
 
 Ridge, S.M. and G.A. McKinley, Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in review 2020.
 
