@@ -16,9 +16,9 @@ Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 ### Publications
 
-Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. [doi:10.1088/1748-9326/ab7f62](10.1088/1748-9326/ab7f62). (56)
+Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. [doi:10.1088/1748-9326/ab7f62](https://iopscience.iop.org/article/10.1088/1748-9326/ab7f62). (56)
 
-Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2020) Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](10.1038/s41467-020-14955-0). (55)
+Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2020) Eddy iron fluxes control primary production in the open Southern Ocean, Nature Communications. [doi:10.1038/s41467-020-14955-0](http://www.nature.com/articles/s41467-020-14955-0). (55)
 
 Uchida, T., D. Balwada, R. Abernathey, G.A. McKinley, S. Smith and M. Levy (2019) The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean, J. Adv. Model. Earth Sys., [doi:10.1029/2019MS001805](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001805). (54)
 
