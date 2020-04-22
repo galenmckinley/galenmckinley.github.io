@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Luke on successful PhD defense
+title: Congratulations to Luke on your successful PhD defense
 category: 
 excerpt: Congratulations Dr. Luke Gloege on your successful PhD defense!
 feature_text: <h1 style="color:White;"> Congratulations Dr. Luke Gloege! </h1>
