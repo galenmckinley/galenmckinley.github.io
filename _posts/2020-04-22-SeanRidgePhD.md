@@ -8,4 +8,6 @@ tags:
 comments: true
 ---
 
-[Sean Ridge](http://github.com/sridge) has successfully defended his PhD on April 17, 2020. Congratulations Dr. Ridge! 
+[Sean Ridge](http://github.com/sridge) has successfully defended his PhD on April 17, 2020. 
+
+Congratulations Dr. Ridge! 
