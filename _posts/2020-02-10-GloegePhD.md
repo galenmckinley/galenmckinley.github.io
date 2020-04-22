@@ -8,6 +8,6 @@ tags:
 comments: true
 ---
 
-[Luke Gloege](https://lgloege.github.io) has successfully defended his PhD today, February 10, 2020. 
+[Luke Gloege](https://lgloege.github.io) successfully defended his PhD today, February 10, 2020. 
 
 Congratulations Luke! 
