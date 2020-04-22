@@ -1,8 +1,8 @@
 ---
 title: Ocean Sciences 2020
 category: 
-excerpt: The McKinley group had a great Ocean Sciences meeting!
-feature_text: <h1 style="color:White;"> A great Ocean Sciences 2020 </h1>
+excerpt: The McKinley group had a Great Ocean Sciences meeting!
+feature_text: <h1 style="color:White;"> Ocean Sciences 2020 </h1>
 image: http://galenmckinley.github.io/assets/img/perpetual.jpg
 tags: 
 comments: true
