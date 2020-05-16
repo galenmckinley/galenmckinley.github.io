@@ -12,7 +12,7 @@ Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 ### Publications
 
-Ridge, S.M. and G.A. McKinley (2020) Expanded context of the Nutrient Stream: Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
+Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
 
 McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances, in press. (57) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10501723.1)
 
