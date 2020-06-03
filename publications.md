@@ -14,7 +14,7 @@ Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
 
-McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances, in press. (57) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10501723.1)
+McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances [doi: 10.1029/2019AV000149](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019AV000149). (57) 
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. [doi:10.1088/1748-9326/ab7f62](https://iopscience.iop.org/article/10.1088/1748-9326/ab7f62). (56)
 
