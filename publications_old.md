@@ -10,8 +10,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, PNAS, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
-Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mitigation, submitted to Biogeosciences.
-
 ### Publications
 
 Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
@@ -152,6 +150,8 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 ### Papers in Preparation
 
 Ridge, S.M., G.A. McKinley and M.C. Long. Projected increases in Arctic freshwater export reduce the North Atlantic anthropogenic carbon sink, in prep.
+
+Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mitigation, in prep.
 
 Gloege, L., G.A. McKinley, M. Yan and T. Zheng. A Hybrid Physics Data (HPD) approach to global mapping of sparse surface ocean carbon data, in prep.
 
