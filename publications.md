@@ -155,6 +155,9 @@ Ridge, S.M., G.A. McKinley and M.C. Long. Projected increases in Arctic freshwat
 
 Gloege, L., G.A. McKinley, M. Yan and T. Zheng. A Hybrid Physics Data (HPD) approach to global mapping of sparse surface ocean carbon data, in prep.
 
+Stammel, J, R.R. Rustagi, L. Gloege, and G.A. McKinley. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, in prep.
+
+
 ### Thesis 
 
 McKinley, G.A. (2002) Interannual variability in air-sea fluxes of carbon dioxide and oxygen, MIT PhD. [Download PDF](http://newcarboncycle.aos.wisc.edu/galenWEB/papers/mckinley-phd02.pdf)
