@@ -14,7 +14,7 @@ Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mi
 
 ### Publications
 
-Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I/ Seneviratne, D. Singh, A. Steiner, and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment, in press. (59)
+Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment, in press. (59)
 
 Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
 
