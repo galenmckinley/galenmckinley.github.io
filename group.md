@@ -9,9 +9,9 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ![Photo of Galen McKinley]({{site.baseurl}}/assets/img/headshot_GAMsmall.jpg)
 
-Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist.  She has additional expertise in the physics and biogeochemistry of Lakes Superior and Michigan. 
+Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist. Her work primarily addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
-Prior to coming to Columbia in summer 2017, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-March2020.pdf).
+Prior to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-March2020.pdf).
 
 You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or phone 845.365.8585. 
 

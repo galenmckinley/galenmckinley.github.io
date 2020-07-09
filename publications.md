@@ -16,7 +16,7 @@ Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mi
 
 Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment, in press. (59)
 
-Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles, in press. (58)
+Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles [doi:10.1029/2019GB006457](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006457). (58)
 
 McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances [doi: 10.1029/2019AV000149](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019AV000149). (57) 
 
