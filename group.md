@@ -33,11 +33,9 @@ Lauren is a third year PhD student. She is using ocean models to better understa
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are the best introductions to our scientific questions and our research tools. Please check these out and then contact me with you questions.
 
 
-### Former group members
+### Former group members at Columbia / Lamont Doherty Earth Observatory
 
-### SEAN RIDGE
-
-Sean Ridge recieved his PhD in May 2020. His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. Check out what he's doing now at [GitHub user page](http://github.com/sridge).
+Sean Ridge received his PhD in May 2020. His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. Check out what he's doing now at [GitHub user page](http://github.com/sridge).
 
 Luke Gloege received his PhD in March 2020.  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. Luke is now a postdoc at Columbia in the Gentine group, working on land carbon cycle research. [Check out his webpage](https://lgloege.github.io)
 
