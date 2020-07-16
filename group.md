@@ -22,17 +22,11 @@ You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
 
-### SEAN RIDGE
-
-![Photo of Sean Ridge 2018]({{site.baseurl}}/assets/img/SeanRidge2018.jpg){:height="40%" width="40%"}  
-
-Sean is a fifth year PhD student studying the carbon cycle in the North Atlantic and global oceans. He primarily uses earth system models to improve our mechanistic understanding of future changes to ocean carbon uptake. In support of his research, Sean is interested in contributing to open source software solutions that tackle big data problems in earth science. Check out his [GitHub user page](http://github.com/sridge).
-
 ### LAUREN MOSELEY 
 
 ![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="42%" width="42%"} 
 
-Lauren is a second year PhD student. She is interested in using earth system models to better understand carbon and oxygen mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
+Lauren is a third year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
 
 ### Note to Prospective Students from Professor McKinley
 
@@ -40,6 +34,10 @@ I am glad to discuss graduate school opportunities with students interested in u
 
 
 ### Former group members
+
+### SEAN RIDGE
+
+Sean Ridge recieved his PhD in May 2020. His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. Check out what he's doing now at [GitHub user page](http://github.com/sridge).
 
 Luke Gloege received his PhD in March 2020.  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. Luke is now a postdoc at Columbia in the Gentine group, working on land carbon cycle research. [Check out his webpage](https://lgloege.github.io)
 
