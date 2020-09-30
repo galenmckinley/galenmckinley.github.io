@@ -12,6 +12,8 @@ Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe,
 
 Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mitigation, Biogeosciences Discussions / in review for Biogeosciences 2020 [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/)
 
+Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions / in review for Geoscientific Model Development 2020 
+
 ### Publications
 
 Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment [doi:10.1038/s43017-020-0079-1](https://www.nature.com/articles/s43017-020-0079-1). (59)
