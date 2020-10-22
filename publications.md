@@ -20,7 +20,7 @@ Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. 
 
 Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles [doi:10.1029/2019GB006457](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006457). (58)
 
-McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances [doi: 10.1029/2019AV000149](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019AV000149). Highlights: [AGU EOS](https://eos.org/editor-highlights/eruption-and-emissions-take-credit-for-ocean-carbon-sink-changes),
+McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances [doi: 10.1029/2019AV000149](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019AV000149). Press coverage: [AGU EOS](https://eos.org/editor-highlights/eruption-and-emissions-take-credit-for-ocean-carbon-sink-changes),
 [Nature Climate Change](https://www.nature.com/articles/s41558-020-0842-9),
 [Bloomberg](https://www.bloomberg.com/news/articles/2020-06-05/covid-19-affects-how-much-co-the-oceans-absorb-slowing-warming),
 [Inside Science](https://www.insidescience.org/news/eruptions-and-emissions-can-rapidly-alter-oceans-ability-absorb-carbon?utm_campaign=11660610_Eruptions%20and%20Emissions%20Can%20Rapidly%20Alter%20the%20Ocean%27s%20Ability%20to%20Absorb%20Carbon&utm_medium=email&utm_source=Inside%20Science&dm_t=0,0,0,0,0) (57) 
