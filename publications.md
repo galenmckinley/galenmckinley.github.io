@@ -8,11 +8,11 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano: Quantifying errors in observationally-based estimates of ocean carbon sink variability, in review 2020.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
+Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano. 2020. Quantifying errors in observationally-based estimates of ocean carbon sink variability, in review.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
-Ridge, S.M., and G.A. McKinley. Ocean carbon uptake under aggressive emission mitigation, Biogeosciences Discussions / in review for Biogeosciences 2020 [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/)
+Ridge, S.M., and G.A. McKinley. 2020. Ocean carbon uptake under aggressive emission mitigation, Biogeosciences Discussions / in review for Biogeosciences [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/)
 
-Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions / in review for Geoscientific Model Development 2020 
+Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley. 2020. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions / in review for Geoscientific Model Development [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311)
 
 ### Publications
 
