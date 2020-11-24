@@ -160,7 +160,7 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 Gloege, L., G.A. McKinley, M. Yan and T. Zheng. LDEO-HPD v2020a: a machine learning based hybrid physics data technique for estimating ocean CO2 flux and assessment of regional model error, in prep.
 
-Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zengb, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, in prep.
+Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, in prep.
 
 ### Thesis 
 
