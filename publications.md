@@ -14,6 +14,10 @@ Ridge, S.M., and G.A. McKinley. 2020. Ocean carbon uptake under aggressive emiss
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley. 2020. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions / in review for Geoscientific Model Development [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311)
 
+Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review.
+
+Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams. The ephemeral and elusive ocean carbon response to COVID-related emissions reductions, GRL, in review.
+
 ### Publications
 
 Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment [doi:10.1038/s43017-020-0079-1](https://www.nature.com/articles/s43017-020-0079-1). (59)
@@ -158,10 +162,12 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Gloege, L., G.A. McKinley, M. Yan and T. Zheng. LDEO-HPD v2020a: a machine learning based hybrid physics data technique for estimating ocean CO2 flux and assessment of regional model error, in prep.
+Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, in prep.
 
-Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, in prep.
+Crisp, D., H. Dolman, V. Aich, T. Tanhua, G.A. McKinley, J. Hauck. The carbon cycle and the climate, an evolving system, in prep. 
+
+Fay, A.R., L. Gregor, P. Landschutzer, J. Zheng, G.A. McKinley, M. Gehlen, N. Gruber and others. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, in prep for ESSD.
 
 ### Thesis 
 
-McKinley, G.A. (2002) Interannual variability in air-sea fluxes of carbon dioxide and oxygen, MIT PhD. [Download PDF](http://newcarboncycle.aos.wisc.edu/galenWEB/papers/mckinley-phd02.pdf)
+McKinley, G.A. (2002) Interannual variability in air-sea fluxes of carbon dioxide and oxygen, MIT PhD. [Download PDF]({{site.baseurl}}/assets/doc/mckinley-phd02.pdf)
