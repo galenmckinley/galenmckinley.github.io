@@ -22,6 +22,12 @@ You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
 
+### VAL BENNINGTON
+
+![Photo of Val Bennington 2020]({{site.baseurl}}/assets/img/ValB_2020.jpg){:height="42%" width="42%"} 
+
+Val is currently a postdoctoral scholar in the McKinley group. Her current research utilizes observations of ocean carbon chemistry and data science techniques to quantify the global ocean carbon sink and its variability. Her scientific interests include using both data and modeling approaches to understand how physical and biological mechanisms drive variations in ocean and Great Lake carbon chemistry. She received her Ph.D. in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011, she has worked as a postdoc and scientist at the Center for Climatic Research at the University of Wisconsin-Madison. She spent six years working at a software company, and is excited to now be doing science again as part of the McKinley group.
+
 ### LAUREN MOSELEY 
 
 ![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="42%" width="42%"} 
