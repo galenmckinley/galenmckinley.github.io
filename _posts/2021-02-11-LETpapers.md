@@ -18,6 +18,6 @@ But getting the work published has been so difficult! Our reviewers either argue
 
 So, we end up spending years trying to get this work published. Meantime, in data science, people post their paper to an archive and it is then considered "published". This is such a huge contrast! What is the right middle ground?  For now, it seems at minimum fair for me to post [Stamell et al.](https://doi.org/10.5194/gmd-2020-311) as a published paper on my [website](https://galenmckinley.github.io/publications/). 
 
-How else are we going to evaluate the uncertainty in extrapolation from less than 2% coverage pCO2 data to the global ocean if we do not use the physical information encoded in Earth System Models?  Please contact me if you have thoughts on other approaches. 
+How else are we going to evaluate the uncertainty in extrapolation from less than 2% coverage pCO2 data to the global ocean if we do not use the physical information encoded in Earth System Models? How else are we going to how well 2% coverage pCO2 data can constrain the ocean carbon sink?  Please contact me if you have thoughts on other approaches. 
 
 
