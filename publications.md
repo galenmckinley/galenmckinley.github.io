@@ -8,15 +8,17 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano. 2020. Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles in review.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
+Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano. 2020. Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles in review.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
 Ridge, S.M., and G.A. McKinley. 2020. Ocean carbon uptake under aggressive emission mitigation, Biogeosciences Discussions / in review for Biogeosciences [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/)
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley. 2020. Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions / in review for Geoscientific Model Development [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311)
 
-Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review.
+Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
 
 Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams. The ephemeral and elusive ocean carbon response to COVID-related emissions reductions, GRL, in review.
+
+Crisp, D., Dolman H., Tanhua, T., McKinley, G.A., Hauck, J., Eggleston, S., Aich, V. How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, in review. 
 
 ### Publications
 
