@@ -18,7 +18,7 @@ Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. C
 
 Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams. The ephemeral and elusive ocean carbon response to COVID-related emissions reductions, GRL, in review.
 
-Crisp, D., Dolman H., Tanhua, T., McKinley, G.A., Hauck, J., Eggleston, S., Aich, V. How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, in review. 
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, in review. 
 
 ### Publications
 
