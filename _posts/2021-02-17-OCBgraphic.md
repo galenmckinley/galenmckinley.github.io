@@ -1,7 +1,7 @@
 ---
 title: Visualizing the natural and anthropogenic carbon cycle
-category: New graphic on ocean carbon cycle
-excerpt: New graphic on ocean carbon cycle
+category: New OCB graphic on ocean carbon cycle
+excerpt: New OCB graphic on ocean carbon cycle
 feature_text: <h1 style="color:White;">  </h1>
 image: http://galenmckinley.github.io/assets/img/OCBCarbon2020.png
 tags: 
