@@ -21,7 +21,7 @@ Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich.
 ### Publications
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley (2020) Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311) (60).
-For those wanting to assess the review history in full, here is [information not posted by GMDD]({{site.baseurl}}/assets/doc/gmd2020311_FullRecord_11Feb2021.pdf). Please contact GAM if you would like to read the revised paper prior to its resubmission elsewhere. 
+[Review history not on GMMD site]({{site.baseurl}}/assets/doc/gmd2020311_FullRecord_11Feb2021.pdf).
 
 Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment [doi:10.1038/s43017-020-0079-1](https://www.nature.com/articles/s43017-020-0079-1). (59)
 
