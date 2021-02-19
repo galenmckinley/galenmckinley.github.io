@@ -14,7 +14,7 @@ Ridge, S.M., and G.A. McKinley. 2020. Ocean carbon uptake under aggressive emiss
 
 Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
 
-Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, in review. 
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. 
 
 ### Publications
 
