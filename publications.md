@@ -20,7 +20,7 @@ Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich.
 
 Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles in press. (62) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10502036.1)
 
-Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ephemeral and elusive ocean carbon response to COVID-related emissions reductions, GRL, in press. (61) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10505618.1)
+Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ocean carbon response to COVID-related emissions reductions, GRL, in press. (61) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10505618.1)
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley (2020) Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311) (60).
 [Review history not on GMMD site]({{site.baseurl}}/assets/doc/gmd2020311_FullRecord_11Feb2021.pdf).
