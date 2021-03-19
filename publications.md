@@ -20,10 +20,9 @@ Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich.
 
 Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles in press. [doi:10.1029/2020GB006788](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006788). (62)
 
-Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ocean carbon response to COVID-related emissions reductions, GRL, in press. (61) [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10505618.1)
+Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ocean carbon response to COVID-related emissions reductions, GRL, in press. [doi:10.1029/2020GL092263](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL092263). (61)
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley (2020) Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311) (60).
-[Review history not on GMMD site]({{site.baseurl}}/assets/doc/gmd2020311_FullRecord_11Feb2021.pdf).
 
 Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. Burney, P. Ciais, S.J. Davis, A.M. Fiore, S. Fletcher, T. Hertel, D.E. Horton, S. Hsiang, R.B. Jackson, X. Jin, M. Levi, D. Lobell, G.A. McKinley, F.C. Moore, A. Montgomery, K.C. Nadeau, D. Pataki, J.T. Randerson, M. Reichstein, J.L. Schnell, S.I. Seneviratne, D. Singh, A. Steiner and G. Wong-Parodi (2020) The COVID-19 Lockdowns: A Window into the Earth System, Nature Reviews Earth & Environment [doi:10.1038/s43017-020-0079-1](https://www.nature.com/articles/s43017-020-0079-1). (59)
 
