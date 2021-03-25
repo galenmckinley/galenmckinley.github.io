@@ -18,9 +18,9 @@ Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y.
 
 Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences in press. [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/). (63)
 
-Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles in press. [doi:10.1029/2020GB006788](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006788). (62)
+Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles  [doi:10.1029/2020GB006788](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006788). (62)
 
-Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ocean carbon response to COVID-related emissions reductions, GRL, in press. [doi:10.1029/2020GL092263](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL092263). (61)
+Lovenduski, N.S., N.C. Swart, A.J. Sutton, J.C. Fyfe, G.A. McKinley, C. Sabine and N.L. Williams (2021) The ocean carbon response to COVID-related emissions reductions, Geophys. Res. Lett. [doi:10.1029/2020GL092263](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL092263). (61)
 
 Stamell, J., R.R. Rustagi, L. Gloege, and G.A. McKinley (2020) Strengths and weaknesses of three Machine Learning methods for pCO2 interpolation, Geoscientific Model Development Discussions [doi:10.5194/gmd-2020-311](https://doi.org/10.5194/gmd-2020-311) (60).
 
