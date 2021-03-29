@@ -12,7 +12,7 @@ Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. C
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
 
-Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, ESSD, in review.
+Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, [ESSD, in review.](https://essd.copernicus.org/preprints/essd-2021-16/)
 
 ### Publications
 
