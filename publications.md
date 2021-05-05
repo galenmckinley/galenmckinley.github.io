@@ -12,11 +12,11 @@ Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. C
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
 
-Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, ESSD, in review.
+Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, [ESSD, in review.](https://essd.copernicus.org/preprints/essd-2021-16/)
 
 ### Publications
 
-Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
+Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [doi:10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
 
 Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles  [doi:10.1029/2020GB006788](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006788). (62)
 
