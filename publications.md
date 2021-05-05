@@ -16,7 +16,7 @@ Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y.
 
 ### Publications
 
-Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences in press. [doi:10.5194/bg-2020-254](https://www.biogeosciences-discuss.net/bg-2020-254/). (63)
+Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
 
 Gloege, L., G.A. McKinley, P. Landschützer, A. Fay, T. Frölicher, J.C. Fyfe, T. Illyina, S.D. Jones,  N.S. Lovenduski,  C. Rödenbeck, K.B. Rodgers, S. Schlunegger and Y. Takano (2021) Quantifying errors in observationally-based estimates of ocean carbon sink variability, Global Biogeochem. Cycles  [doi:10.1029/2020GB006788](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006788). (62)
 
