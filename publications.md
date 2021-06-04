@@ -8,11 +8,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
+Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, [JAMES, in review.](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1)
+
+Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, [ESSD, in review.](https://essd.copernicus.org/preprints/essd-2021-16/)
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
 
-Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, [ESSD, in review.](https://essd.copernicus.org/preprints/essd-2021-16/)
+Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
 
 ### Publications
 
@@ -119,13 +121,13 @@ Illari L., J. Marshall, P. Bannon, J. Botella, R. Clark, T. Haine, A. Kumar, S. 
 
 Desai, A., J. Austin, V. Bennington and G.A. McKinley (2009) Stronger winds over a large lake in response to a weakening air to lake temperature gradient. Nature Geoscience, [doi:10.1038/ngeo693](http://www.nature.com/ngeo/journal/v2/n12/full/ngeo693.html). (15) 
 
-Ullman, D. J., G. A. McKinley, V. Bennington, and S. Dutkiewicz (2009), Trends in the North Atlantic carbon sink: 1992 – 2006, Global Biogeochem. Cycles, 23, GB4011, [doi:10.1029/2008GB003383](http://dx.doi.org/10.1029/2008GB003383). (14)
+Ullman, D.J., G.A. McKinley, V. Bennington, and S. Dutkiewicz (2009), Trends in the North Atlantic carbon sink: 1992 – 2006, Global Biogeochem. Cycles, 23, GB4011, [doi:10.1029/2008GB003383](http://dx.doi.org/10.1029/2008GB003383). (14)
 [Supplementary Material](http://newcarboncycle.aos.wisc.edu/galenWEB/papers/2008gb003241.tgz)
 
 Bennington, V, G.A. McKinley, S. Dutkiewicz, D. Ullman (2009) What does chlorophyll variability tell us about export and air-sea CO2 flux variability in the North Atlantic? Global Biogeochem. Cycles., 23, GB3002, [doi:10.1029/2008GB003241](http://dx.doi.org/10.1029/2008GB003241). (13)
 [Supplementary Material](http://newcarboncycle.aos.wisc.edu/galenWEB/papers/2008gb003241.tgz)
 
-Koch, J., G. A. McKinley, V. Bennington, and D. Ullman (2009), Do hurricanes cause significant interannual variability in the air-sea CO2 flux of the subtropical North Atlantic?, Geophys. Res. Lett., 36, L07606, [doi:10.1029/2009GL037553](http://dx.doi.org/10.1029/2009GL037553). (12) highlighted by Nature Reports Climate Change [link](http://www.nature.com/climate/2009/0904/full/climate.2009.30.html)
+Koch, J., G.A. McKinley, V. Bennington, and D. Ullman (2009), Do hurricanes cause significant interannual variability in the air-sea CO2 flux of the subtropical North Atlantic?, Geophys. Res. Lett., 36, L07606, [doi:10.1029/2009GL037553](http://dx.doi.org/10.1029/2009GL037553). (12) highlighted by Nature Reports Climate Change [link](http://www.nature.com/climate/2009/0904/full/climate.2009.30.html)
 [Supplementary Material](http://newcarboncycle.aos.wisc.edu/galenWEB/papers/2009gl037553.tgz)
 
 Cassar, N., G.A. McKinley, M.L. Bender, R. Mika, and M. Battle (2008) An improved comparison of atmospheric Ar/N2 time-series and paired ocean-atmosphere model predictions, J. Geophys. Res., 113, D21122, [doi:10.1029/2008JD009817](http://dx.doi.org/10.1029/2008JD009817). (11)
@@ -142,13 +144,13 @@ Peylin, P., P. Bousquet, C. LeQuere, P. Friedlingstein, S. Sitch, G.A. McKinley,
 
 McKinley, G.A., C. Rodenbeck, M. Gloor, S. Houweling and M. Heimann (2004) Pacific dominance to global air-sea CO2 flux variablility: A novel atmospheric inversion agrees with ocean models. Geophys. Res. Let., 31, GL22308, [doi:10.1029/2004GL021069](http://dx.doi.org/10.1029/2004GL021069).  (5)
 
-McKinley, G. A., M. J. Follows, and J. Marshall (2004), Mechanisms of air-sea CO2 flux variability in the equatorial Pacific and the North Atlantic, Global Biogeochem. Cycles, 18, GB2011, [doi:10.1029/2003GB002179](http://dx.doi.org/10.1029/2003GB002179). (4)
+McKinley, G.A., M. J. Follows, and J. Marshall (2004), Mechanisms of air-sea CO2 flux variability in the equatorial Pacific and the North Atlantic, Global Biogeochem. Cycles, 18, GB2011, [doi:10.1029/2003GB002179](http://dx.doi.org/10.1029/2003GB002179). (4)
 
 McKinley, G.A., M. J. Follows, J. Marshall, and S. Fan (2003) Interannual variability of air-sea O2fluxes and the determination of CO2 sinks using atmospheric O2/N2. Geophys. Res. Let. v 30(3), 1101, [doi:10.1029/2002GL016044](http://dx.doi.org/10.1029/2002GL016044). (3)
 
 Battle, M., M. Bender, M.B. Hendricks, D.T. Ho, R. Mika, G.A. McKinley, S. Fan, T. Blaine, and R. Keeling (2003) Measurements and models of the atmospheric Ar/N2 ratio. Geophys. Res. Lett., 30(15), 1786, [doi:10.1029/2003GL017411](http://dx.doi.org/10.1029/2003GL017411). (2)
 
-McKinley, G, M. Follows, and J. Marshall (2000) Interannual variability of the air-sea flux of oxygen in the North Atlantic. Geophys. Res. Let., 27(18), [2933-2936](http://onlinelibrary.wiley.com/doi/10.1029/2000GL011492/abstract). (1)
+McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of the air-sea flux of oxygen in the North Atlantic. Geophys. Res. Let., 27(18), [2933-2936](http://onlinelibrary.wiley.com/doi/10.1029/2000GL011492/abstract). (1)
 
 ### Non-peer reviewed
 
@@ -166,7 +168,9 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, in prep.
+Fay, A. R., and G.A. McKinley. A regional data-based evaluation of model estimates of the modern ocean carbon sink, in prep. 
+
+Bennington, V. and G.A. McKinley. The response of the ocean carbon sink to emission mitigation, in prep.  
 
 ### Thesis 
 
