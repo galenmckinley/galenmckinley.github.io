@@ -16,6 +16,8 @@ Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich.
 
 Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, The 2020 COVID-19 pandemic and atmospheric composition: back to the future, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
 
+Fay, A. R., and G.A. McKinley. Observed regional fluxes to constrain modeled estimates of the ocean carbon sink, Geophys. Res. Lett., submitted.  
+
 ### Publications
 
 Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [doi:10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
@@ -167,8 +169,6 @@ Mooney, M. E., Ackerman, S., Mckinley, G. A., Whittaker, T. and Jasmin, T. (2012
 McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Preliminary Carbon Budgets for the Laurentian Great Lakes, OCB News 4 [Download PDF](http://web.whoi.edu/ocb/wp-content/uploads/sites/43/2016/12/OCB_NEWS_SPR_SUM11.pdf)
 
 ### Papers in Preparation
-
-Fay, A. R., and G.A. McKinley. A regional data-based evaluation of model estimates of the modern ocean carbon sink, in prep. 
 
 Bennington, V. and G.A. McKinley. The response of the ocean carbon sink to emission mitigation, in prep.  
 
