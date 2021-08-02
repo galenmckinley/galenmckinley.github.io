@@ -10,7 +10,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1)
 
-Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, ESSD, in review. [Read it on ESSOArchive](https://essd.copernicus.org/preprints/essd-2021-16/)
+Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, ESSD, in review. [Read it on ESSD](https://essd.copernicus.org/preprints/essd-2021-16/)
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
 
