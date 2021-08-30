@@ -18,6 +18,8 @@ Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. C
 
 Fay, A. R., and G.A. McKinley. Observed regional fluxes to constrain modeled estimates of the ocean carbon sink, Geophys. Res. Lett., in review.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507690.1)
 
+Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Replaying the tape of history: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. 
+
 ### Publications
 
 Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [doi:10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
