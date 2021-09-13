@@ -10,8 +10,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1)
 
-Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng. Harmonization of global surface ocean pCO2 mapped products and flux calculations for an improved estimate of the ocean carbon sink, ESSD, in review. [Read it on ESSD](https://essd.copernicus.org/preprints/essd-2021-16/)
-
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
 
 Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team, Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change, PNAS, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506081.1)
@@ -21,6 +19,8 @@ Fay, A. R., and G.A. McKinley. Observed regional fluxes to constrain modeled est
 Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Replaying the tape of history: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. 
 
 ### Publications
+
+Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng (2021) SeaFlux: harmonization of air-sea CO2 fluxes from surface pCO2 data products using a standardised approach, ESSD, in press. [Read it on ESSD](https://essd.copernicus.org/preprints/essd-2021-16/)
 
 Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [doi:10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
 
