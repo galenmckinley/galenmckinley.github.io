@@ -13,7 +13,7 @@ Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia 
 
 Prior to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-25Mar2021.pdf).
 
-You can contact Professor McKinley via email (mckinley at ldeo.columbia.edu) or phone 845.365.8585. 
+The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
 ### AMANDA FAY
 
