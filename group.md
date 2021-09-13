@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ## GALEN A. McKINLEY 
 
-![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg)
+![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg){:height="40%" width="40%"} 
 
 Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory. She is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
