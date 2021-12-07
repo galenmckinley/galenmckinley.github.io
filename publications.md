@@ -20,7 +20,7 @@ Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. C
 
 Fay, A.R., L. Gregor, P. Landschützer, G.A. McKinley, N. Gruber,  M. Gehlen, Y. Iida, G.G. Laurelle, C. Rödenbeck, J. Zeng (2021) SeaFlux: harmonization of air-sea CO2 fluxes from surface pCO2 data products using a standardised approach, ESSD [doi:10.5194/essd-13-4693-2021](https://essd.copernicus.org/articles/13/4693/2021/) (65)
 
-Fay, A. R., and G.A. McKinley. Observed regional fluxes to constrain modeled estimates of the ocean carbon sink, Geophys. Res. Lett. [doi:10.1029/2021GL095325](https://doi.org/10.1029/2021GL095325) (64)
+Fay, A. R., and G.A. McKinley (2021) Observed regional fluxes to constrain modeled estimates of the ocean carbon sink, Geophys. Res. Lett. [doi:10.1029/2021GL095325](https://doi.org/10.1029/2021GL095325) (64)
 
 Ridge, S.M., and G.A. McKinley (2021) Ocean carbon uptake under aggressive emission mitigation, Biogeosciences [doi:10.5194/bg-18-2711-2021](https://bg.copernicus.org/articles/18/2711/2021/). (63)
 
