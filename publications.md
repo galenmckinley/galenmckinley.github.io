@@ -10,7 +10,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1)
 
-Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.1)
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.2)
 
 Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Replaying the tape of history: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1)
 
