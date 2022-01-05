@@ -8,13 +8,17 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1)
-
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.2)
 
 Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Replaying the tape of history: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1)
 
+Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
+
+Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. 
+
 ### Publications
+
+Gloege, L., M. Yan,  T. Zheng and G.A. McKinley. Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507164.1) (67)
 
 Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team (2021) Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change, PNAS [doi:10.1073/pnas.2109481118](https://www.pnas.org/content/118/46/e2109481118) (66)
 
@@ -172,7 +176,10 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Bennington, V. and G.A. McKinley. The response of the ocean carbon sink to emission mitigation, in prep.  
+G.A. McKinley and V.S. Bennington. Modern flux distributions constrain the future ocean carbon sink, in prep. 
+
+Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability in the global ocean carbon sink: 1959-2018, in prep.
+ 
 
 ### Thesis 
 
