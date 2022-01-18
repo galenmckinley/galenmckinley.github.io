@@ -14,7 +14,7 @@ Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Land
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
-Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. 
+Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510196.1) 
 
 ### Publications
 
