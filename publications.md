@@ -18,7 +18,7 @@ Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea
 
 ### Publications
 
-Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
+Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) Access the [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
 
 Laughner, J.L, J.L. Neu, D. Schimel, P.O. Wennberg, K. Barsanti, K. Bowman, A. Chatterjeee, B. Croes, H. Fitzmaurice, D. Henze, J. Kim, E.A. Kort, Z. Liu, Kazuyuki Miyazaki, A.J. Turner, S. Anenberg, J. Avise, H. Cao, D. Crisp, J. de Gouw, A. Eldering, J.C. Fyfe, D.L. Goldberg, K.R. Gurney, S. Hasheminassa, F. Hopkins, C. E. Ivey, D.B.A. Jones, N.S. Lovenduski, R.V. Martin, G.A. McKinley, L. Ott, B. Poulter, M. Rua, S.P. Sander, N. Swart, Y.L. Yung, Z-C Zeng, and the rest of the Keck Institute for Space Studies “COVID-19: Identifying Unique Opportunities for Earth System Science” study team (2021) Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change, PNAS [doi:10.1073/pnas.2109481118](https://www.pnas.org/content/118/46/e2109481118) (66)
 
