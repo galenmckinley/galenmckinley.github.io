@@ -16,7 +16,7 @@ Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, 
 
 Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510196.1) 
 
-Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability in the global ocean carbon sink: 1959-2018, submitted to GRL.
+Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability in the global ocean carbon sink: 1959-2018, submitted to GRL.[Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510815.1) 
  
 ### Publications
 
