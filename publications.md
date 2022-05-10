@@ -8,8 +8,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10506293.2)
-
 Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1)
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
@@ -19,6 +17,8 @@ Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea
 Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability in the global ocean carbon sink: 1959-2020, GRL, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510815.1) 
  
 ### Publications
+
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736. [doi:10.1029/2021RG000736] (https://doi.org/10.1029/2021RG000736)(68)
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) Access the [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
 
