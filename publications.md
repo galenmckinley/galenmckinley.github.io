@@ -18,7 +18,7 @@ Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability i
  
 ### Publications
 
-Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich. How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736. [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736. [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) Access the [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
 
