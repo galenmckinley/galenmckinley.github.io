@@ -27,7 +27,7 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 
 ![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="42%" width="42%"} 
 
-Lauren is a third year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
+Lauren is a fourth year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
 
 ### Note to Prospective Students from Professor McKinley
 
