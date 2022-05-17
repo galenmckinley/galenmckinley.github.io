@@ -22,11 +22,6 @@ The best way to contact Professor McKinley is via email (mckinley at ldeo.columb
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
 
-### VAL BENNINGTON
-
-![Photo of Val Bennington 2020]({{site.baseurl}}/assets/img/ValB_2020.jpg){:height="42%" width="42%"} 
-
-Val is currently a postdoctoral scholar in the McKinley group. Her current research utilizes observations of ocean carbon chemistry and data science techniques to quantify the global ocean carbon sink and its variability. Her scientific interests include using both data and modeling approaches to understand how physical and biological mechanisms drive variations in ocean and Great Lake carbon chemistry. She received her Ph.D. in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011, she has worked as a postdoc and scientist at the Center for Climatic Research at the University of Wisconsin-Madison. She spent six years working at a software company, and is excited to now be doing science again as part of the McKinley group.
 
 ### LAUREN MOSELEY 
 
@@ -38,8 +33,16 @@ Lauren is a third year PhD student. She is using ocean models to better understa
 
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are the best introductions to our scientific questions and our research tools. Please check these out and then contact me with you questions.
 
+### SOON TO JOIN THE GROUP
+
+Dr. Thea Hatlen Heimdal, now at University of Oslo, will join the group as a postdoctoral scholar in summer 2022. 
+
+Julia Simpson will join the group as a PhD student in fall 2022. 
+
 
 ### Former group members at Columbia / LDEO
+
+Val Bennington was a postdoctoral scholar in the McKinley group in 2020-2022, during which time she used observations of ocean carbon chemistry and data science techniques to quantify the global ocean carbon sink and its variability. Her scientific interests include using both data and modeling approaches to understand how physical and biological mechanisms drive variations in ocean and Great Lake carbon chemistry. She received her Ph.D. in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011, she has worked as a postdoc and scientist at the Center for Climatic Research at the University of Wisconsin-Madison. She then spent six years working at a software company. Val is now employed at [Makai Ocean Engineering](https://www.makai.com) in Hawaii. 
 
 Sean Ridge received his [PhD in May 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-bdrb-vj96). His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. Check out what he's doing now at [GitHub user page](http://github.com/sridge).
 
