@@ -9,7 +9,7 @@ Climate is changing due to human emissions of carbon to the atmosphere. But not 
 
 The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass fluid dynamics, climate processes, biogeochemistry and ecology.  Our primary research tools are numerical models and large historical datasets. 
 
-Currently, our primary research thrusts are (1) understanding the external drivers responsible for the bulk of recent decadal variability in the global ocean carbon sink, (2) combining observations and climate models using modern data science approaches to improve spatial mapping of air-sea CO2 fluxes, (3) understanding the mechanisms of anthropogenic carbon uptake in the North Atlantic, (4) assessing how the ocean carbon sink will respond to future changes in emissions, and (5) developing an improved regional coupled physical-biogeochemical model of the Atlantic-Arctic system. 
+Currently, our primary research thrusts are (1) understanding the external and internal drivers of recent decadal variability in the global ocean carbon sink, (2) using machine learning to map air-sea CO2 fluxes over the last 60+ years, (3) assessing how the ocean carbon sink will respond to mitigation of anthropogenic CO2 emissions, and (4) using a regional coupled physical-biogeochemical model of the Atlantic-Arctic system to assess mechanisms of ocean oxygen and carbon cycling. 
 
 Here's the group in February 2020
 
@@ -18,7 +18,7 @@ Here's the group in February 2020
 Sean Ridge, Amanda Fay, Galen McKinley, Luke Gloege, Lauren Moseley
 
 #### Previous Work  
-Please see our [Publications]({{site.baseurl}}/publications) for previous work.
+Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
 
 
 
