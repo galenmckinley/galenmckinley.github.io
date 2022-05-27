@@ -8,8 +8,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1)
-
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
 Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510196.1) 
@@ -17,6 +15,8 @@ Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea
 Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability in the global ocean carbon sink: 1959-2020, GRL, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510815.1) 
  
 ### Publications
+
+Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1) (69)
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736. [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
 
