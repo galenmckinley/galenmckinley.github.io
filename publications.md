@@ -16,9 +16,9 @@ Bennington, V.S., L. Gloege, and  G.A. McKinley. Observation-based variability i
  
 ### Publications
 
-Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10507917.1) (69)
+Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, 36, e2021GB007174, [doi:10.1029/2021GB007174](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007174) (69)
 
-Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736. [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736, [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) Access the [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
 
