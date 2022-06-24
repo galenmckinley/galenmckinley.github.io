@@ -16,9 +16,9 @@ Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.
  
 ### Publications
 
-Bennington, V.S., L. Gloege, and  G.A. McKinley. Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510815.1) (70)
+Bennington, V.S., L. Gloege, and  G.A. McKinley (2022) Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510815.1) (70)
 
-Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, 36, e2021GB007174, [doi:10.1029/2021GB007174](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007174) (69)
+Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro (2022) Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, 36, e2021GB007174, [doi:10.1029/2021GB007174](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007174) (69)
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736, [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
 Summary of this paper in [AGU EOS](https://eos.org/editors-vox/mysteries-of-the-global-carbon-cycle)
