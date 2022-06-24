@@ -21,8 +21,7 @@ Bennington, V.S., L. Gloege, and  G.A. McKinley. Variability in the global ocean
 Olivarez, H., N.S. Lovenduski, R. Brady, A.R. Fay, M. Gehlen, L. Gregor, P. Landschützer, G.A. McKinley, K. McKinnon, and D. Munro.  Alternate histories: Synthetic large ensembles of sea-air CO2 flux, Global Biogeochem. Cycles, 36, e2021GB007174, [doi:10.1029/2021GB007174](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007174) (69)
 
 Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston, V. Aich (2022) How well do we understand the land-ocean-atmosphere carbon cycle? Reviews of Geophysics, 60, e2021RG000736, [doi:10.1029/2021RG000736](https://doi.org/10.1029/2021RG000736) (68)
-
-Summary in [AGU EOS](https://eos.org/editors-vox/mysteries-of-the-global-carbon-cycle)
+Summary of this paper in [AGU EOS](https://eos.org/editors-vox/mysteries-of-the-global-carbon-cycle)
 
 Gloege, L., M. Yan,  T. Zheng and G.A. McKinley (2022) Improved quantification of ocean carbon uptake by using machine learning to merge global models and pCO2 data, JAMES, [doi:10.1029/2021MS002620](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620) Access the [LDEO HPD data product on Zenodo](https://zenodo.org/record/4760205) (67)
 
@@ -45,7 +44,6 @@ Diffenbaugh, N.S., C.B. Field, E. Appel, I. Azevedo, D. Baldocchi, M. Burke, J. 
 Ridge, S.M. and G.A. McKinley (2020) Advective controls on the North Atlantic anthropogenic carbon sink, Global Biogeochem. Cycles [doi:10.1029/2019GB006457](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GB006457). (58)
 
 McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) External forcing explains recent decadal variability of the ocean carbon sink, AGU Advances [doi: 10.1029/2019AV000149](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019AV000149). (57)
-
 Press coverage: [AGU EOS](https://eos.org/editor-highlights/eruption-and-emissions-take-credit-for-ocean-carbon-sink-changes),
 [Nature Climate Change](https://www.nature.com/articles/s41558-020-0842-9),
 [Bloomberg](https://www.bloomberg.com/news/articles/2020-06-05/covid-19-affects-how-much-co-the-oceans-absorb-slowing-warming),
