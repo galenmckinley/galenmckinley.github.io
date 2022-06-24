@@ -182,6 +182,11 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 G.A. McKinley and V.S. Bennington. Modern flux distributions constrain the future ocean carbon sink, in prep. 
 
+Wong, S., R. Seager, G.A. McKinley. Evaluation of equatorial Pacific ENSO carbon dynamics in CMIP6, in prep. 
+
+Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep. 
+
+
 ### Thesis 
 
 McKinley, G.A. (2002) Interannual variability in air-sea fluxes of carbon dioxide and oxygen, MIT PhD. [Download PDF]({{site.baseurl}}/assets/doc/mckinley-phd02.pdf)
