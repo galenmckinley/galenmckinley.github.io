@@ -36,16 +36,13 @@ Thea is a postdoctoral research scientist in the McKinley group. Her main resear
 
 Lauren is a fifth year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
 
-
-
-Julia Simpson will join the group as a PhD student in fall 2022. 
-
-
 ### Note to Prospective Students from Professor McKinley
 
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are the best introductions to our scientific questions and our research tools. Please check these out and then contact me with you questions.
 
 ### SOON TO JOIN THE GROUP
+
+Julia Simpson will join the group as a PhD student in fall 2022. 
 
 
 ### Former group members at Columbia / LDEO
