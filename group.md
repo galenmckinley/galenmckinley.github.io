@@ -11,7 +11,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory, and Deputy Director of [LEAP](https://leap.columbia.edu) (Learning the Earth with Artificial Intelligence and Physics, a 2021-2026 NSF STC). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
-Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-May2022.pdf).
+Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-Sept2022.pdf).
 
 The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
