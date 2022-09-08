@@ -9,9 +9,9 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg){:height="40%" width="40%"} 
 
-Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory, and  Deputy Director of [LEAP](https://leap.columbia.edu) (Learning the Earth with Artificial Intelligence and Physics, a 2021-2026 NSF STC). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
+Dr. Galen McKinley is Professor of Earth and Environmental Sciences at Columbia University and Lamont Doherty Earth Observatory, and Deputy Director of [LEAP](https://leap.columbia.edu) (Learning the Earth with Artificial Intelligence and Physics, a 2021-2026 NSF STC). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
-Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT in 2002, and her BS in Civil Engineering from Rice University in 1995. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-May2022.pdf).
+Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-May2022.pdf).
 
 The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
@@ -23,21 +23,29 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
 
 
+### THEA HATLEN HEIMDAL 
+
+![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="42%" width="42%"} 
+
+Thea is a postdoctoral research scientist in the McKinley group. Her main research focus is improving current estimates of global air-sea CO2 fluxes by combining observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
+
+
 ### LAUREN MOSELEY 
 
 ![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/LaurenMoseley2018.jpg){:height="42%" width="42%"} 
 
-Lauren is a fourth year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
+Lauren is a fifth year PhD student. She is using ocean models to better understand carbon and oxygen uptake and transport mechanisms in the North Atlantic. She received her BA in Chemistry and Arabic Studies from Williams College in 2016. 
+
+
+
+Julia Simpson will join the group as a PhD student in fall 2022. 
+
 
 ### Note to Prospective Students from Professor McKinley
 
 I am glad to discuss graduate school opportunities with students interested in using quantitative methods to learn about ocean physical and biogeochemical processes, and the resulting impacts on the global carbon cycle. Reading this website and checking out some of our publications are the best introductions to our scientific questions and our research tools. Please check these out and then contact me with you questions.
 
 ### SOON TO JOIN THE GROUP
-
-Dr. Thea Hatlen Heimdal, now at University of Oslo, will join the group as a postdoctoral scholar in summer 2022. 
-
-Julia Simpson will join the group as a PhD student in fall 2022. 
 
 
 ### Former group members at Columbia / LDEO
