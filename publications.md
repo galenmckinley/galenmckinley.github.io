@@ -14,7 +14,7 @@ Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea
 
 Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller. Recent trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in review.  
  
-Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review.
+Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10511826.1)
  
 ### Publications
 
