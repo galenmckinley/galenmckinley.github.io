@@ -10,13 +10,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
-Bennington, V.S., T. Galjanic, and  G.A. McKinley. Estimating historical air-sea CO2 fluxes: Incorporating physical knowledge within a data-only approach, JAMES, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510196.1) 
-
 Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller. Recent trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in review.  
  
 Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10511826.1)
  
 ### Publications
+
+Bennington, V.S., T. Galjanic, and  G.A. McKinley. Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES, in press. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10510196.1). (71)
 
 Bennington, V.S., L. Gloege, and  G.A. McKinley (2022) Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. e2022GL098632, [doi:10.1029/2022GL098632](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098632). (70)
 
