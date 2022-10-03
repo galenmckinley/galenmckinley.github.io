@@ -16,7 +16,7 @@ Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivare
  
 ### Publications
 
-Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES, [in press](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
+Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES e2021MS002960, [doi:10.1029/2021MS002960](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
 
 Bennington, V.S., L. Gloege, and  G.A. McKinley (2022) Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. e2022GL098632, [doi:10.1029/2022GL098632](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098632). (70)
 
