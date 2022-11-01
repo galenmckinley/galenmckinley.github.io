@@ -8,12 +8,14 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d’Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
+Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
 Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller. Recent trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in review.  
  
 Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10511826.1)
- 
+
+Wong, S., R. Seager, G.A. McKinley. Equatorial Pacific pCO2 Interannual Variability in CMIP6 Models, submitted to JGR.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10512730.1)
+
 ### Publications
 
 Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES e2021MS002960, [doi:10.1029/2021MS002960](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
@@ -185,8 +187,6 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 ### Papers in Preparation
 
 G.A. McKinley and V.S. Bennington. Modern flux distributions constrain the future ocean carbon sink, in prep. 
-
-Wong, S., R. Seager, G.A. McKinley. Evaluation of equatorial Pacific ENSO carbon dynamics in CMIP6, in prep. 
 
 Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep. 
 
