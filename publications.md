@@ -14,10 +14,10 @@ Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivare
 
 ### Publications
 
-Wong, S., R. Seager, G.A. McKinley (2022) Equatorial Pacific pCO2 Interannual Variability in CMIP6 Models, JGR in press.  [Read it on ESSOArchive](https://www.essoar.org/doi/abs/10.1002/essoar.10512730.1) (73)
+Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2023) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in press.  (73)
 
-Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2022) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in press.  (72)
- 
+Wong, S., G.A. McKinley, and R. Seager (2022) Equatorial Pacific pCO2 Interannual Variability in CMIP6 Models, JGR [doi:10.1029/2022JG007243](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JG007243) (72)
+
  Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES e2021MS002960, [doi:10.1029/2021MS002960](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
 
 Bennington, V.S., L. Gloege, and  G.A. McKinley (2022) Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. e2022GL098632, [doi:10.1029/2022GL098632](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098632). (70)
