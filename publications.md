@@ -12,7 +12,7 @@ Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, 
 
 Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in press. [Read it on ESSOArchive](https://essopenarchive.org/doi/full/10.1002/essoar.10511826.1)
 
-McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett, in review. 
+McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett, in review. [Read it on ESSOArchive](https://www.authorea.com/users/524017/articles/620409-modern-air-sea-flux-distributions-reduce-uncertainty-in-the-future-ocean-carbon-sink)
 
 ### Publications
 
