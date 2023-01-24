@@ -10,7 +10,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
-Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://essopenarchive.org/doi/full/10.1002/essoar.10511826.1)
+Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in press. [Read it on ESSOArchive](https://essopenarchive.org/doi/full/10.1002/essoar.10511826.1)
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett, in review. 
 
