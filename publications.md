@@ -12,9 +12,11 @@ Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, 
 
 Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in review. [Read it on ESSOArchive](https://essopenarchive.org/doi/full/10.1002/essoar.10511826.1)
 
+McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett, in review. 
+
 ### Publications
 
-Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2023) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment, in press.  (73)
+Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2023) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment [doi:10.1038/s43017-022-00381-x](https://www.nature.com/articles/s43017-022-00381-x) (73)
 
 Wong, S., G.A. McKinley, and R. Seager (2022) Equatorial Pacific pCO2 Interannual Variability in CMIP6 Models, JGR [doi:10.1029/2022JG007243](https://academiccommons.columbia.edu/doi/10.7916/b30q-be39) (72)
 
@@ -185,8 +187,6 @@ Mooney, M. E., Ackerman, S., Mckinley, G. A., Whittaker, T. and Jasmin, T. (2012
 McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Preliminary Carbon Budgets for the Laurentian Great Lakes, OCB News 4 [Download PDF](http://web.whoi.edu/ocb/wp-content/uploads/sites/43/2016/12/OCB_NEWS_SPR_SUM11.pdf)
 
 ### Papers in Preparation
-
-G.A. McKinley and V.S. Bennington. Modern flux distributions constrain the future ocean carbon sink, in prep. 
 
 Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep. 
 
