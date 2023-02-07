@@ -10,11 +10,11 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
-Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi. Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles, in press. [Read it on ESSOArchive](https://essopenarchive.org/doi/full/10.1002/essoar.10511826.1)
-
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett, in review. [Read it on ESSOArchive](https://www.authorea.com/users/524017/articles/620409-modern-air-sea-flux-distributions-reduce-uncertainty-in-the-future-ocean-carbon-sink)
 
 ### Publications
+
+Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi (2023) Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles [doi: 10.1029/2022GB007513](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GB007513)(74)
 
 Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2023) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment [doi:10.1038/s43017-022-00381-x](https://www.nature.com/articles/s43017-022-00381-x) (73)
 
