@@ -14,7 +14,7 @@ McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls. Modern air-sea
 
 ### Publications
 
-Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi (2023) Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles [doi: 10.1029/2022GB007513](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GB007513)(74)
+Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi (2023) Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles [doi: 10.1029/2022GB007513](https://doi.org/10.7916/ejw7-k934)(74)
 
 Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.A. McKinley and J.D. Muller (2023) Trends and variability in the ocean carbon sink, Nature Reviews Earth and Environment [doi:10.1038/s43017-022-00381-x](https://www.nature.com/articles/s43017-022-00381-x) (73)
 
