@@ -12,7 +12,7 @@ Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, 
 
 ### Publications
 
-McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://iopscience.iop.org/article/10.1088/1748-9326/acc195). (75)
+McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
 
 Fay, A., G.A. McKinley, N. Lovenduski, Y. Eddebbar, M. Levy, M. Long, H. Olivarez and R. Rustagi (2023) Immediate and long-lasting impacts of the Mt. Pinatubo eruption on ocean oxygen and carbon inventories, Global Biogeochem. Cycles [doi: 10.1029/2022GB007513](https://doi.org/10.7916/ejw7-k934). (74)
 
