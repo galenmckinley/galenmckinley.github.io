@@ -36,11 +36,6 @@ Thea is a postdoctoral research scientist in the McKinley group. Her main resear
 
 Lauren is a fifth year PhD student at Columbia. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
 
-### JULIA SIMPSON
-
-![Photo of Julia Simpson 2022]({{site.baseurl}}/assets/img/JuliaSimpson_2022.jpeg){:height="42%" width="42%"} 
-
-Julia is a first-year PhD student in the McKinley group. Her research is conducted through the Learning the Earth through Artificial Intelligence and Physics (LEAP) center, where she utilizes machine learning to study ocean carbon uptake representations in Earth System Models, with a focus on uncertainty quantification. Julia received a Bachelor of Science in Chemical Engineering from Washington University in St. Louis and worked in environmental engineering consulting before joining the McKinley group in 2022.
 
 ### Note to Prospective Students from Professor McKinley
 
