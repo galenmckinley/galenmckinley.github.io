@@ -10,6 +10,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
+Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry?, Geophys. Res. Lett., in review. 
+
 ### Publications
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
@@ -190,6 +192,7 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep. 
 
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean surface flux-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, in prep. 
 
 ### Thesis 
 
