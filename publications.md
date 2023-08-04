@@ -10,7 +10,9 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
 
-Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry?, Geophys. Res. Lett., in review. 
+Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
+
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
 ### Publications
 
@@ -190,9 +192,7 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 
 ### Papers in Preparation
 
-Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep. 
-
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean surface flux-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, in prep. 
+Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep.  
 
 ### Thesis 
 
