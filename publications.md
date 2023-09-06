@@ -8,8 +8,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Ciais, P., S. Davis, S. Saatchi, Z. Deng, B. Poulter, F. Chevallier, G. Grassi, Z. Liu, R. L. Thompson, G.A. McKinley, N. Gruber, J.P. Wigneron, P. Gentine, A. d'Aspremont, T. Lauvaux, C. Albergel and D. Crisp. Towards near-real-time estimates of greenhouse gas budgets, Nature, in review.
-
 Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
 
 Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
@@ -24,7 +22,7 @@ Gruber, N., D.C.E. Bakker, T. DeVries, L. Gregor, J. Hauck, P. Landschützer, G.
 
 Wong, S., G.A. McKinley, and R. Seager (2022) Equatorial Pacific pCO2 Interannual Variability in CMIP6 Models, JGR [doi:10.1029/2022JG007243](https://academiccommons.columbia.edu/doi/10.7916/b30q-be39). (72)
 
- Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES e2021MS002960, [doi:10.1029/2021MS002960](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
+Bennington, V.S., T. Galjanic, and  G.A. McKinley (2022) Explicit physical knowledge in machine learning for ocean carbon flux reconstruction: The pCO2-Residual method, JAMES e2021MS002960, [doi:10.1029/2021MS002960](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002960). (71)
 
 Bennington, V.S., L. Gloege, and  G.A. McKinley (2022) Variability in the global ocean carbon sink from 1959-2020 by correcting models with observations, Geophys. Res. Lett. e2022GL098632, [doi:10.1029/2022GL098632](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098632). (70)
 
@@ -57,7 +55,7 @@ McKinley, G.A., A.R. Fay, Y. Eddebbar, L. Gloege and N. Lovenduski (2020) Extern
 Press coverage: [AGU EOS](https://eos.org/editor-highlights/eruption-and-emissions-take-credit-for-ocean-carbon-sink-changes),
 [Nature Climate Change](https://www.nature.com/articles/s41558-020-0842-9),
 [Bloomberg](https://www.bloomberg.com/news/articles/2020-06-05/covid-19-affects-how-much-co-the-oceans-absorb-slowing-warming),
-[Inside Science](https://www.insidescience.org/news/eruptions-and-emissions-can-rapidly-alter-oceans-ability-absorb-carbon?utm_campaign=11660610_Eruptions%20and%20Emissions%20Can%20Rapidly%20Alter%20the%20Ocean%27s%20Ability%20to%20Absorb%20Carbon&utm_medium=email&utm_source=Inside%20Science&dm_t=0,0,0,0,0) 
+[Inside Science](https://www.insidescience.org/news/eruptions-and-emissions-can-rapidly-alter-oceans-ability-absorb-carbon) 
 
 Gloege, L., G.A. McKinley, R. Mooney, J.D. Allan, M.W. Diebel and P.B. McIntyre (2020) Lake hydrodynamics intensify the potential impact of watershed pollutants on coastal ecosystem services, Envi. Res. Lett. [doi:10.1088/1748-9326/ab7f62](https://iopscience.iop.org/article/10.1088/1748-9326/ab7f62). (56)
 
