@@ -12,6 +12,8 @@ Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M.
 
 Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
+Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, Biogeosciences, submitted.
+
 ### Publications
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
@@ -191,6 +193,8 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 ### Papers in Preparation
 
 Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep.  
+
+Wong, S.C.W., G.A. McKinley, and R. Seager. Six decades of variability in the ocean carbon sink, in prep. 
 
 ### Thesis 
 
