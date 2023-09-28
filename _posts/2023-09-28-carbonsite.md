@@ -1,7 +1,7 @@
 ---
 title: Revised Carbon Cycle Websites
 category: education
-excerpt: Revised Carbon Cycle Websites
+excerpt: Updated Carbon Sites! 
 feature_text: <h1 style="color:Black"> Updated Carbon Sites! </h1>
 image: http://galenmckinley.github.io/assets/img/Redbudforwebsite.jpg
 tags: 
