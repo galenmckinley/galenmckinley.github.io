@@ -51,6 +51,28 @@ Val Bennington was a postdoctoral scholar in the McKinley group in 2020-2022, du
 
 Sean Ridge received his [PhD in May 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-bdrb-vj96). His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. He is now a Senior Data Scientist at [Sunairio](https://www.sunairio.com).
 
-Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-j3p1-tf92).  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. Luke is now a postdoc at NASA GISS [Check out his webpage](https://lgloege.github.io)
+Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-j3p1-tf92).  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. [Check out his webpage](https://lgloege.github.io)
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
+
+### Former group members at University of Wisconsin - Madison
+
+# Graduate Students
+Collin Tuttle (MS AOS 2018)
+Sean Ridge (MS AOS 2017)
+Lucas Gloege (MS AOS 2017)
+Darren Pilcher (PhD AOS 2015)
+Haidi Chen (PhD AOS 2015)
+Alexis Ritzer (MS AOS 2014)
+Jennifer Phillips (MS Envi. & Resources 2012)
+Jesse Roberts (MS AOS 2012)
+Amanda Fay (MS AOS 2010) 
+Valerie Bennington (PhD AOS 2010)
+David Ullman (MS AOS 2008, PhD Geoscience 2013)
+
+# Undergraduates
+Gabriela Negrete (BS Chemistry 2017)
+James Kralj (BS Microbiology 2015)
+Melissa Breeden (BS AOS 2013, PhD AOS 2018)
+Victoria Vasys (BS AOS 2010)
+Jennifer Koch (BS AOS 2008)
