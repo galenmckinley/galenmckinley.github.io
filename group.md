@@ -36,6 +36,9 @@ Thea is a postdoctoral research scientist in the McKinley group. Her main resear
 
 Lauren is a fifth year PhD student at Columbia. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
 
+### McKinley Group Professional Guidelines
+
+These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2023.pdf) explains how we work together in the McKinley group. 
 
 ### Note to Prospective Students from Professor McKinley
 
