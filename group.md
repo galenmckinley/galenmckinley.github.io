@@ -55,24 +55,26 @@ Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.ed
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
 
-### Former group members at University of Wisconsin - Madison
+### Former group members at U. Wisconsin - Madison
 
-# Graduate Students
-Collin Tuttle (MS AOS 2018)
-Sean Ridge (MS AOS 2017)
-Lucas Gloege (MS AOS 2017)
-Darren Pilcher (PhD AOS 2015)
-Haidi Chen (PhD AOS 2015)
-Alexis Ritzer (MS AOS 2014)
-Jennifer Phillips (MS Envi. & Resources 2012)
-Jesse Roberts (MS AOS 2012)
-Amanda Fay (MS AOS 2010) 
-Valerie Bennington (PhD AOS 2010)
-David Ullman (MS AOS 2008, PhD Geoscience 2013)
+# Graduate Students 
+
+Collin Tuttle (MS AOS 2018)<br />
+Sean Ridge (MS AOS 2017)<br />
+Lucas Gloege (MS AOS 2017) <br />
+Darren Pilcher (PhD AOS 2015) <br />
+Haidi Chen (PhD AOS 2015) <br />
+Alexis Ritzer (MS AOS 2014) <br />
+Jennifer Phillips (MS Envi. & Resources 2012) <br />
+Jesse Roberts (MS AOS 2012) <br />
+Amanda Fay (MS AOS 2010)  <br />
+Valerie Bennington (PhD AOS 2010) <br />
+David Ullman (MS AOS 2008, PhD Geoscience 2013) <br />
 
 # Undergraduates
-Gabriela Negrete (BS Chemistry 2017)
-James Kralj (BS Microbiology 2015)
-Melissa Breeden (BS AOS 2013, PhD AOS 2018)
-Victoria Vasys (BS AOS 2010)
-Jennifer Koch (BS AOS 2008)
+
+Gabriela Negrete (BS Chemistry 2017) <br />
+James Kralj (BS Microbiology 2015) <br />
+Melissa Breeden (BS AOS 2013, PhD AOS 2018) <br />
+Victoria Vasys (BS AOS 2010) <br />
+Jennifer Koch (BS AOS 2008) <br />
