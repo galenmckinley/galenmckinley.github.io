@@ -38,7 +38,7 @@ Lauren is a sixth year PhD student at Columbia. She is combining ocean models wi
 
 ### McKinley Group Professional Guidelines
 
-These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2023.pdf) explains how we work together in the McKinley group. 
+These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2023.pdf) explain how we work together in the McKinley group. 
 
 ### Note to Prospective Students from Professor McKinley
 
