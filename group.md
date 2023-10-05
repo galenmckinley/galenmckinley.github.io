@@ -57,7 +57,7 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 
 ### Former group members at U. Wisconsin - Madison
 
-# Graduate Students 
+####  Graduate Students 
 
 Collin Tuttle (MS AOS 2018)<br />
 Sean Ridge (MS AOS 2017)<br />
@@ -71,7 +71,7 @@ Amanda Fay (MS AOS 2010)  <br />
 Valerie Bennington (PhD AOS 2010) <br />
 David Ullman (MS AOS 2008, PhD Geoscience 2013) <br />
 
-# Undergraduates
+####  Undergraduates
 
 Gabriela Negrete (BS Chemistry 2017) <br />
 James Kralj (BS Microbiology 2015) <br />
