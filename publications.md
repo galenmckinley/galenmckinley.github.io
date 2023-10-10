@@ -8,11 +8,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy, M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
+Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
 
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney, G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
-Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, Biogeosciences, submitted.
+Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences Discussions](https://bg.copernicus.org/preprints/bg-2023-160/) 
+
+Friedlingstein, P. et al. (2023) Global Carbon Budget 2023, ESSD in review.
 
 ### Publications
 
