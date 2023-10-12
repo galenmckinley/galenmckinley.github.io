@@ -10,4 +10,4 @@ comments: true
 
 We have just wrapped up our annual joint group meeting with the group of [Nikki Lovenduski from University of Colorado Boulder](https://www.colorado.edu/instaar/research/labs-groups/ocean-biogeochemistry-research-group). We spent two days at LDEO and in NYC catching up on all our research on ocean carbon and biogeochemistry using data and models. Can't wait to do it again in 2024!
 
-[Lovenduksi and McKinley groups in the LDEO garden, October 2023]({{site.baseurl}}/assets/img/LovenduskiMcKinley_LDEO_Oct2023sm.jpeg){:height="70%" width="70%"} 
+[Lovenduksi and McKinley groups in the LDEO garden, October 2023]({{site.baseurl}}/assets/img/LovenduskiMcKinley_LDEO_Oct2023sm.jpg){:height="70%" width="70%"} 
