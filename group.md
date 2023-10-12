@@ -59,8 +59,8 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 
 GRADUATE STUDENTS <br />
 Collin Tuttle (MS AOS 2018)<br />
-Sean Ridge (MS AOS 2017)<br />
-Lucas Gloege (MS AOS 2017) <br />
+Sean Ridge (MS AOS 2017, PhD Columbia 2020)<br />
+Lucas Gloege (MS AOS 2017, PhD Columbia 2020) <br />
 Darren Pilcher (PhD AOS 2015) <br />
 Haidi Chen (PhD AOS 2015) <br />
 Alexis Ritzer (MS AOS 2014) <br />
