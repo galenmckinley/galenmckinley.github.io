@@ -12,9 +12,9 @@ Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and
 
 Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
-Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences Discussions](https://bg.copernicus.org/preprints/bg-2023-160/) 
+Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
 
-Friedlingstein, P. et al. (2023) Global Carbon Budget 2023, ESSD in review.
+Friedlingstein, P. et al. (2023) Global Carbon Budget 2023, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-409/).
 
 ### Publications
 
