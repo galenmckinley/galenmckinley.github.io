@@ -11,11 +11,11 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 
 Currently, our primary research thrusts are (1) understanding the external and internal drivers of recent decadal variability in the global ocean carbon sink, (2) using machine learning to map air-sea CO2 fluxes over the last 60+ years, (3) assessing how the ocean carbon sink will respond to mitigation of anthropogenic CO2 emissions, and (4) using a regional coupled physical-biogeochemical model of the Atlantic-Arctic system to assess mechanisms of ocean oxygen and carbon cycling. 
 
-Here's the group in February 2023
+Here's the group in October 2023
 
-![McKinley Group Feb 2023]({{site.baseurl}}/assets/img/McKinleyGroup_Feb2023.jpg){:height="80%" width="80%"}
+![McKinley Group Feb 2023]({{site.baseurl}}/assets/img/mckinleygroup_oct2023.jpg){:height="80%" width="80%"}
 
-Lauren Moseley, Suki Wong, Galen McKinley, Amanda Fay, Julia Simpson, Thea Heimdal
+Abby Shaum, Thea Hatlen Heimdal, Galen McKinley, Lauren Moseley, Amanda Fay, Viviana Acquaviva, Suki Wong
 
 #### Previous Work  
 Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
