@@ -71,7 +71,7 @@ Valerie Bennington (PhD AOS 2010) <br />
 David Ullman (MS AOS 2008, PhD Geoscience 2013) <br />
 
 UNDERGRADUATE STUDENTS <br />
-Gabriela Negrete (BS Chemistry 2017) <br />
+Gabriela Negrete Garcia (BS Chemistry 2017, PhD Scripps/UCSD 2023) <br />
 James Kralj (BS Microbiology 2015) <br />
 Melissa Breeden (BS AOS 2013, PhD AOS 2018) <br />
 Victoria Vasys (BS AOS 2010) <br />
