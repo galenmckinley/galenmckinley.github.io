@@ -1,8 +1,8 @@
 ---
 title: Annual Meeting with Lovenduski Group
 category: research
-excerpt: Just wrapped a great meeting with Nikki Lovenduski's group
-feature_text: <h1 style="color:Black"> Great Meeting! </h1>
+excerpt: Just wrapped up a great meeting with Nikki Lovenduski's group
+feature_text: <h1 style="color:Black"> Thanks for a Great Meeting! </h1>
 image: http://galenmckinley.github.io/assets/img/Redbudforwebsite.jpg
 tags: 
 comments: true
