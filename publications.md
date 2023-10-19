@@ -16,6 +16,8 @@ Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assess
 
 Friedlingstein, P. et al. (2023) Global Carbon Budget 2023, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-409/).
 
+Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2023) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, submitted to ESSD.
+
 ### Publications
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
