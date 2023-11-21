@@ -15,7 +15,7 @@ Here's the group in October 2023
 
 ![McKinley Group Feb 2023]({{site.baseurl}}/assets/img/mckinleygroup_oct2023.jpg){:height="80%" width="80%"}
 
-Abby Shaum, Thea Hatlen Heimdal, Galen McKinley, Lauren Moseley, Amanda Fay, Viviana Acquaviva, Suki Wong
+Suki Wong, Viviana Acquaviva, Abby Shaum, Thea Hatlen Heimdal, Galen McKinley, Lauren Moseley, Amanda Fay 
 
 #### Previous Work  
 Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
