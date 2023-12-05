@@ -19,7 +19,7 @@ Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, a
 
 ### Publications
 
-Friedlingstein, P., ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, ESSD[doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/). (76) [Summary of key messages](https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2023/)
+Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, Earth Sys. Sci. Data  [doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/). (76) [Summary of key messages](https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2023/)
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
 
