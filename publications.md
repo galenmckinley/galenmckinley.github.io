@@ -10,7 +10,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
 
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks. Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2023) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
 Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
 
