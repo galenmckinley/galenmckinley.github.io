@@ -14,12 +14,12 @@ Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks. Ocean-driven int
 
 Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
 
-Friedlingstein, P. et al. (2023) Global Carbon Budget 2023, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-409/).
-
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2023) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-429/). 
 
 
 ### Publications
+
+Friedlingstein, P., ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, ESSD[doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/). (76) [Summary of key messages](https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2023/)
 
 McKinley, G.A., V.S. Bennington, M. Meinshausen, and Z. Nicholls (2023) Modern air-sea flux distributions reduce uncertainty in the future ocean carbon sink, Envi. Res. Lett [doi:10.1088/1748-9326/acc195](https://doi.org/10.1088/1748-9326/acc195). (75)
 
