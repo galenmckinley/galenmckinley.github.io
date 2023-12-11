@@ -1,7 +1,7 @@
 ---
 title: Global Carbon Budget 2023
 category: research
-excerpt: GCB2023 published
+excerpt: GCB2023 released and animated!
 feature_text: <h1 style="color:Black"> Latest carbon budget! </h1>
 image: http://galenmckinley.github.io/assets/img/akegeraclouds23.jpg
 tags: 
