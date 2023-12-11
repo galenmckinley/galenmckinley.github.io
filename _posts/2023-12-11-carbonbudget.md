@@ -12,7 +12,7 @@ We are happy to share the news that the [Global Carbon Budget 2023](https://essd
 
 The McKinley group's LDEO-HPD observation-based product is included for estimates for the ocean carbon sink from 1959-2022. 
 
-Below is an animation for the cumulative carbon budget for 1850-2022. 
+Below is an animation for the cumulative carbon budget for 1850-2022. Thanks to Marit Marit Jentoft-Nilsen of NASA for sharing the code to make this animation! 
 
 ![GCB 2023 cumulative budget ]({{site.baseurl}}/assets/img/historical_carbon_budget_bar_chart_2023.mp4){:height="85%" width="85%"} 
 
