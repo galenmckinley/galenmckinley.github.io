@@ -2,7 +2,7 @@
 title: Global Carbon Budget 2023
 category: research
 excerpt: GCB2023 released and animated!
-feature_text: <h1 style="color:Black"> Latest carbon budget! </h1>
+feature_text: <h1 style="color:Black"> Global Carbon Budget 2023 </h1>
 image: http://galenmckinley.github.io/assets/img/akegeraclouds23.jpg
 tags: 
 comments: true
@@ -14,6 +14,6 @@ The McKinley group's LDEO-HPD observation-based product is included for estimate
 
 Below is an animation for the cumulative carbon budget for 1850-2022. 
 
-![GCB 2023 cumulative budget ]({{site.baseurl}}/assets/img/historical_carbon_budget_bar_chart_2023.mp4){:height="70%" width="70%"} 
+![GCB 2023 cumulative budget ]({{site.baseurl}}/assets/img/historical_carbon_budget_bar_chart_2023.mp4){:height="85%" width="85%"} 
 
 For more on the global carbon cycle, please see our recently-updated [Carbon Cycle explainer site](https://galenmckinley.github.io/CarbonCycle/). 
