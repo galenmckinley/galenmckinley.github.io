@@ -8,16 +8,16 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2023) Geophys. Res. Lett. [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). 
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2024) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
 
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2023) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
+Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2024) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences Discussions / Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
 
-Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
-
-Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2023) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-429/). 
+Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-429/). 
 
 
 ### Publications
+
+Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2024) Geophys. Res. Lett. in press [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). (77)
 
 Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, Earth Sys. Sci. Data  [doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/). (76) [Summary of key messages](https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2023/)
 
