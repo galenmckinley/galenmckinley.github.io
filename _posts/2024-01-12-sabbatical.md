@@ -8,7 +8,7 @@ tags:
 comments: true
 ---
 
-Professor McKinley is on sabbatical at ETH-Zurich for January to May 2024. She is working on writing a book and on ocean carbon projects with various members of the [Environmental Physics group, led by Niki Gruber](https://up.ethz.ch).  She is also a senior fellow in the [Collegium Helveticum](https://collegium.ethz.ch). 
+Professor McKinley is on sabbatical at ETH-Zurich for January to May 2024. She is working on writing a book and on ocean carbon research with the [Environmental Physics group, led by Niki Gruber](https://up.ethz.ch).  She is also a senior fellow in the [Collegium Helveticum](https://collegium.ethz.ch). 
 
 Thanks everyone in the group and the Collegium for your warm welcome!
 
