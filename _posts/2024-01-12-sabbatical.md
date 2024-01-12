@@ -12,6 +12,6 @@ Professor McKinley is on sabbatical at ETH-Zurich for January to May 2024. She i
 
 Thanks everyone in the group and the Collegium for your warm welcome!
 
-Here's a photo from gray winter day in the first week. 
+Here's a photo from a gray winter day in the first week. 
 
 ![Galen McKinley at ETH-Zurich, January 2024]({{site.baseurl}}/assets/img/Galenzurichgray.jpg){:height="70%" width="70%"} 
