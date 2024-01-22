@@ -17,7 +17,7 @@ Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, a
 
 ### Publications
 
-Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2024) Geophys. Res. Lett. in press [on Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168987148.86170193). (77)
+Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2024) Geophys. Res. Lett.  [doi:10.1029/2023GL105431](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105431). (77)
 
 Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, Earth Sys. Sci. Data  [doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/). (76) [Summary of key messages](https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2023/)
 
