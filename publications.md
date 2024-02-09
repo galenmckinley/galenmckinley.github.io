@@ -8,14 +8,15 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2024) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in review.
-
 Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, and L. Gloege (2024) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, [Biogeosciences Discussions / Biogeosciences in review](https://bg.copernicus.org/preprints/bg-2023-160/) 
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, [ESSD in review](https://essd.copernicus.org/preprints/essd-2023-429/). 
 
+Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., submitted
 
 ### Publications
+
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2024) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in press. (78)
 
 Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2024) Geophys. Res. Lett.  [doi:10.1029/2023GL105431](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105431). (77)
 
