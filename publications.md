@@ -182,7 +182,17 @@ Battle, M., M. Bender, M.B. Hendricks, D.T. Ho, R. Mika, G.A. McKinley, S. Fan, 
 
 McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of the air-sea flux of oxygen in the North Atlantic. Geophys. Res. Let., 27(18), [2933-2936](http://onlinelibrary.wiley.com/doi/10.1029/2000GL011492/abstract). (1)
 
-### Non-peer reviewed
+### Other products and publications
+
+Carroll, D., D. Menemenlis, Z. Hong, M. Mazloff, G.A. McKinley, A.R. Fay, S. Dutkiewicz, J. Lauderdale and I. Fenty (2024). Evaluation of the ECCO-Darwin Ocean Biogeochemistry State Estimate vs. In-situ Observations (ver 1.0). Zenodo. [https://doi.org/10.5281/zenodo.10627664](https://doi.org/10.5281/zenodo.10627664)
+
+Crisp, D., H. Dolman, T. Tanhua, G.A. McKinley, J. Hauck, A. Bastos, S. Sitch, S. Eggleston and V. Aich (2022) Mysteries of the global carbon cycle, Eos, 103, [https://doi.org/10.1029/2022EO225018](https://doi.org/10.1029/2022EO225018)
+
+Aricò, S., Arrieta, J. M., Bakker, D. C. E., Boyd, P. W., Cotrim da Cunha, L., Chai, F., Dai, M., Gruber, N., Isensee, K., Ishii, M., Jiao, N., Lauvset, S. K., McKinley, G. A., Monteiro, P., Robinson, C., Sabine, C., Sanders, R., Schoo, K. L., Schuster, U., Shutler, J. D., Thomas, H., Wanninkhof, R., Watson, A. J., Bopp, L., Boss, E., Bracco, A., Cai, W., Fay, A., Feely, R. A., Gregor, L., Hauck, J., Heinze, C., Henson, S., Hwang, J., Post, J., Suntharalingam, P., Telszewski, M., Tilbrook, B., Valsala, V. and Rojas Aldana, A. (2021) Integrated Ocean Carbon Research: A Summary of Ocean Carbon Research, and Vision of Coordinated Ocean Carbon Research and Observations for the Next Decade. R. Wanninkhof, C. Sabine and S. Aricò (eds.). Paris, UNESCO. 46 pp. (IOC Technical Series, 158.) [https://doi:10.25607/h0gj-pq41](https://doi:10.25607/h0gj-pq41)
+
+Bingham, F., L. Juranek, M. Mazloff, G.A. McKinley, N. Nelson, S. Wijffels (2019) Review of US GO-SHIP (Global Oceans Ship-Based Hydrographic Investigators Program) An OCB and US CLIVAR Report. Report 2019 (OCB) and 2019-6 (US CLIVAR).112pp. [https://doi:10.1575/1912/24897](https://doi:10.1575/1912/24897). 
+
+Mouw, C.B. A. Barnett, G.A. McKinley, L. Gloege* and D.J. Pilcher* (2016) Global Ocean Particulate Organic Carbon flux merged with satellite parameters. [https://doi:10.1594/PANGAEA.855600](https://doi:10.1594/PANGAEA.855600). 
 
 Benway, H., Alin, S., Boyer, E., Cai, W.-J., Coble, P., Cross, J., Friedrichs, M., Goñi, M., Griffith, P., Herrmann, M., Lohrenz, S., Mathis, J., McKinley, G., Najjar, R., Pilskaln, C., Siedlecki, S., Smith, R. 2016. A Science Plan for Carbon Cycle Research in North American Coastal Waters. Report of the Coastal CARbon Synthesis (CCARS) community workshop, August 19-21, 2014, Ocean Carbon and Biogeochemistry Program and North American Carbon Program, 84 pp. [Download PDF](http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/CCARS_Sci_Plan_DRAFT.pdf)
 
@@ -190,11 +200,17 @@ Ocean Carbon and Biogeochemistry Program (2015) Temporal and Spatial Perspective
 
 Bracco, A., M.C. Long, N.M. Levine, R.Q. Thomas, C. Deutsch and G.A. McKinley (2015) NCAR’s Summer Colloquium: Capacity building in cross-disciplinary research of earth system carbon-climate connections, [Bulletin Am. Met. Soc.](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00246.1), 96, 1381–1384.
 
+Fay, A.R. and G.A. McKinley (2014) Global Ocean Biomes: Mean and time-varying maps. doi:10.1594/PANGAEA.828650.
+
 Thomas, R.Q., G.A. McKinley, and M.C. Long (2013) Examining uncertainties in representations of the carbon cycle in Earth System Models. EOS Transactions 94:460.
 
 Mooney, M. E., Ackerman, S., Mckinley, G. A., Whittaker, T. and Jasmin, T. (2012) Lesson Plans and Classroom Activities from the Climate Literacy Ambassadors Community. The Earth Scientist 28, 1–40. [Download PDF](http://newcarboncycle.aos.wisc.edu/galenWEB/Teacher/The_Earth_Scientist_2012_Mooney.pdf)
 
+Michalak, A.M., R.B. Jackson, G. Marland, C. Sabine and The Carbon Cycle Working Group: R.F. Anderson, D. Bronk, K.J. Davis, R.S. Defries, A. S. Denning, L. Dilling, A. Jacobson, S. Lohrenz, A.D. McGuire, G.A. McKinley, C. Miller, B. Moore III, D.S. Ojima, B. O’Neill, J.T. Randerson, S.W. Running, B. Sohngen, P.P. Tans, P.E. Thorton, S.C. Wofsy, N. Zeng (2011) A U.S. Carbon Cycle Science Plan, a UCAR report.  
+
 McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Preliminary Carbon Budgets for the Laurentian Great Lakes, OCB News 4 [Download PDF](http://web.whoi.edu/ocb/wp-content/uploads/sites/43/2016/12/OCB_NEWS_SPR_SUM11.pdf)
+
+Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nalepa, T. Heatlie, A.J. Sutton, and R.A. Feely (2010) Great Lakes Region Acidification Research Plan—NOAA Ocean Acidification Steering Committee: NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report, 143 pp.
 
 ### Papers in Preparation
 
