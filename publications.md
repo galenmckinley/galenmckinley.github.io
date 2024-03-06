@@ -16,7 +16,7 @@ Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experim
 
 ### Publications
 
-Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2024) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Frontiers in Marine Science, in press. (78)
+Guan Y., G.A. McKinley, A. Fay, S.C. Doney and G. Keppel-Aleks (2024) Ocean-driven interannual variability in atmospheric CO2 quantified using OCO-2 observations and atmospheric transport simulations, Front. Mar. Sci. 11 [doi:10.3389/fmars.2024.1272415](https://www.frontiersin.org/articles/10.3389/fmars.2024.1272415). (78)
 
 Olivarez, H., N.S. Lovenduski, Y. Eddebbar, A.R. Fay, G.A. McKinley, M. Levy and M. Long. How does the Pinatubo eruption influence  our understanding of long-term changes in ocean biogeochemistry? (2024) Geophys. Res. Lett.  [doi:10.1029/2023GL105431](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105431). (77)
 
