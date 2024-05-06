@@ -18,7 +18,7 @@ Here's the group in October 2023
 Suki Wong, Viviana Acquaviva, Abby Shaum, Thea Hatlen Heimdal, Galen McKinley, Lauren Moseley, Amanda Fay 
 
 #### Ocean Carbon Resources
-Please see our website on [Ocean Carbon Products](https://oceancarbon.ldeo.columbia.edu) to download data products and code.
+Please see our [LDEO Ocean Carbon](https://oceancarbon.ldeo.columbia.edu) site to download data products and code.
 
 #### Previous Work  
 Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
