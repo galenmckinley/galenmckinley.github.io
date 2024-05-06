@@ -5,7 +5,7 @@ feature_text: <h1 style="color:White;"> McKinley Ocean Carbon Group </h1>
 image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 ---
 
-Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of all human fossil fuel emissions. Thus, understanding the ocean carbon cycle is critical to understanding and predicting climate change.
+Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of all human fossil fuel emissions. Understanding the ocean and its role in the [global carbon cycle](https://galenmckinley.github.io/CarbonCycle/) is critical to understanding and predicting climate change.
 
 The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass climate and ocean physics, biogeochemistry and ecology.  Our primary research tools are numerical models, large historical datasets and machine learning. 
 
@@ -16,6 +16,9 @@ Here's the group in October 2023
 ![McKinley Group Feb 2023]({{site.baseurl}}/assets/img/mckinleygroup_oct2023.jpg){:height="80%" width="80%"}
 
 Suki Wong, Viviana Acquaviva, Abby Shaum, Thea Hatlen Heimdal, Galen McKinley, Lauren Moseley, Amanda Fay 
+
+#### Ocean Carbon Resources
+Please see our website on [Ocean Carbon Products](https://oceancarbon.ldeo.columbia.edu) to download data products and code.
 
 #### Previous Work  
 Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
