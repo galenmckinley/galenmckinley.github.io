@@ -2,7 +2,7 @@
 title: Ocean carbon data products, code, papers
 category: group news
 excerpt: Check out new ocean carbon resources
-feature_text: <h1 style="color:Black"> Ocean carbon resources </h1>
+feature_text: <h1 style="color:Yellow"> Ocean carbon resources </h1>
 image: http://galenmckinley.github.io/assets/img/HPDMaps.png
 tags: 
 comments: true
