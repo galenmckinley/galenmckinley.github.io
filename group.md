@@ -27,7 +27,7 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 
 ![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="42%" width="42%"} 
 
-Thea is a postdoctoral research scientist in the McKinley group. Her main research focus is improving current estimates of global air-sea CO2 fluxes by combining observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
+Thea is a associate research scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
 
 
 ### LAUREN MOSELEY 
