@@ -10,6 +10,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., in review.
 
+Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in Climate AI: From theory to practice, PLOS Climate, in review.
+
 ### Publications
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi.org/10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
