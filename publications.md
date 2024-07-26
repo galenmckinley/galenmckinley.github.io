@@ -10,8 +10,6 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., in review.
 
-Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in Climate AI: From theory to practice, PLOS Climate, in review.
-
 ### Publications
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi.org/10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
@@ -185,6 +183,8 @@ Battle, M., M. Bender, M.B. Hendricks, D.T. Ho, R. Mika, G.A. McKinley, S. Fan, 
 McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of the air-sea flux of oxygen in the North Atlantic. Geophys. Res. Let., 27(18), [2933-2936](http://onlinelibrary.wiley.com/doi/10.1029/2000GL011492/abstract). (1)
 
 ### Other products and publications
+
+Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in Climate AI: From theory to practice, PLOS Climate, in press.
 
 Carroll, D., D. Menemenlis, Z. Hong, M. Mazloff, G.A. McKinley, A.R. Fay, S. Dutkiewicz, J. Lauderdale and I. Fenty (2024). Evaluation of the ECCO-Darwin Ocean Biogeochemistry State Estimate vs. In-situ Observations (ver 1.0). Zenodo. [https://doi.org/10.5281/zenodo.10627664](https://doi.org/10.5281/zenodo.10627664)
 
