@@ -184,7 +184,7 @@ McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of th
 
 ### Other products and publications
 
-Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in Climate AI: From theory to practice, PLOS Climate, in press.
+Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in climate AI: From theory to practice. PLOS Clim 3(8): e0000465. [doi:10.1371/journal.pclm.0000465](https://doi.org/10.1371/journal.pclm.0000465).
 
 Carroll, D., D. Menemenlis, Z. Hong, M. Mazloff, G.A. McKinley, A.R. Fay, S. Dutkiewicz, J. Lauderdale and I. Fenty (2024). Evaluation of the ECCO-Darwin Ocean Biogeochemistry State Estimate vs. In-situ Observations (ver 1.0). Zenodo. [https://doi.org/10.5281/zenodo.10627664](https://doi.org/10.5281/zenodo.10627664)
 
@@ -216,7 +216,15 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 
 ### Papers in Preparation
 
-Moseley, L., G.A. McKinley, A. Nguyen, D. Carroll, D. Menemenlis. Using a data constrained regional model to understand Labrador Sea oxygen dynamics, in prep.  
+Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang, Scale-dependent drivers of air-sea CO2 flux variability, in prep. for GRL
+
+Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader. Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, in prep. for GRL
+
+Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., A.T. Nguyen, Developing a data-constrained regional model to investigate Labrador Sea oxygen dynamics, in prep for JAMES. 
+
+Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
+
+Moseley, L.A., G.A. McKinley, A.R. Fay, Subpolar North Atlantic air-sea CO2 fluxes: Validating models and products with direct observations, in prep.
 
 Wong, S.C.W., G.A. McKinley, and R. Seager. Six decades of variability in the ocean carbon sink, in prep. 
 
