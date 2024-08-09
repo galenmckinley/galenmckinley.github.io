@@ -218,9 +218,9 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 
 ### Papers in Preparation
 
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, D. Samant, A.R. Fay & G.A. McKinley  Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, in prep for Biogeosciences.
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, D. Samant, A.R. Fay & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, in prep for Biogeosciences.
 
-Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader. Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, in prep. for GRL
+Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader, Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, in prep. for GRL
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., A.T. Nguyen, Developing a data-constrained regional model to investigate Labrador Sea oxygen dynamics, in prep for JAMES. 
 
