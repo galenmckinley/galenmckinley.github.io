@@ -10,6 +10,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., in review.
 
+Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in review.
+
 ### Publications
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi.org/10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
@@ -215,8 +217,6 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nalepa, T. Heatlie, A.J. Sutton, and R.A. Feely (2010) Great Lakes Region Acidification Research Plan—NOAA Ocean Acidification Steering Committee: NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report, 143 pp.
 
 ### Papers in Preparation
-
-Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang, Scale-dependent drivers of air-sea CO2 flux variability, in prep. for GRL
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader. Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, in prep. for GRL
 
