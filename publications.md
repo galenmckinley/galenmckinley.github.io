@@ -12,6 +12,8 @@ Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experim
 
 Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in review.
 
+Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
+
 ### Publications
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi.org/10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
@@ -219,8 +221,6 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 ### Papers in Preparation
 
 Heimdal, T.H., A.P. Shaum, V. Acquaviva, D. Samant, A.R. Fay & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, in prep for Biogeosciences.
-
-Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader, Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, in prep. for GRL
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., A.T. Nguyen, Developing a data-constrained regional model to investigate Labrador Sea oxygen dynamics, in prep for JAMES. 
 
