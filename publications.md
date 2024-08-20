@@ -8,13 +8,13 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., in review.
-
 Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in review.
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
 
 ### Publications
+
+Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep., in press. (81)
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi.org/10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
 
