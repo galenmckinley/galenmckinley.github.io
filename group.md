@@ -11,7 +11,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 Dr. Galen McKinley is Professor of [Earth and Environmental Sciences](https://eesc.columbia.edu) at [Columbia University](https://www.columbia.edu) and [Lamont Doherty Earth Observatory](https://lamont.columbia.edu); and holds an affiliate faculty appointment in [Earth and Environmental Engineering](https://www.eee.columbia.edu). From 2021-2023, she was Deputy Director of the [LEAP Science Technology Center](https://leap.columbia.edu). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
-Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-web-Jan2024.pdf).
+Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-web-Sept2024.pdf).
 
 The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
@@ -38,7 +38,7 @@ Lauren is a sixth year PhD student at Columbia. She is combining ocean models wi
 
 ### McKinley Group Professional Guidelines
 
-These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2023.pdf) explain how we work together in the McKinley group. 
+These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2024.pdf) explain how we work together in the McKinley group. 
 
 ### Note to Prospective Students from Professor McKinley
 
