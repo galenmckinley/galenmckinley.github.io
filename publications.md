@@ -5,12 +5,13 @@ feature_text: <h1 style="color:White;"> Publications </h1>
 image: http://galenmckinley.github.io/assets/img/productivity.jpg
 ---
 
-
 ### Papers in Review
 
 Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in review.
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
+
+Heimdal, T.H.+, A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Biogeosciences in review.
 
 ### Publications
 
@@ -219,8 +220,6 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nalepa, T. Heatlie, A.J. Sutton, and R.A. Feely (2010) Great Lakes Region Acidification Research Plan—NOAA Ocean Acidification Steering Committee: NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report, 143 pp.
 
 ### Papers in Preparation
-
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, D. Samant, A.R. Fay & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, in prep for Biogeosciences.
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., A.T. Nguyen, Developing a data-constrained regional model to investigate Labrador Sea oxygen dynamics, in prep for JAMES. 
 
