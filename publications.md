@@ -11,7 +11,7 @@ Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-depende
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
 
-Heimdal, T.H.+, A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Biogeosciences in review.
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley, Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Biogeosciences in review.
 
 ### Publications
 
