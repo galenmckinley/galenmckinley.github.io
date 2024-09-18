@@ -39,7 +39,7 @@ Lauren received her PhD at Columbia in the McKinley group in Fall 2024 and is co
 
 ### CE BIAN 
 
-Bian is a new postdoc in the McKinley Group. 
+Bian is a postdoc in the McKinley Group. 
 
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
@@ -69,7 +69,7 @@ Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.ed
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
 
-### Former undergraduate and graduate interns
+### Former undergraduate and graduate interns at Columbia
 
 MASTERS STUDENTS  <br />
 Junfu Su (MS Data Science 2024) <br />
