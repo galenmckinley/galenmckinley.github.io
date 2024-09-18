@@ -34,7 +34,17 @@ Thea is a associate research scientist in the McKinley group. She is improving c
 
 ![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/Lauren_NorthPacific_2022_crop.jpeg){:height="42%" width="42%"} 
 
-Lauren is a sixth year PhD student at Columbia. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
+Lauren received her PhD at Columbia in the McKinley group in Fall 2024 and is continuing as a postdoc until early 2025. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
+
+
+### CE BIAN 
+
+Bian is a new postdoc in the McKinley Group. 
+
+### ABBY SHAUM
+![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="42%" width="42%"} 
+
+Abby is a staff associate in the McKinley Ocean Carbon Group. She is working on adapting and expanding the group’s fCO2 products, as well as making the group’s code and data reproducible and publicly accessible. She received her BA in Physics with a minor in Astronomy from NYU in 2020. Before joining the McKinley OCG, she worked on astronomical spectrometer software used to discover exoplanets.
 
 ### McKinley Group Professional Guidelines
 
