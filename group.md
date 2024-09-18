@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ## GALEN A. McKINLEY 
 
-![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg){:height="40%" width="40%"} 
+![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg){:height="30%" width="30%"}
 
 Dr. Galen McKinley is Professor of [Earth and Environmental Sciences](https://eesc.columbia.edu) at [Columbia University](https://www.columbia.edu) and [Lamont Doherty Earth Observatory](https://lamont.columbia.edu); and holds an affiliate faculty appointment in [Earth and Environmental Engineering](https://www.eee.columbia.edu). From 2021-2023, she was Deputy Director of the [LEAP Science Technology Center](https://leap.columbia.edu). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
@@ -17,7 +17,7 @@ The best way to contact Professor McKinley is via email (mckinley at ldeo.columb
 
 ### AMANDA FAY
 
-![Photo of Amanda Fay at Cape of Good Hope 2018]({{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg){:height="40%" width="40%"}  
+![Photo of Amanda Fay at Cape of Good Hope 2018]({{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg){:height="30%" width="30%"}  
 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
  [Check out her website and cruise blog](https://fayamanda.weebly.com).
@@ -25,14 +25,14 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 
 ### THEA HATLEN HEIMDAL 
 
-![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="42%" width="42%"} 
+![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="30%" width="30%"}
 
 Thea is a associate research scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
 
 
 ### LAUREN MOSELEY 
 
-![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/Lauren_NorthPacific_2022_crop.jpeg){:height="42%" width="42%"} 
+![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/Lauren_NorthPacific_2022_crop.jpeg){:height="30%" width="30%"}
 
 Lauren received her PhD at Columbia in the McKinley group in Fall 2024 and is continuing as a postdoc until early 2025. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
 
@@ -42,7 +42,7 @@ Lauren received her PhD at Columbia in the McKinley group in Fall 2024 and is co
 Bian is a new postdoc in the McKinley Group. 
 
 ### ABBY SHAUM
-![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="42%" width="42%"} 
+![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
 
 Abby is a staff associate in the McKinley Ocean Carbon Group. She is working on adapting and expanding the group’s fCO2 products, as well as making the group’s code and data reproducible and publicly accessible. She received her BA in Physics with a minor in Astronomy from NYU in 2020. Before joining the McKinley OCG, she worked on astronomical spectrometer software used to discover exoplanets.
 
@@ -64,6 +64,21 @@ Sean Ridge received his [PhD in May 2020](https://academiccommons.columbia.edu/d
 Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-j3p1-tf92).  His thesis research focused on understanding spatial patterns of pCO2 and CO2 fluxes across the global oceans. He used computer models, satellite data, in-situ observations, and data science techniques in his work. [Check out his webpage](https://lgloege.github.io)
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
+
+### Former undergraduate and graduate interns
+
+MASTERS STUDENTS
+
+Junfu Su (MS Data Science 2024)
+Devan Samant (MS Data Science 2023)
+Tomislav Galjanic (MS Data Science 2021)
+Aditya Koduri (MS Data Science 2021)
+Jake Stamell (MS Data Science 2020)
+Monica Yang (MS Data Science 2019) 
+
+UNDERGRADUATE STUDENTS
+
+Rea Rustagi (BS Columbia 2023)
 
 ### Former group members at U. Wisconsin - Madison
 
