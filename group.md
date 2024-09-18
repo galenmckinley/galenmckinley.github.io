@@ -46,6 +46,10 @@ Bian is a new postdoc in the McKinley Group.
 
 Abby is a staff associate in the McKinley Ocean Carbon Group. She is working on adapting and expanding the group’s fCO2 products, as well as making the group’s code and data reproducible and publicly accessible. She received her BA in Physics with a minor in Astronomy from NYU in 2020. Before joining the McKinley OCG, she worked on astronomical spectrometer software used to discover exoplanets.
 
+### AMELIE SHARPLES
+
+Amelie is a Columbia College senior majoring in astrophysics and computer science. 
+
 ### McKinley Group Professional Guidelines
 
 These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2024.pdf) explain how we work together in the McKinley group. 
@@ -67,18 +71,16 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 
 ### Former undergraduate and graduate interns
 
-MASTERS STUDENTS
+MASTERS STUDENTS  <br />
+Junfu Su (MS Data Science 2024) <br />
+Devan Samant (MS Data Science 2023) <br />
+Tomislav Galjanic (MS Data Science 2021) <br />
+Aditya Koduri (MS Data Science 2021) <br />
+Jake Stamell (MS Data Science 2020) <br />
+Monica Yang (MS Data Science 2019)  <br />
 
-Junfu Su (MS Data Science 2024)
-Devan Samant (MS Data Science 2023)
-Tomislav Galjanic (MS Data Science 2021)
-Aditya Koduri (MS Data Science 2021)
-Jake Stamell (MS Data Science 2020)
-Monica Yang (MS Data Science 2019) 
-
-UNDERGRADUATE STUDENTS
-
-Rea Rustagi (BS Columbia 2023)
+UNDERGRADUATE STUDENTS <br />
+Rea Rustagi (BS Columbia 2023) <br />
 
 ### Former group members at U. Wisconsin - Madison
 
