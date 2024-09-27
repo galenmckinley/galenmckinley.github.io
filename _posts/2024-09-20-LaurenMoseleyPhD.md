@@ -10,6 +10,6 @@ comments: true
 
 Congratulations to Dr. Lauren Moseley for her successful defense on September 20! 
 
-A slice of Lauren's post-defense celebration
+A small slice of Lauren's post-defense celebration
 
-![Lauren Defense Celebration 20 Sept 2024]({{site.baseurl}}/assets/img/LaurenCake_20Sept2024.jpg){:height="40%" width="40%"}
+![Lauren Defense Celebration 20 Sept 2024]({{site.baseurl}}/assets/img/LaurenCake_20Sept2024.jpg){:height="50%" width="50%"}
