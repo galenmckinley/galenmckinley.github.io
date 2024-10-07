@@ -3,7 +3,7 @@ title: Data valuation project
 category: group news
 excerpt: Data valuation project now starting
 feature_text: <h1 style="color:Black"> </h1>
-image: http://galenmckinley.github.io/assets/img/ocean.jpg
+image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 tags: 
 comments: true
 ---
