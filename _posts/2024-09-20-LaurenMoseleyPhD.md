@@ -2,7 +2,7 @@
 title: Lauren's defense
 category: group news
 excerpt: Dr. Lauren Moseley
-feature_text: <h1 style="color:Black"> </h1>
+feature_text: <h1 style="color:Black"> Dr. Lauren Moseley </h1>
 image: http://galenmckinley.github.io/assets/img/ocean.jpg
 tags: 
 comments: true
