@@ -20,6 +20,8 @@ Thea Hatlen Heimdal, Abby Shaum, Lauren Moseley, Galen McKinley, Viviana Acquavi
 #### Ocean Carbon Resources
 Please see our [LDEO Ocean Carbon](https://oceancarbon.ldeo.columbia.edu) site to download data products and code.
 
+In 2024, we developed this [data story](https://stories.leap.carbonplan.org/ocean-sink) on the ocean carbon sink. Check out the cool animations created by [CarbonPlan](https://carbonplan.org).
+
 #### Previous Work  
 Please see our [Publications]({{site.baseurl}}/publications) for our prior work in these and other areas.
 
