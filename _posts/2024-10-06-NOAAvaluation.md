@@ -14,4 +14,4 @@ Our goal with our project "Valuation of Surface Ocean pCO2 Observations For Mach
 
 The announcement from NOAA is [here](https://oceanacidification.noaa.gov/noaa-oap-gomo-fund-3m-for-optimizing-ocean-carbon-observing/). 
 
-Amanda, Thea and I, along with Viviana Acquaviva at CUNY and Columbia/LDEO and Tian Zheng at Columbia, are excited to get started on this work. 
+Amanda, Thea and Galen, along with Viviana Acquaviva at CUNY and Columbia/LDEO and Tian Zheng at Columbia, are excited to get started on this work. 
