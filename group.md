@@ -38,8 +38,9 @@ Lauren successfully her PhD at Columbia in the McKinley group in September 2024 
 
 
 ### CE BIAN 
+![Photo of Ce Bian]({{site.baseurl}}/assets/img/CeBian2024.jpg){:height="30%" width="30%"}
 
-Bian is a postdoc in the McKinley Group. 
+Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on understanding how the Atlantic Meridional Overturning Circulation (AMOC) influences the transport and storage of human-produced carbon (Cant) in the North Atlantic, using observational data and Earth System Models. She explores how various physical processes contribute to changes in the ocean carbon sink, and how these processes may evolve under global warming. Bian received her PhD in Ocean and Atmospheric Sciences from Ocean University of China. Prior to joining the McKinley Group, she researched the mechanisms behind extreme heat events, such as marine heatwaves and atmospheric heatwaves, and their responses to climate change. 
 
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
