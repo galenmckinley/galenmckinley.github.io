@@ -7,15 +7,15 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in review.
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley (2024) Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Biogeosciences in review.
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
-
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley (2024) Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Biogeosciences in review.
 
 Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer & G.A. McKinley (2024) Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, submitted to Nature Climate Change
 
 ### Publications
+
+Fay, A.R. D. Caroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL in press. (82)
 
 Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep. [doi:10.1038/s41598-024-70617-x](https://link.springer.com/article/10.1038/s41598-024-70617-x). (81)
 
