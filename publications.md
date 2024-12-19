@@ -229,7 +229,7 @@ Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examin
 
 Moseley, L.A., G.A. McKinley, A.R. Fay, Subpolar North Atlantic air-sea CO2 fluxes: Validating models and products with direct observations, in prep.
 
-Wong, S.C.W., G.A. McKinley, and R. Seager. Six decades of variability in the ocean carbon sink, in prep. 
+Shaum, C.A., and G.A. McKinley. Explainable machine learning to enhance model assessments with sparse data, in prep. 
 
 ### Thesis 
 
