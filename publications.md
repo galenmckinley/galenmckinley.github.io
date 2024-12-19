@@ -7,11 +7,11 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley (2024) Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review.
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review.
 
-Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2024) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
+Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader. Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
 
-Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer & G.A. McKinley (2024) Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, submitted to Nature Climate Change
+Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer & G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, submitted to Nature Climate Change
 
 ### Publications
 
