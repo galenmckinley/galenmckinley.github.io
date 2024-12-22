@@ -11,11 +11,11 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 
 Currently, our primary research thrusts are (1) understanding the external and internal drivers of recent decadal variability in the global ocean carbon sink, (2) using machine learning to map air-sea CO2 fluxes over the last 60+ years, (3) using Earth System Model testbeds to assess uncertainty and identify observation needs for ocean carbon data products, and (4) using a regional coupled physical-biogeochemical model of the Atlantic-Arctic system to assess mechanisms of ocean oxygen and carbon cycling. 
 
-Here's the group in September 2024 
+Here's the group in December 2024 
 
-![McKinley Group Sept 2024]({{site.baseurl}}/assets/img/Group_20Sept2024_sm.jpeg){:height="80%" width="80%"}
+![McKinley Group Sept 2024]({{site.baseurl}}/assets/img/McKinleyGroup_AGU2024.jpg){:height="80%" width="80%"}
 
-Thea Hatlen Heimdal, Abby Shaum, Lauren Moseley, Galen McKinley, Viviana Acquaviva (missing Amanda Fay and Ce Bian)
+Viviana Acquaviva, Ce Bian, Galen McKinley, Thea Hatlen Heimdal, Abby Shaum, Amanda Fay (missing Lauren Moseley)
 
 #### Ocean Carbon Resources
 Please see our [LDEO Ocean Carbon](https://oceancarbon.ldeo.columbia.edu) site to download data products and code.
