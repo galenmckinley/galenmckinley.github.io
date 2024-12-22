@@ -13,7 +13,7 @@ Currently, our primary research thrusts are (1) understanding the external and i
 
 Here's the group in December 2024 
 
-![McKinley Group Sept 2024]({{site.baseurl}}/assets/img/McKinleyGroup_AGU2024.jpg){:height="80%" width="80%"}
+![McKinley Group AGU24]({{site.baseurl}}/assets/img/McKinleyGroup_AGU24.jpg){:height="60%" width="640%"}
 
 Viviana Acquaviva, Ce Bian, Galen McKinley, Thea Hatlen Heimdal, Abby Shaum, Amanda Fay (missing Lauren Moseley)
 
