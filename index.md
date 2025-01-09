@@ -12,7 +12,7 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 Current projects include
 -	Building and applying ocean and Earth System models to understand carbon and oxygen processes
 -	Developing explainable artificial intelligence methods to pinpoint drivers of Earth System Model biases 
--	Improving machine learning products for air-sea CO2 fluxes by quantitatively assessing uncertainties with model testbeds, both globally and at the scale of potential mCDR 
+-	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential mCDR 
 -	Regularly updating and disseminating state-of-the-art ocean carbon products for application in science and policy
 
 
