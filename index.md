@@ -7,9 +7,14 @@ image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 
 Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of all human fossil fuel emissions. Understanding the ocean and its role in the [global carbon cycle](https://galenmckinley.github.io/CarbonCycle/) is critical to understanding and predicting climate change.
 
-The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass climate and ocean physics, biogeochemistry and ecology.  Our primary research tools are numerical models, large historical datasets and machine learning. 
+The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass climate and ocean physics, biogeochemistry and ecology.  Our research tools include numerical models, oceanographic datasets, and machine learning. 
 
-Currently, our primary research thrusts are (1) understanding the external and internal drivers of recent decadal variability in the global ocean carbon sink, (2) using machine learning to map air-sea CO2 fluxes over the last 60+ years, (3) using Earth System Model testbeds to assess uncertainty and identify observation needs for ocean carbon data products, and (4) using a regional coupled physical-biogeochemical model of the Atlantic-Arctic system to assess mechanisms of ocean oxygen and carbon cycling. 
+Current projects include
+-	Building and applying ocean and Earth System models to understand carbon and oxygen processes
+-	Developing explainable artificial intelligence methods to pinpoint drivers of Earth System Model biases 
+-	Improving machine learning products for air-sea CO2 fluxes by quantitatively assessing uncertainties with model testbeds, both globally and at the scale of potential mCDR 
+-	Regularly updating and disseminating state-of-the-art ocean carbon products for application in science and policy
+
 
 Here's the group in December 2024 
 
