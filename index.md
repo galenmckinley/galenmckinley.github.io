@@ -10,7 +10,7 @@ Climate is changing due to human emissions of carbon to the atmosphere. But not 
 The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass climate and ocean physics, biogeochemistry and ecology.  Our research tools include numerical models, oceanographic datasets, and machine learning. Current projects include:
 -	Building and applying ocean and Earth System models to understand carbon and oxygen processes
 -	Developing explainable artificial intelligence methods to pinpoint drivers of Earth System Model biases 
--	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential mCDR 
+-	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential marine carbon dioxide removal (mCDR) projects 
 -	Regularly [updating and disseminating](https://oceancarbon.ldeo.columbia.edu) state-of-the-art ocean carbon products for application in science and policy
 
 
