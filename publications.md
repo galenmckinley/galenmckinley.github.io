@@ -9,11 +9,11 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review.
 
-Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader. Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, ERL in review. 
-
 Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer & G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, submitted to Nature Climate Change
 
 ### Publications
+
+Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2025) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, Environ. Res. Lett. 20 014070 [doi:10.1088/1748-9326/ada2ad](https://iopscience.iop.org/article/10.1088/1748-9326/ada2ad). (83)
 
 Fay, A.R. D. Carroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL [doi:10.1029/2024GL111911](http://dx.doi.org/10.1029/2024GL111911). (82)
 
