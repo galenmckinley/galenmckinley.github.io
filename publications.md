@@ -15,7 +15,7 @@ Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. H
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2025) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, Environ. Res. Lett. 20 014070 [doi:10.1088/1748-9326/ada2ad](https://iopscience.iop.org/article/10.1088/1748-9326/ada2ad). (83)
 
-Fay, A.R. D. Carroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, GRL [doi:10.1029/2024GL111911](http://dx.doi.org/10.1029/2024GL111911). (82)
+Fay, A.R. D. Carroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, Geophys. Res. Lett. [doi:10.1029/2024GL111911](http://dx.doi.org/10.1029/2024GL111911). (82)
 
 Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep. [doi:10.1038/s41598-024-70617-x](https://link.springer.com/article/10.1038/s41598-024-70617-x). (81)
 
