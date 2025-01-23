@@ -9,7 +9,9 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review.
 
-Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer & G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, submitted to Nature Climate Change
+Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, in review. 
+
+Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Nguyen DThe ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, submitted.
 
 ### Publications
 
@@ -222,8 +224,6 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nalepa, T. Heatlie, A.J. Sutton, and R.A. Feely (2010) Great Lakes Region Acidification Research Plan—NOAA Ocean Acidification Steering Committee: NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report, 143 pp.
 
 ### Papers in Preparation
-
-Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., A.T. Nguyen, Developing a data-constrained regional model to investigate Labrador Sea oxygen dynamics, in prep for JAMES. 
 
 Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
 
