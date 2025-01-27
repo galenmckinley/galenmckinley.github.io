@@ -11,7 +11,7 @@ Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. 
 
 Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, in review. 
 
-Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Nguyen DThe ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, submitted.
+Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, submitted.
 
 ### Publications
 
