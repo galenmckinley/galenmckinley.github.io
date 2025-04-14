@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review.
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth in review. [Preprint](https://eartharxiv.org/repository/view/8958/)
 
 Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley. Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, in review. 
 
