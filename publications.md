@@ -19,7 +19,7 @@ Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K
 
 Fay, A.R. D. Carroll, G.A. McKinley, D. Menemenlis, H. Zhang (2024) Scale-dependent drivers of air-sea CO2 flux variability, Geophys. Res. Lett. [doi:10.1029/2024GL111911](http://dx.doi.org/10.1029/2024GL111911). (82)
 
-Heimdal, T.H. and G.A. McKinley (2024) Using observing system simulation experiments to assess impacts of observational uncertainties in surface ocean pCO2 machine learning reconstructions, Scientific Rep. [doi:10.1038/s41598-024-70617-x](https://link.springer.com/article/10.1038/s41598-024-70617-x). (81)
+Heimdal, T.H. and G.A. McKinley (2024) The importance of adding unbiased Argo observations to the ocean carbon observing system, Scientific Rep. [doi:10.1038/s41598-024-70617-x](https://link.springer.com/article/10.1038/s41598-024-70617-x). (81)
 
 Fay, A.R., D.R. Munro, G.A. McKinley, D. Pierrot, S.C. Sutherland, C. Sweeney, and R. Wanninkhof (2024) Updated climatological mean delta fCO2 and net sea–air CO2 flux over the global open ocean regions, Earth System Science Data [doi:10.5194/essd-16-2123-2024](https://essd.copernicus.org/articles/16/2123/2024/). (80)
 
