@@ -13,6 +13,8 @@ Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. H
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in review. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model)
 
+Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum, G.A. McKinley, Sensitivity of ocean carbon sink estimates to rare observations, GRL, submitted.
+
 ### Publications
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2025) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, Environ. Res. Lett. 20 014070 [doi:10.1088/1748-9326/ada2ad](https://iopscience.iop.org/article/10.1088/1748-9326/ada2ad). (83)
