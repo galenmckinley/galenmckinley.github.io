@@ -15,6 +15,8 @@ Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Ng
 
 Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum, G.A. McKinley, Sensitivity of ocean carbon sink estimates to rare observations, GRL, submitted.
 
+Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, D. Wunch. A Scientific Community Vision for an Operational, Unified Greenhouse Gas Observing System to Support Earth System Science and Climate Intervention. AGU Advances in review.
+
 ### Publications
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2025) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, Environ. Res. Lett. 20 014070 [doi:10.1088/1748-9326/ada2ad](https://iopscience.iop.org/article/10.1088/1748-9326/ada2ad). (83)
