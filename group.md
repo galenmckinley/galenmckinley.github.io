@@ -38,7 +38,7 @@ Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
 
-Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the McKinley Ocean Carbon Group on various research projects with a focus on improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
+Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
 ### McKinley Group Professional Guidelines
 
