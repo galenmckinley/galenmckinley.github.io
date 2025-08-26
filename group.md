@@ -30,13 +30,6 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 Thea is a associate research scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
 
 
-### LAUREN MOSELEY 
-
-![Photo of Lauren Moseley 2018]({{site.baseurl}}/assets/img/Lauren_NorthPacific_2022_crop.jpeg){:height="30%" width="30%"}
-
-Lauren defended her PhD at Columbia in the McKinley group in September 2024 and is continuing as a postdoc until early 2025. She is combining ocean models with in situ & satellite observations to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences and co-founded the first graduate seminar on race, climate change, and environmental justice in her department. She received her BA in chemistry and Arabic studies from Williams College in 2016.
-
-
 ### CE BIAN 
 ![Photo of Ce Bian]({{site.baseurl}}/assets/img/CeBian2024.jpg){:height="30%" width="30%"}
 
@@ -45,11 +38,7 @@ Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
 
-Abby is a staff associate in the McKinley Ocean Carbon Group. She is working on adapting and expanding the group’s fCO2 products, as well as making the group’s code and data reproducible and publicly accessible. She received her BA in Physics with a minor in Astronomy from NYU in 2020. Before joining the McKinley OCG, she worked on astronomical spectrometer software used to discover exoplanets.
-
-### AMELIE SHARPLES
-
-Amelie is a Columbia College senior majoring in astrophysics and computer science. 
+Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the McKinley Ocean Carbon Group on various research projects with a focus on improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
 ### McKinley Group Professional Guidelines
 
@@ -62,6 +51,8 @@ I am glad to discuss graduate school opportunities with students interested in u
 
 ### Former group members at Columbia / LDEO
 
+Lauren Moseley defended her [PhD at Columbia in the McKinley group in September 2024](https://academiccommons.columbia.edu/doi/10.7916/15te-9614) and continued as a postdoc in the group until early 2025. For her thesis research, she used data assimilation to bring an ocean model closer to in situ observations; and then used this model to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences.  Lauren received her BA in Chemistry and Arabic studies from Williams College in 2016. She is now a [postdoctoral scholar at the University of Washington and NOAA PMEL](https://escience.washington.edu/member/lauren-moseley/). 
+
 Val Bennington was a postdoctoral scholar in the McKinley group in 2020-2022, during which time she used observations of ocean carbon chemistry and data science techniques to quantify the global ocean carbon sink and its variability. Her scientific interests include using both data and modeling approaches to ocean and Great Lake physics and biogeochemistry. She received her Ph.D. in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences, and then worked in science and in software development. Val is now employed at [Makai Ocean Engineering](https://www.makai.com) in Hawaii. 
 
 Sean Ridge received his [PhD in May 2020](https://academiccommons.columbia.edu/doi/10.7916/d8-bdrb-vj96). His thesis focused on mechanisms of change in the ocean carbon sink in the North Atlantic and global oceans, both now and in the future. In his work, he used range of models from idealized models to Earth system models, as well as in situ data analysis. Sean is passionate about open source software as an approach to tackle big data problems in earth science. He is now a Senior Data Scientist at [Sunairio](https://www.sunairio.com).
@@ -73,6 +64,7 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 ### Former undergraduate and graduate interns at Columbia
 
 MASTERS STUDENTS  <br />
+Arvind Nagabhirava (MS Data Science 2025) <br />
 Junfu Su (MS Data Science 2024) <br />
 Devan Samant (MS Data Science 2023) <br />
 Tomislav Galjanic (MS Data Science 2021) <br />
@@ -81,7 +73,10 @@ Jake Stamell (MS Data Science 2020) <br />
 Monica Yang (MS Data Science 2019)  <br />
 
 UNDERGRADUATE STUDENTS <br />
-Rea Rustagi (BS Columbia 2023) <br />
+Nicoline Joensen (BS Physics 2026) <br />
+Amelie Sharples (BS Astrophyics and Computer Science 2025) <br />
+Rea Rustagi (BS Applied Math 2023) 
+
 
 ### Former group members at U. Wisconsin - Madison
 
