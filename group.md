@@ -42,7 +42,7 @@ Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to sta
 
 ### McKinley Group Professional Guidelines
 
-These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2024.pdf) explain how we work together in the McKinley group. 
+These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2025.pdf) explain how we work together in the McKinley group. 
 
 ### Note to Prospective Students from Professor McKinley
 
