@@ -40,6 +40,10 @@ Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on
 
 Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
+### ARVIND NAGABHIRAVA
+
+Arvind is a MS candidate in Data Science. In research project with the group, he implementing Data Shapley to quantify the value of specific segments of available surface ocean pCO2 data to machine learning algorithms. 
+
 ### McKinley Group Professional Guidelines
 
 These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroup2025.pdf) explain how we work together in the McKinley group. 
@@ -64,7 +68,6 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 ### Former undergraduate and graduate interns at Columbia
 
 MASTERS STUDENTS  <br />
-Arvind Nagabhirava (MS Data Science 2025) <br />
 Junfu Su (MS Data Science 2024) <br />
 Devan Samant (MS Data Science 2023) <br />
 Tomislav Galjanic (MS Data Science 2021) <br />
