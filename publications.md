@@ -19,7 +19,7 @@ Support Local to Global Action. Earth Science Reviews, in review.
 
 Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth, 1 015003 [doi:10.1088/3049-4753/adddc3](https://iopscience.iop.org/article/10.1088/3049-4753/adddc3). (85) 
 
-Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley (2025) Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, in press. (84)
+Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley (2025) Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, [doi:10.1038/s41558-025-02380-41](https://www.nature.com/articles/s41558-025-02380-4). (84)
 
 Olivarez, H., N.S. Lovenduski, E. Maroon, A.R. Fay, K.M. Krumhardt, M.N. Levy, K. Lindsay, G.A. McKinley, J.D. Muller, and J.K Rader (2025) Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage, Environ. Res. Lett. 20 014070 [doi:10.1088/1748-9326/ada2ad](https://iopscience.iop.org/article/10.1088/1748-9326/ada2ad). (83)
 
