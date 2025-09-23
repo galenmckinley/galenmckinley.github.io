@@ -10,7 +10,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in review. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model)
 
 Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, D. Wunch. A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to
-Support Local to Global Action. Earth Science Reviews, in review.
+Support Local to Global Action. AGU Advances, in review.
 
 ### Publications
 
