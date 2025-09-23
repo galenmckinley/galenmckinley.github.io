@@ -14,7 +14,7 @@ Support Local to Global Action. Earth Science Reviews, in review.
 
 ### Publications
 
-Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum, G.A. McKinley, Sensitivity of ocean carbon sink estimates to rare observations, GRL, in press. [Preprint](https://doi.org/10.22541/essoar.174586553.38801515/v1). (86)
+Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum, G.A. McKinley (2025) Sensitivity of ocean carbon sink estimates to rare observations, GRL, in press. [Preprint](https://doi.org/10.22541/essoar.174586553.38801515/v1). (86)
 
 Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth, 1 015003 [doi:10.1088/3049-4753/adddc3](https://iopscience.iop.org/article/10.1088/3049-4753/adddc3). (85) 
 
