@@ -13,12 +13,11 @@ Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton
 
 ### Publications
 
-Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, D. Wunch. A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to
-Support Local to Global Action. AGU Advances, in press. (87)
+Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, D. Wunch (2025) A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to Support Local to Global Action. AGU Advances, in press. (87)
 
 Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum, G.A. McKinley (2025) Sensitivity of ocean carbon sink estimates to rare observations, Geophys. Res. Lett. 52(19) [doi:10.1029/2025GL117961](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117961). (86)
 
-Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2, Machine Learning: Earth, 1 015003 [doi:10.1088/3049-4753/adddc3](https://iopscience.iop.org/article/10.1088/3049-4753/adddc3). (85) 
+Heimdal, T.H., A.P. Shaum, V. Acquaviva, A.R. Fay, D. Samant, J. Busecke & G.A. McKinley. Targeting bias in algorithm optimization improves reconstructions of surface ocean pCO2 (2025) Machine Learning: Earth, 1 015003 [doi:10.1088/3049-4753/adddc3](https://iopscience.iop.org/article/10.1088/3049-4753/adddc3). (85) 
 
 Muller, J.D., N. Gruber, A. Schneuwly, D.C.E. Bakker, M. Gehlen, L. Gregor, J. Hauck, P. Landschützer and G.A. McKinley (2025) Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023, Nature Climate Change, [doi:10.1038/s41558-025-02380-41](https://www.nature.com/articles/s41558-025-02380-4). (84)
 
