@@ -11,6 +11,8 @@ Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin, and A.T. Ng
 
 Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Earth’s Future, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
 
+Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2025) Global Carbon Budget 2025, Earth Sys. Sci. Data  [doi:10.5194/essd-2025-659](https://essd.copernicus.org/preprints/essd-2025-659/). 
+
 ### Publications
 
 Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, D. Wunch (2025) A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to Support Local to Global Action. AGU Advances, in press. (87)
@@ -230,6 +232,12 @@ McKinley, G.A, N. Urban, V. Bennington, D. Pilcher, and C. McDonald, (2011) Prel
 Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nalepa, T. Heatlie, A.J. Sutton, and R.A. Feely (2010) Great Lakes Region Acidification Research Plan—NOAA Ocean Acidification Steering Committee: NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report, 143 pp.
 
 ### Papers in Preparation
+
+McKinley, G.A., A.R. Fay, A.P. Shaum, L.A. Moseley, Heimdal, T.H., and V. Aquaviva. Uncertainty in surface ocean pCO2 at the scale of mCDR, ERL in prep.
+
+Bian, Ce, G.A. McKinley, P. Brown, E. McDonaough, Future strengthening of northward anthropogenic carbon transport despite AMOC weakening, JGR-Oceans in prep. 
+
+Wong, S.C.W., G.A. McKinley, and R. Seager, 60 years of global air-sea CO2 flux variability, Biogeosicences, in prep. 
 
 Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
 
