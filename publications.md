@@ -203,6 +203,8 @@ McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of th
 
 ### Other products and publications
 
+McKinley, G.A. (2025) Global carbon budget rebalanced. Nature [doi:10.1038/d41586-025-03981-x](https://doi.org/10.1038/d41586-025-03981-x).
+
 Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in climate AI: From theory to practice. PLOS Clim 3(8): e0000465. [doi:10.1371/journal.pclm.0000465](https://doi.org/10.1371/journal.pclm.0000465).
 
 Carroll, D., D. Menemenlis, Z. Hong, M. Mazloff, G.A. McKinley, A.R. Fay, S. Dutkiewicz, J. Lauderdale and I. Fenty (2024). Evaluation of the ECCO-Darwin Ocean Biogeochemistry State Estimate vs. In-situ Observations (ver 1.0). Zenodo. [https://doi.org/10.5281/zenodo.10627664](https://doi.org/10.5281/zenodo.10627664)
