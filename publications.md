@@ -11,11 +11,13 @@ Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Ngu
 
 Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Earth’s Future, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
 
-Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2025) Global Carbon Budget 2025, Earth Sys. Sci. Data  [doi:10.5194/essd-2025-659](https://essd.copernicus.org/preprints/essd-2025-659/). 
+Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. Global Carbon Budget 2025, Earth Sys. Sci. Data Discussions / in review for ESSD. [doi:10.5194/essd-2025-659](https://essd.copernicus.org/preprints/essd-2025-659/). 
+
+Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson1 and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in review. [Preprint](https://eartharxiv.org/repository/view/11157/) 
 
 ### Publications
 
-Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers and D. Wunch (2025) A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to Support Local to Global Action. AGU Advances, in press. (87)
+Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers and D. Wunch (2025) A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to Support Local to Global Action. AGU Advances 6(6) e2025AV001914, [doi:10.1029/2025AV001914](https://doi.org/10.1029/2025AV001914). (87)
 
 Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum and G.A. McKinley (2025) Sensitivity of ocean carbon sink estimates to rare observations, Geophys. Res. Lett. 52(19) [doi:10.1029/2025GL117961](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117961). (86)
 
