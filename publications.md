@@ -15,7 +15,7 @@ Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ...
 
 Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in review. [Preprint](https://eartharxiv.org/repository/view/11157/) 
 
-Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman, J.G. Canadell, P. Ciais, H. Cullen, K.J. Davis, S.C. Doney, K.R. Gurney, A.R. Karspeck, C.D. Koven, G.A. McKinley, G.P. Peters, J. Pongratz, B. Stephen and C. Sweeney. Improved Comparability and System-Wide Verification to Support a Scalable Carbon Credit Market.  Earth System Dynamics, in review.
+Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman, J.G. Canadell, P. Ciais, H. Cullen, K.J. Davis, S.C. Doney, K.R. Gurney, A.R. Karspeck, C.D. Koven, G.A. McKinley, G.P. Peters, J. Pongratz, B. Stephen and C. Sweeney. Improved comparability and system-Wide verification to support a scalable carbon credit market.  Earth System Dynamics, in review.
 
 ### Publications
 
