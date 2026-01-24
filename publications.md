@@ -19,6 +19,8 @@ Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman
 
 ### Publications
 
+McKinley, G.A. (2026) Global carbon budget rebalanced. Nature [doi:10.1038/d41586-025-03981-x](https://rdcu.be/eVlhC). (88)
+
 Parazoo, N.  D. Carroll, J. B. Abshire, Y. M Bar-On, R. A. Birdsey, A. A. Bloom, K.W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N.S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers and D. Wunch (2025) A Scientific Community Vision for Sustained Earth Observations of Greenhouse Gases to Support Local to Global Action. AGU Advances 6(6) e2025AV001914, [doi:10.1029/2025AV001914](https://doi.org/10.1029/2025AV001914). (87) [Editor's Highlight](https://eos.org/editor-highlights/managing-carbon-stocks-requires-an-integrated-view-of-the-carbon-cycle)
 
 Fay, A.R., T.H. Heimdal, V. Acquaviva, A.P. Shaum and G.A. McKinley (2025) Sensitivity of ocean carbon sink estimates to rare observations, Geophys. Res. Lett. 52(19) [doi:10.1029/2025GL117961](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117961). (86)
@@ -204,8 +206,6 @@ Battle, M., M. Bender, M.B. Hendricks, D.T. Ho, R. Mika, G.A. McKinley, S. Fan, 
 McKinley, G.A., M. Follows, and J. Marshall (2000) Interannual variability of the air-sea flux of oxygen in the North Atlantic. Geophys. Res. Let., 27(18), [2933-2936](http://onlinelibrary.wiley.com/doi/10.1029/2000GL011492/abstract). (1)
 
 ### Other products and publications
-
-McKinley, G.A. (2025) Global carbon budget rebalanced. Nature [doi:10.1038/d41586-025-03981-x](https://rdcu.be/eVlhC).
 
 Acquaviva, V., E.A. Barnes, D.J. Gagne II, G.A. McKinley, and S. Thais (2024) Ethics in climate AI: From theory to practice. PLOS Clim 3(8): e0000465. [doi:10.1371/journal.pclm.0000465](https://doi.org/10.1371/journal.pclm.0000465).
 
