@@ -11,7 +11,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 Dr. Galen McKinley is Professor of [Earth and Environmental Sciences](https://eesc.columbia.edu) at [Columbia University](https://www.columbia.edu) and [Lamont Doherty Earth Observatory](https://lamont.columbia.edu); and holds an affiliate faculty appointment in [Earth and Environmental Engineering](https://www.eee.columbia.edu). From 2021-2023, she was Deputy Director of the [LEAP Science Technology Center](https://leap.columbia.edu). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
-Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-june25a.pdf).
+Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Sciences at University of Wisconsin - Madison (2004-2017). She received her PhD in Climate Physics and Chemistry from MIT, and her BS in Civil Engineering from Rice University. Her postdoctoral work was at Princeton University and the Instituto Nacional de Ecologia in Mexico. You can see her full CV [here]({{site.baseurl}}/assets/doc/McKinley-CV-March2026i.pdf).
 
 The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
@@ -40,9 +40,6 @@ Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on
 
 Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
-### ARVIND NAGABHIRAVA
-
-Arvind is a MS candidate in Data Science. In research project with the group, he implementing Data Shapley to quantify the value of specific segments of available surface ocean pCO2 data to machine learning algorithms. 
 
 ### McKinley Group Professional Guidelines
 
@@ -55,6 +52,8 @@ I am glad to discuss graduate school opportunities with students interested in u
 
 ### Former group members at Columbia / LDEO
 
+Arvind Nagabhirava received an MS in Data Science in December 2025. In research project with the group, he implemented Data Shapley to quantify the value of specific segments of available surface ocean pCO2 data to machine learning algorithms. He is now employed at Barclays, and continues to collaborate with the group to complete this project. 
+
 Lauren Moseley defended her [PhD at Columbia in the McKinley group in September 2024](https://academiccommons.columbia.edu/doi/10.7916/15te-9614) and continued as a postdoc in the group until early 2025. For her thesis research, she used data assimilation to bring an ocean model closer to in situ observations; and then used this model to better understand the uptake and circulation of carbon and oxygen in the North Atlantic Ocean. She is also passionate about advancing DEI in the geosciences.  Lauren received her BA in Chemistry and Arabic studies from Williams College in 2016. She is now a [postdoctoral scholar at the University of Washington and NOAA PMEL](https://escience.washington.edu/member/lauren-moseley/). 
 
 Val Bennington was a postdoctoral scholar in the McKinley group in 2020-2022, during which time she used observations of ocean carbon chemistry and data science techniques to quantify the global ocean carbon sink and its variability. Her scientific interests include using both data and modeling approaches to ocean and Great Lake physics and biogeochemistry. She received her Ph.D. in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences, and then worked in science and in software development. Val is now employed at [Makai Ocean Engineering](https://www.makai.com) in Hawaii. 
@@ -65,9 +64,11 @@ Luke Gloege received his [PhD in March 2020](https://academiccommons.columbia.ed
 
 Raphael Dussin was with the McKinley group from 2018-2019, working on model development and computational tools. Check out his [GitHub user page](http://github.com/raphaeldussin). He is now in the [Ocean and Cryosphere Division at NOAA GFDL](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/). 
 
-### Former undergraduate and graduate interns at Columbia
+### Current and former undergraduate and MS interns at Columbia
 
 MASTERS STUDENTS  <br />
+Tanish Patel (MS Data Science 2026) <br />
+Arvind Nagabhirava (MS Data Science 2025) <br />
 Junfu Su (MS Data Science 2024) <br />
 Devan Samant (MS Data Science 2023) <br />
 Tomislav Galjanic (MS Data Science 2021) <br />
@@ -76,6 +77,8 @@ Jake Stamell (MS Data Science 2020) <br />
 Monica Yang (MS Data Science 2019)  <br />
 
 UNDERGRADUATE STUDENTS <br />
+Catherine Pierson (BS expected 2028) <br />
+Anna Chen (BS Climate System Science and Applied Math expected 2027) <br />
 Nicoline Joensen (BS Physics 2026) <br />
 Amelie Sharples (BS Astrophyics and Computer Science 2025) <br />
 Rea Rustagi (BS Applied Math 2023) 
