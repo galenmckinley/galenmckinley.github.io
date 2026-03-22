@@ -7,6 +7,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
+McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley, A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in review. [Preprint](https://eartharxiv.org/repository/view/12273/)
+
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in review. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model)
 
 Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Earth’s Future, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
