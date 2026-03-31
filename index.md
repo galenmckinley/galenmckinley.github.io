@@ -11,7 +11,7 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 -	Building and applying ocean and Earth System models to understand carbon and oxygen processes
 -	Developing explainable artificial intelligence methods to pinpoint drivers of Earth System Model biases 
 -	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential marine carbon dioxide removal (mCDR) projects
--	Planning observing for autonomous vehicles in the Southern Ocean to fill critical gaps in observing the ocean carbon sink: [COCO2](https://sites.google.com/uw.edu/coco2}
+-	Planning observing for autonomous vehicles in the Southern Ocean to fill critical gaps in observing the ocean carbon sink: [COCO2](https://sites.google.com/uw.edu/coco2)
 -	Regularly [updating and disseminating](https://oceancarbon.ldeo.columbia.edu) state-of-the-art ocean carbon products for application in science and policy
 
 
