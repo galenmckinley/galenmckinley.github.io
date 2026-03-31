@@ -5,12 +5,13 @@ feature_text: <h1 style="color:White;"> McKinley Ocean Carbon Group </h1>
 image: http://galenmckinley.github.io/assets/img/perpetual_sm2.jpg
 ---
 
-Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of all human fossil fuel emissions. Understanding the ocean and its role in the [global carbon cycle](https://galenmckinley.github.io/CarbonCycle/) is critical to understanding and predicting climate change.
+Climate is changing due to human emissions of carbon to the atmosphere. But not all the carbon emitted remains there - in fact, over the industrial era, the ocean has absorbed excess carbon equivalent to 40% of all human fossil fuel emissions. Understanding [the ocean carbon sink](https://stories.leap.carbonplan.org/ocean-sink) and the [global carbon cycle](https://galenmckinley.github.io/CarbonCycle/) is critical to understanding and predicting future climate change.
 
 The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass climate and ocean physics, biogeochemistry and ecology.  Our research tools include numerical models, oceanographic datasets, and machine learning. Current projects include:
 -	Building and applying ocean and Earth System models to understand carbon and oxygen processes
 -	Developing explainable artificial intelligence methods to pinpoint drivers of Earth System Model biases 
--	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential marine carbon dioxide removal (mCDR) projects 
+-	Using model testbeds to address uncertainties and data gaps in machine learning products for air-sea CO2 fluxes, both globally and at the scale of potential marine carbon dioxide removal (mCDR) projects
+-	Planning observing for autonomous vehicles in the Southern Ocean to fill critical gaps in observing the ocean carbon sink: [COCO2](https://sites.google.com/uw.edu/coco2}
 -	Regularly [updating and disseminating](https://oceancarbon.ldeo.columbia.edu) state-of-the-art ocean carbon products for application in science and policy
 
 
