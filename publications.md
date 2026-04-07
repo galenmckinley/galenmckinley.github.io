@@ -21,6 +21,8 @@ Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman
 
 ### Publications
 
+Parazoo, N., D. Carroll, J. B. Abshire, Y. M. Bar-On, R. A. Birdsey, A. A. Bloom, K. W. Bowman, R. K. Braghiere, L. M. Bruhwiler, B. Byrne, A. Chatterjee, D. Crisp, L. Duncanson, A. F. Feldman, A. M. Fox, C. Frankenberg, B. A. Gay, F. Hopkins, F. M. Hoffman, J. R. Holmquist, L. R. Hutyra, M. Keller, C. D. Koven, J. L. Laughner, J. Liu, N. S. Lovenduski, N. Macbean, G.A. McKinley, G. McNicol, D. Menemenlis, A. M. Michalak, C. E. Miller, H. Nesser, T. Oda, E. M. Ordway, L. E. Ott, K. Paustian, Z. A. Pierrat, B. Poulter, S. C. Reed, D. S. Schimel, S. P. Serbin, S. S. Saatchi, H. Suto, L. Windham-Myers, & D. Wunch. (2026). A U.S. Scientific Community Review of Carbon Cycle Science Gaps and Opportunities to Better Support Earth System Science and Carbon Management. Earth Science Reviews. in press. (90)
+
 Jiang, L.-Q., A. Fay, J. D. Müller, L. Gregor, A. Roobaert, L. Keppler, D. Carroll, S. K. Lauvset, T. DeVries, J. Hauck, C. Rödenbeck, N. Metzl, A. J. Fassbender, J.-P. Gattuso, P. Landschützer, R. Wanninkhof, C. Sabine, S. R. Alin, M. Hoppema, A. Olsen, M. P. Humphreys, K. Chakraborty, A. C. Franco, K. Azetsu-Scott, D. C. E. Bakker, L. Barbero, N. R. Bates, N. Besemer, H. C. Bittig, A. E. Boyd, D. Broullón, W.-J. Cai, B. R. Carter, T.-T.-T. Chau, C.-T. A. Chen, F. Cyr, J. E. Dore, I. Enochs, R. A. Feely, H. E. Garcia, M. Gehlen, P. K. Ghoshal, L. Gloege, M. González-Dávila, N. Gruber, D. Ianson, Y. Iida, M. Ishii, A. P. Joshi, E. Kennedy, A. Kozyr, N. Lange, C. Lo Monaco, D. P. Manzello, G. A. McKinley, N. M. Monacci, X. A. Padin, A. M. Palacio-Castro, F. F. Pérez, J. M. Santana-Casiano, J. Sharp, A. Sutton, J. Swift, T. Tanhua, M. Telszewski, J. Terhaar, R. van Hooidonk, A. Velo, A. J. Watson, A. E. White, Z. Wu, L. Xue, H. Yoo, J. Zeng and G. Zhong (2026). Synthesis of data products for ocean carbonate chemistry. Earth System Science Data, 18(2), 1405–1462. [doi:10.5194/essd-18-1405-2026](https://doi.org/10.5194/essd-18-1405-2026). (89)
 
 McKinley, G.A. (2026) Global carbon budget rebalanced. Nature [doi:10.1038/d41586-025-03981-x](https://rdcu.be/eVlhC). (88)
@@ -243,17 +245,17 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 
 ### Papers in Preparation
 
-McKinley, G.A., A.R. Fay, A.P. Shaum, L.A. Moseley, Heimdal, T.H., and V. Aquaviva. Uncertainty in surface ocean pCO2 at the scale of mCDR, ERL in prep.
+Bian, C., G.A. McKinley, P. Brown, E. McDonaough, Future strengthening of northward anthropogenic carbon transport despite AMOC weakening, JGR-Oceans in prep. 
 
-Bian, Ce, G.A. McKinley, P. Brown, E. McDonaough, Future strengthening of northward anthropogenic carbon transport despite AMOC weakening, JGR-Oceans in prep. 
-
-Wong, S.C.W., G.A. McKinley, and R. Seager, 60 years of global air-sea CO2 flux variability, Biogeosicences, in prep. 
+Wong, S.C.W., G.A. McKinley, R. Seager et al., 60 years of global air-sea CO2 flux variability, Biogeosciences, in prep. 
 
 Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
 
 Shaum, C.A., and G.A. McKinley. Explainable machine learning to enhance model assessments with sparse data, in prep. 
 
 Fay, A.R., Y. Eddebbar and G.A. McKinley. Quantifying the impact of Mt Pinatubo on upper ocean oxygen trends, in prep.
+
+Fay, A.R., D. Carroll and G.A. McKinley. Mapping the near-term response of the ocean CO2 sink to emission mitigation, in prep.
 
 
 ### Thesis 
