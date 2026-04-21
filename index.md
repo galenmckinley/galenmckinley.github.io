@@ -1,7 +1,7 @@
 ---
 layout: home
 title: McKinley Ocean Carbon Group 
-feature_text: <h1 style="color:White;"> McKinley Ocean Carbon Group </h1>
+feature_text: <h1 style="color:Black;"> McKinley Ocean Carbon Group </h1>
 image: http://galenmckinley.github.io/assets/img/productivityskinnysm.jpg
 ---
 
