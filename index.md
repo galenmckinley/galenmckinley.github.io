@@ -15,11 +15,11 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 -	Regularly [updating and disseminating](https://oceancarbon.ldeo.columbia.edu) state-of-the-art ocean carbon products for application in science and policy
 
 
-Here's the group in December 2024 
+Here's the group in May 2026
 
-![McKinley Group AGU24]({{site.baseurl}}/assets/img/McKinleyGroupAGU24.jpg){:height="75%" width="75%"}
+![McKinley Group AGU24]({{site.baseurl}}/assets/img/Group_April2026crop.jpg){:height="75%" width="75%"}
 
-Viviana Acquaviva, Ce Bian, Galen McKinley, Thea Hatlen Heimdal, Abby Shaum, Amanda Fay (missing Lauren Moseley)
+Nicoline Joenson, Katie Pierson, Galen McKinley, Ce Bian, Abby Shaum, Amanda Fay, Viviana Acquaviva, Thea Hatlen Heimdal, Anna Chen, Tanish Patel 
 
 #### Ocean Carbon Resources
 Please see our [LDEO Ocean Carbon](https://oceancarbon.ldeo.columbia.edu) site to download data products and code.
