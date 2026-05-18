@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the Near-term Response of the Ocean CO2 Sink to Emissions Mitigation. submitted to Biogeosciences
+Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. submitted to Biogeosciences
 
 McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley, A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in review. [Preprint](https://eartharxiv.org/repository/view/12273/)
 
