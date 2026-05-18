@@ -7,6 +7,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
+Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the Near-term Response of the Ocean CO2 Sink to Emissions Mitigation. submitted to Biogeosciences
+
 McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley, A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in review. [Preprint](https://eartharxiv.org/repository/view/12273/)
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in review. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model)
