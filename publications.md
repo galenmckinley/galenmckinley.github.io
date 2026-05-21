@@ -9,7 +9,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. submitted to Biogeosciences
 
-Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. submitted to Global Biogeochemical Cycles
+Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
+
 
 McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in review. [Preprint](https://eartharxiv.org/repository/view/12273/)
 
