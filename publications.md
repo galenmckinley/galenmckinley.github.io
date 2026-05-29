@@ -7,6 +7,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
+Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian, 60 years of global air-sea CO2 flux variability, submitted to Biogeosciences. 
+
 Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. submitted to Biogeosciences
 
 Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
@@ -252,16 +254,11 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 
 Bian, C., G.A. McKinley, P. Brown, E. McDonaough, Future strengthening of northward anthropogenic carbon transport despite AMOC weakening, JGR-Oceans in prep. 
 
-Wong, S.C.W., G.A. McKinley, R. Seager et al., 60 years of global air-sea CO2 flux variability, Biogeosciences, in prep. 
-
 Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
 
 Shaum, C.A., and G.A. McKinley. Explainable machine learning to enhance model assessments with sparse data, in prep. 
 
 Fay, A.R., Y. Eddebbar and G.A. McKinley. Quantifying the impact of Mt Pinatubo on upper ocean oxygen trends, in prep.
-
-Fay, A.R., D. Carroll and G.A. McKinley. Mapping the near-term response of the ocean CO2 sink to emission mitigation, in prep.
-
 
 ### Thesis 
 
