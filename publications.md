@@ -254,8 +254,6 @@ Alin S.R., J. Day, G.A. McKinley, C. Stow, M. Baker, E. Brody, R. Bohne, T. Nale
 
 ### Papers in Preparation
 
-Bian, C., G.A. McKinley, P. Brown, E. McDonaough, Future strengthening of northward anthropogenic carbon transport despite AMOC weakening, JGR-Oceans in prep. 
-
 Moseley, L.A., G.A. McKinley, D. Atamanchuk, J. Koelling, D.W.R. Wallace, Examining an oxygen budget of the central Labrador Sea. in prep.
 
 Shaum, C.A., and G.A. McKinley. Explainable machine learning to enhance model assessments with sparse data, in prep. 
