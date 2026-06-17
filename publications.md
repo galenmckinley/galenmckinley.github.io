@@ -15,20 +15,19 @@ Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zha
 
 Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
 
-
-McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in review. [Preprint](https://eartharxiv.org/repository/view/12273/)
-
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in review. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model)
 
 Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Earth’s Future, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
-
-Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in review. [Preprint](https://eartharxiv.org/repository/view/11157/) 
 
 Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman, J.G. Canadell, P. Ciais, H. Cullen, K.J. Davis, S.C. Doney, K.R. Gurney, A.R. Karspeck, C.D. Koven, G.A. McKinley, G.P. Peters, J. Pongratz, B. Stephen and C. Sweeney. Improved comparability and system-Wide verification to support a scalable carbon credit market.  Earth System Dynamics, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6457/)
 
 ### Publications
 
-Friedlingstein, P., M. O'Sullivan, M. W. Jones, R. M. Andrew, ... G.A. McKinley... et al. Global Carbon Budget 2025, Earth Sys. Sci. Data. 18, 3211–3288,  [doi:10.5194/essd-2025-659](https://essd.copernicus.org/articles/18/3211/2026/). (92)
+McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in press. [Preprint](https://eartharxiv.org/repository/view/12273/). (94)
+
+Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in press. [Preprint](https://eartharxiv.org/repository/view/11157/). (93)
+
+Friedlingstein, P., M. O'Sullivan, M. W. Jones, R. M. Andrew, ... G.A. McKinley... et al. Global Carbon Budget 2025, Earth Sys. Sci. Data. 18, 3211–3288, [doi:10.5194/essd-2025-659](https://essd.copernicus.org/articles/18/3211/2026/). (92)
 
 Parazoo, N., D. Carroll, J. B. Abshire, Y. M. Bar-On, R. A. Birdsey, ... G.A. McKinley... et al. (2026). A U.S. Scientific Community Review of Carbon Cycle Science Gaps and Opportunities to Better Support Earth System Science and Carbon Management. Earth Science Reviews 278. [doi:10.1016/j.earscirev.2026.105493](https://www.sciencedirect.com/science/article/abs/pii/S0012825226001042). (91)
 
