@@ -9,7 +9,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 Bian, C., G.A. McKinley, P. Brown, E. McDonagh. Future strengthening of North Atlantic anthropogenic carbon transport despite AMOC weakening. submitted to JGR-Oceans.
 
-Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, submitted to Biogeosciences. 
+Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, Biogeosciences, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3104/)
 
 Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. submitted to Biogeosciences
 
