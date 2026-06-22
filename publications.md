@@ -23,7 +23,7 @@ Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman
 
 ### Publications
 
-McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, in press. [Preprint](https://eartharxiv.org/repository/view/12273/). (94)
+McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, [doi:10.1088/1748-9326/ae803e](https://iopscience.iop.org/article/10.1088/1748-9326/ae803e). (94)
 
 Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in press. [Preprint](https://eartharxiv.org/repository/view/11157/). (93)
 
