@@ -11,7 +11,7 @@ Bian, C., G.A. McKinley, P. Brown, E. McDonagh. Future strengthening of North At
 
 Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, Biogeosciences, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3104/)
 
-Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. submitted to Biogeosciences
+Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang. Quantifying the near-term response of the ocean CO2 sink to emissions mitigation.Biogeosciences, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2870/) 
 
 Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
 
@@ -23,7 +23,7 @@ Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman
 
 Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in press. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model). (95)
 
-McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? ERL, [doi:10.1088/1748-9326/ae803e](https://iopscience.iop.org/article/10.1088/1748-9326/ae803e). (94)
+McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? Environ. Res. Lett. 21 134011, [doi:10.1088/1748-9326/ae803e](https://iopscience.iop.org/article/10.1088/1748-9326/ae803e). (94)
 
 Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in press. [Preprint](https://eartharxiv.org/repository/view/11157/). (93)
 
