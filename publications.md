@@ -21,11 +21,11 @@ Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman
 
 ### Publications
 
-Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, in press. [Preprint](https://essopenarchive.org/users/885715/articles/1263805-the-aste-bgc-data-assimilative-regional-ocean-biogeochemistry-model). (95)
+Moseley, L.A., G.A. McKinley, D. Carroll, D. Menemenlis., R. Dussin and A.T. Nguyen. The ASTE-BGC Data-Assimilative Regional Ocean Biogeochemistry Model, JAMES, 18(8) e2025MS004976, [doi:10.1029/2025MS004976](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS004976). (95)
 
 McKinley, G.A., A.R. Fay, T.H. Heimdal, L.A. Moseley and A.P. Shaum. How well do global ocean approaches constrain local pCO2? Environ. Res. Lett. 21 134011, [doi:10.1088/1748-9326/ae803e](https://iopscience.iop.org/article/10.1088/1748-9326/ae803e). (94)
 
-Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, in press. [Preprint](https://eartharxiv.org/repository/view/11157/). (93)
+Heimdal, T.H., A.R. Fay  A.P. Shaum, V. Acquaviva, V. Bennington, A.E. Sharples, N.M. Joenson and G.A. McKinley. An update of the LDEO fCO2-Residual method: algorithmic choices improve ocean carbon sink, Machine Learning: Earth, 2 025005. [doi:10.1088/3049-4753/ae86f8](https://iopscience.iop.org/article/10.1088/3049-4753/ae86f8). (93)
 
 Friedlingstein, P., M. O'Sullivan, M. W. Jones, R. M. Andrew, ... G.A. McKinley... et al. Global Carbon Budget 2025, Earth Sys. Sci. Data. 18, 3211–3288, [doi:10.5194/essd-2025-659](https://essd.copernicus.org/articles/18/3211/2026/). (92)
 
