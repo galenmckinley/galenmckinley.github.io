@@ -7,6 +7,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
+Acquaviva, V., R. Wild, A. Laio, A.R. Fay, T.H. Heimdal, and G.A. McKinley. How well is surface ocean carbon represented in observations and ocean models? submitted to AGU Advances. [Preprint](https://arxiv.org/abs/2609.00133)
+
 Bian, C., G.A. McKinley, P. Brown, E. McDonagh. Future strengthening of North Atlantic anthropogenic carbon transport despite AMOC weakening. submitted to JGR-Oceans.
 
 Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, Biogeosciences, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3104/)
