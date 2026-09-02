@@ -17,7 +17,7 @@ Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zha
 
 Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
 
-Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Earth’s Future, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
+Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Environmental Research: Climate, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
 
 Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman, J.G. Canadell, P. Ciais, H. Cullen, K.J. Davis, S.C. Doney, K.R. Gurney, A.R. Karspeck, C.D. Koven, G.A. McKinley, G.P. Peters, J. Pongratz, B. Stephen and C. Sweeney. Improved comparability and system-Wide verification to support a scalable carbon credit market.  Earth System Dynamics, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6457/)
 
