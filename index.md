@@ -15,7 +15,7 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 -	Regularly [updating and disseminating](https://oceancarbon.ldeo.columbia.edu) state-of-the-art ocean carbon products for application in science and policy
 
 
-Here's the group in September 2026 when we visited the Lovenduski Group at University of Colorado Boulder and took a short hike at NCAR Mesa Lab
+Here's the group in September 2026 when we visited the Lovenduski Group at University of Colorado Boulder and took a short hike at NCAR's Mesa Lab
 
 ![McKinley Group AGU24]({{site.baseurl}}/assets/img/McKinleyGroup_sept2026crop.jpg){:height="85%" width="85%"}
 
