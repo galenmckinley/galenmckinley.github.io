@@ -18,7 +18,7 @@ The McKinley Ocean Carbon Research Group studies how ocean physical and biogeoch
 Here's the group in September 2026 when we visited the Lovenduski Group at University of Colorado Boulder and took a short hike at NCAR Mesa Lab
 ![McKinley Group AGU24]({{site.baseurl}}/assets/img/McKinleyGroup_sept2026crop.jpg){:height="85%" width="85%"}
 
-Abby Shaum, Paridhi Rustogi, Ce Bian, Galen McKinley Amanda Fay, Anna Chen, Thea Hatlen Heimdal
+Abby Shaum, Paridhi Rustogi, Ce Bian, Galen McKinley Amanda Fay, Anna Chen, Thea Hatlen Heimdal  (not pictured: Rishika Mamidibathula and Katie Pierson)
 
 #### Ocean Carbon Resources
 Please see our [LDEO Ocean Carbon](https://oceancarbon.ldeo.columbia.edu) site to download data products and code.
