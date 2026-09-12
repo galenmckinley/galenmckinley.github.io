@@ -67,6 +67,7 @@ Raphael Dussin was with the McKinley group from 2018-2019, working on model deve
 ### Current and former undergraduate and MS interns at Columbia
 
 MASTERS STUDENTS  <br />
+Rishika Mamidibathula (MS Data Science 2026) <br />
 Tanish Patel (MS Data Science 2026) <br />
 Arvind Nagabhirava (MS Data Science 2025) <br />
 Junfu Su (MS Data Science 2024) <br />
