@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/ocean.jpg
 
 ## GALEN A. McKINLEY 
 
-![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley400b400_sm.jpg){:height="30%" width="30%"}
+![Photo of Galen McKinley]({{site.baseurl}}/assets/img/GalenMcKinley_highres_300dpi_sm.jpeg){:height="30%" width="30%"}
 
 Dr. Galen McKinley is Professor of [Earth and Environmental Sciences](https://eesc.columbia.edu) at [Columbia University](https://www.columbia.edu) and [Lamont Doherty Earth Observatory](https://lamont.columbia.edu); and holds an affiliate faculty appointment in [Earth and Environmental Engineering](https://www.eee.columbia.edu). From 2021-2023, she was Deputy Director of the [LEAP Science Technology Center](https://leap.columbia.edu). Galen is an ocean, carbon cycle and climate scientist. Her work addresses the present-day and future mechanisms of carbon cycle, biogeochemical, and physical variability and change in the global ocean, the North Atlantic, and the Great Lakes. 
 
