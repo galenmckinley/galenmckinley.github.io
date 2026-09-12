@@ -12,4 +12,4 @@ The McKinley group continued our regular tradition of getting together with the 
 
 We neglected to get a picture of everyone, but this one of the Acquaviva and McKinley groups gives you an idea of how it went.... 
 
-![Acquaviva and McKinley groups at the NCAR Mesa Lab, September 2026]({{site.baseurl}}/assets/img/McKinleyAquavivaGroup_Boulder_Sept2026.jpg){:height="70%" width="70%"} 
+![Acquaviva and McKinley groups at the NCAR Mesa Lab, September 2026]({{site.baseurl}}/assets/img/McKinleyAcquavivaGroup_Boulder_Sept2026.jpg){:height="70%" width="70%"} 
