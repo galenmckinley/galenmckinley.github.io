@@ -16,7 +16,6 @@ Prior to coming to Columbia, Galen was Professor of Atmospheric and Oceanic Scie
 The best way to contact Professor McKinley is via email (mckinley at ldeo.columbia.edu). 
 
 ### AMANDA FAY
-
 ![Photo of Amanda Fay at Cape of Good Hope 2018]({{site.baseurl}}/assets/img/AmandaFay_CapeGoodHope_2018_crop_sm.jpg){:height="30%" width="30%"}  
 
 Amanda’s research centers on the study of patterns of air-sea CO2 exchange in open ocean environments to better understand natural variability and long-term trends in ocean carbon. Specifically, she is interested in using interdisciplinary approaches to explore how physical and biological mechanisms drive variations in ocean carbon chemistry across time and space. She received her Masters of Science in 2010 at the University of Wisconsin-Madison in Atmospheric and Oceanic Sciences. Since 2011 she has been working as a researcher in the McKinley group, first at the University of Wisconsin and now at Columbia University. Additionally, she has participated in multiple GO-SHIP cruises as both a CTD-watchstander and an LADCP operator. 
@@ -24,7 +23,6 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 
 
 ### THEA HATLEN HEIMDAL 
-
 ![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="30%" width="30%"}
 
 Thea is a associate research scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
@@ -34,6 +32,12 @@ Thea is a associate research scientist in the McKinley group. She is improving c
 ![Photo of Ce Bian]({{site.baseurl}}/assets/img/CeBian2024.jpg){:height="30%" width="30%"}
 
 Bian is a postdoctoral researcher in the McKinley Group. Her research focuses on understanding how the Atlantic Meridional Overturning Circulation (AMOC) influences the transport and storage of human-produced carbon (Cant) in the North Atlantic, using observational data and Earth System Models. She explores how various physical processes contribute to changes in the ocean carbon sink, and how these processes may evolve under global warming. Bian received her PhD in Ocean and Atmospheric Sciences from Ocean University of China. Prior to joining the McKinley Group, she researched the mechanisms behind extreme heat events, such as marine heatwaves and atmospheric heatwaves, and their responses to climate change. 
+
+### PARIDHI RUSTOGI
+![Photo of Paridhi Rustogi]({{site.baseurl}}/assets/img/ParidhiRustogi_Portrait_sm2.jpg){:height="30%" width="30%"}
+
+Paridhi is a postdoctoral research scientist in the McKinley Group, where she is studying bubble-mediated air-sea gas exchange in the North Atlantic using ASTE-BGC, a high-resolution, data-assimilated biogeochemical ocean model developed by the group. Her research focuses on ocean carbon and oxygen cycling, with a particular interest in how waves and bubbles influence air-sea gas exchange. She received her PhD in Biogeochemical Oceanography from Princeton University (2026), her MSc in Integrated Climate System Sciences from the University of Hamburg (2021), and her BTech in Environmental Engineering from Delhi Technological University (2017).
+
 
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
