@@ -7,7 +7,7 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
-Acquaviva, V., R. Wild, A. Laio, A.R. Fay, T.H. Heimdal, and G.A. McKinley. How well is surface ocean carbon represented in observations and ocean models? submitted to AGU Advances. [Preprint](https://arxiv.org/abs/2609.00133)
+Acquaviva, V., R. Wild, A. Laio, A.R. Fay, T.H. Heimdal, and G.A. McKinley. How well is surface ocean carbon represented in observations and ocean models? submitted to JAMES. [Preprint](https://arxiv.org/abs/2609.00133)
 
 Bian, C., G.A. McKinley, P. Brown, E. McDonagh. Future strengthening of North Atlantic anthropogenic carbon transport despite AMOC weakening. submitted to JGR-Oceans. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15004396/v1)
 
