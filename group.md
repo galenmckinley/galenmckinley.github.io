@@ -47,6 +47,7 @@ Abby is a second-year PhD student in the McKinley group. Prior to starting gradu
 
 ### COLETTE KELLY
 ![Photo of Colette Kelly]({{site.baseurl}}/assets/img/ColetteKelly.jpg){:height="30%" width="30%"}
+
 [Dr. Colette Kelly (they/them)](https://github.com/ckelly314) is an Associate Research Scientist in the Geochemistry division at the Lamont-Doherty Earth Observatory and a collaborator with the McKinley Group. Their research centers on understanding marine nitrogen cycling through machine learning, numerical modeling, and ocean observations. They are also a chief scientist and executive committee member for the U.S. Global Oceans Ship-Based Hydrography Program (GO-SHIP). Colette earned their PhD from Stanford University in 2023, and was a postdoc at the Woods Hole Oceanographic Institution before coming to Lamont. In their spare time, Colette enjoys running with the Central Park Track Club.
 
 ### McKinley Group Professional Guidelines
