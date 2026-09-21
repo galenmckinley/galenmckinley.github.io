@@ -42,7 +42,7 @@ Paridhi is a postdoctoral research scientist in the McKinley Group, where she is
 ### ABBY SHAUM
 ![Photo of Abby Shaum]({{site.baseurl}}/assets/img/AbbyShaum.jpg){:height="30%" width="30%"}
 
-Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
+Abby is a second-year PhD student in the McKinley group. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
 
 ### COLETTE KELLY
