@@ -25,7 +25,7 @@ Amanda’s research centers on the study of patterns of air-sea CO2 exchange in 
 ### THEA HATLEN HEIMDAL 
 ![Photo of THEA HATLEN HEIMDAL]({{site.baseurl}}/assets/img/Thea_Heimdal.png){:height="30%" width="30%"}
 
-Thea is a associate research scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
+Thea is an Associate Research Scientist in the McKinley group. She is improving current estimates of global air-sea CO2 fluxes using observations, models and machine learning. She received her PhD in 2018 from the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo (UiO). Before becoming a member of the McKinley group she was a postdoctoral researcher at UiO focusing on the long-term carbon cycle, paleoclimate and carbon release from Large Igneous Provinces. 
 
 
 ### CE BIAN 
@@ -44,6 +44,10 @@ Paridhi is a postdoctoral research scientist in the McKinley Group, where she is
 
 Abby is a PhD student in the McKinley group, starting in Fall 2025. Prior to starting graduate school, Abby worked for 2 years as a staff associate in the group assisting with various research projects and improving code for reproducibility and public accessibility. She received her BA in Physics with a minor in Astronomy from NYU in 2020, and worked previously on astronomical spectrometer software used to discover exoplanets.
 
+
+### COLETTE KELLY
+![Photo of Colette Kelly]({{site.baseurl}}/assets/img/ColetteKelly.jpg){:height="30%" width="30%"}
+[Dr. Colette Kelly (they/them)](https://github.com/ckelly314) is an Associate Research Scientist in the Geochemistry division at the Lamont-Doherty Earth Observatory and a collaborator with the McKinley Group. Their research centers on understanding marine nitrogen cycling through machine learning, numerical modeling, and ocean observations. They are also a chief scientist and executive committee member for the U.S. Global Oceans Ship-Based Hydrography Program (GO-SHIP). Colette earned their PhD from Stanford University in 2023, and was a postdoc at the Woods Hole Oceanographic Institution before coming to Lamont. In their spare time, Colette enjoys running with the Central Park Track Club.
 
 ### McKinley Group Professional Guidelines
 
