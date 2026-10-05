@@ -50,6 +50,13 @@ Abby is a second-year PhD student in the McKinley group. Prior to starting gradu
 
 [Dr. Colette Kelly (they/them)](https://github.com/ckelly314) is an Associate Research Scientist in the Geochemistry division at the Lamont-Doherty Earth Observatory and a collaborator with the McKinley Group. Their research centers on understanding marine nitrogen cycling through machine learning, numerical modeling, and ocean observations. They are also a chief scientist and executive committee member for the U.S. Global Oceans Ship-Based Hydrography Program (GO-SHIP). Colette earned their PhD from Stanford University in 2023, and was a postdoc at the Woods Hole Oceanographic Institution before coming to Lamont. In their spare time, Colette enjoys running with the Central Park Track Club.
 
+### MAURIE KEPPENS
+
+[Photo of Maurie Keppens]({{site.baseurl}}/assets/img/maurie_headshot.jpg){:height="30%" width="30%"}
+
+Maurie Keppens received an MS in Bioscience Engineering in 2024 from Ghent University in Belgium. In fall 2024, she started a PhD at the Flanders Marine Institute (VLIZ) and Ghent University. She is now spending a year as a visiting PhD student at the McKinley Group as a Fulbright and Belgian American Educational Foundation (BAEF) grantee. Her focus is on how well extreme events such as marine heatwaves are captured by data-driven CO2 products.
+
+
 ### McKinley Group Professional Guidelines
 
 These [guidelines]({{site.baseurl}}/assets/doc/McKinleyGroupExpectations2026.pdf) explain how we work together in the McKinley group. 
