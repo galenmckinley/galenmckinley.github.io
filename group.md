@@ -52,7 +52,7 @@ Abby is a second-year PhD student in the McKinley group. Prior to starting gradu
 
 ### MAURIE KEPPENS
 
-[Photo of Maurie Keppens]({{site.baseurl}}/assets/img/maurie_headshot.jpg){:height="30%" width="30%"}
+![Photo of Maurie Keppens]({{site.baseurl}}/assets/img/maurie_headshot.jpg){:height="30%" width="30%"}
 
 Maurie Keppens received an MS in Bioscience Engineering in 2024 from Ghent University in Belgium. In fall 2024, she started a PhD at the Flanders Marine Institute (VLIZ) and Ghent University. She is now spending a year as a visiting PhD student at the McKinley Group as a Fulbright and Belgian American Educational Foundation (BAEF) grantee. Her focus is on how well extreme events such as marine heatwaves are captured by data-driven CO2 products.
 
