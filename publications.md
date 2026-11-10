@@ -7,6 +7,8 @@ image: http://galenmckinley.github.io/assets/img/productivity.jpg
 
 ### Papers in Review
 
+Ford, D.J., A.R. Fay, T.H. Heimdal,G.A. McKinley, V. Cabanay, M. Gehlen, A. Roobaert, C. Rödenbeck, J. Zeng, Y. Iida, A. Watson,P. Landschützer and J.D. Shutler. Global air-sea CO2 flux adjustment for near-surface effects: consistency with independent observational constraints. submitted to GRL. 
+
 Holm, H.C., A.P. Shaum, A. Ellis, B. Acosta, A. Chen, B. Wing, G.A. McKinley, S.T. Dyhrman and S.J. Hurley. Using global climate models to inform multi-driver biological ocean experiments, submitted to Global Change Biology.
 
 Mach, K.J., S.P. Renier, E.R. Carr, A. Dave, K.C. Seto, B.A. Schaal, G.L. Geernaert, M.D. Ho, M. Lichtveld, S.B. Kapnick, A. Mahendra, G.A. McKinley, and S.D. Weiser. An approach to reduce climate security risks, submitted to PNAS.
