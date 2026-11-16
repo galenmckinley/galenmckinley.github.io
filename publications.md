@@ -17,9 +17,6 @@ Acquaviva, V., R. Wild, A. Laio, A.R. Fay, T.H. Heimdal, and G.A. McKinley. How 
 
 Bian, C., G.A. McKinley, P. Brown, E. McDonagh. Future strengthening of North Atlantic anthropogenic carbon transport despite AMOC weakening. submitted to JGR-Oceans. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15004396/v1)
 
-Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, Biogeosciences, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3104/)
-
-
 Roobaert, A., D.J. Ford, M.G. Sreeush, G.A. McKinley, J. Hauck, A.R. Fay, T.H. Heimdal, N. Gruber, L. Bopp, F. Chevallier, L.M. Djeutchouang, M. Gehlen, L. Gregor, Y. Iida, A. Jersild, C. Rödenbeck, J. Rogerson, J. Schwinger, C.A. Shaum, H. Tsujino, A. Watson, J. Zeng, J.D. Shutler and P. Landschützer. Reconciling ocean carbon uptake estimates: a multi-model assessment of surface ocean CO2 reconstruction skill within the SOCOMv2 initiative. Global Biogeochemical Cycles, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15003624/v1)
 
 Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton. Quantifying errors in ocean carbon reconstructions in the context of marine carbon dioxide removal (mCDR), Environmental Research: Climate, in review. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175434006.69051349)
@@ -27,6 +24,8 @@ Heimdal, T.H., G.A. McKinley, A.P. Shaum, V. Acquaviva, A.R. Fay and A.J. Sutton
 Lamarque, J.F., P. Friedlingstein, B. Osias, S. Strongin, V. Balaji, K.W. Bowman, J.G. Canadell, P. Ciais, H. Cullen, K.J. Davis, S.C. Doney, K.R. Gurney, A.R. Karspeck, C.D. Koven, G.A. McKinley, G.P. Peters, J. Pongratz, B. Stephen and C. Sweeney. Improved comparability and system-Wide verification to support a scalable carbon credit market.  Earth System Dynamics, in review. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6457/)
 
 ### Publications
+
+Wong, S.C.W., G.A. McKinley, R. Seager, T.W.P. Jacobson, A.R. Fay, Ö. Gürses, N. Gruber, T. Ilyina, T. Jarnikova, L. Resplandy, J. Schwinger, and R. Séférian. 60 years of global air-sea CO2 flux variability, Biogeosciences, in press. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3104/) (97)
 
 Fay, A.R.  D. Carroll, G.A. McKinley, N.S. Lovenduski, D. Menemenlis, and H. Zhang (2026) Quantifying the near-term response of the ocean CO2 sink to emissions mitigation. Biogeosciences, 23(21) 8063–8077. [doi:10.5194/bg-23-8063-2026](https://bg.copernicus.org/articles/23/8063/2026/). (96)
 
