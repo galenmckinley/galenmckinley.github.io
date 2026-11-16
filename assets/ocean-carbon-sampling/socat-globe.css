@@ -1,0 +1,59 @@
+/* Styles for the SOCAT observation globe (adapted from Bokai He's Ocean Carbon Sampling site). */
+.ocs-globe-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  background: #071a28;
+  color: #d8ecf5;
+  border-radius: 14px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  font-family: Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+}
+.ocs-globe-stage { position: relative; }
+.ocs-globe-stage canvas {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  cursor: grab;
+  touch-action: none;
+  outline: none;
+}
+.ocs-globe-stage canvas:active { cursor: grabbing; }
+.ocs-globe-stage canvas:focus-visible { box-shadow: 0 0 0 2px #4fd6c8; border-radius: 50%; }
+.ocs-globe-hint { text-align: center; font-size: 12px; color: #8fb3c6; margin: .4rem 0 0; }
+.ocs-globe-panel { display: flex; flex-direction: column; gap: 1rem; }
+.ocs-label { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: #8fb3c6; margin: 0 0 .35rem; }
+.ocs-seg, .ocs-months { display: flex; flex-wrap: wrap; gap: 6px; }
+.ocs-months { display: grid; grid-template-columns: repeat(7, 1fr); }
+.ocs-globe-card button {
+  all: unset;
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(170, 220, 245, .25);
+  color: #d8ecf5;
+  background: transparent;
+  transition: background .15s, color .15s;
+}
+.ocs-months button { padding: 4px 0; }
+.ocs-globe-card button:hover { background: rgba(79, 214, 200, .15); }
+.ocs-globe-card button:focus-visible { outline: 2px solid #4fd6c8; outline-offset: 2px; }
+.ocs-globe-card button[aria-pressed="true"] { background: #4fd6c8; color: #062030; border-color: #4fd6c8; font-weight: 600; }
+.ocs-ramp { height: 10px; border-radius: 5px; }
+.ocs-ticks { display: flex; justify-content: space-between; font-size: 12px; color: #8fb3c6; margin-top: 3px; }
+.ocs-key { display: flex; gap: 1rem; font-size: 12px; color: #8fb3c6; margin-top: .5rem; }
+.ocs-key i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
+.ocs-key .k-land { background: #173247; border: 1px solid #2d5672; }
+.ocs-key .k-none { background: #0b2537; border: 1px solid rgba(170, 220, 245, .3); }
+.ocs-readout { margin: 0; font-size: 14px; color: #d8ecf5; min-height: 1.4em; }
+.ocs-readout.big { font-size: 18px; font-weight: 600; color: #fff; }
+@media (max-width: 720px) {
+  .ocs-globe-card { grid-template-columns: 1fr; padding: 1rem; }
+}
