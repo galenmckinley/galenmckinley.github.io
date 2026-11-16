@@ -1,8 +1,8 @@
 ---
-title: Where do we have surface ocean CO<sub>2</sub> data? 
+title: Exploring surface ocean CO<sub>2</sub> data 
 category: research
 excerpt: New visualization of surface ocean CO<sub>2</sub> sampling
-feature_text: <h1 style="color:White"> Where does SOCAT have CO<sub>2</sub> data? </h1>
+feature_text: <h1 style="color:White"> Visualizing surface ocean CO<sub>2</sub> data </h1>
 image: http://galenmckinley.github.io/assets/img/ocean.jpg
 tags: 
 comments: true
