@@ -39,6 +39,6 @@ Bokai's [full data story](https://bokaihe.github.io/ocean-carbon-sampling/) also
 
 Congratulations, Bokai, on a beautiful piece of work!
 
-*Globe and data processing by Bokai He. We thank the SOCAT data providers, researchers, funding agencies, data managers and quality controllers. SOCAT is an international effort endorsed by IOCCP and SOLAS.*
+*Globe and data processing by Bokai He. [SOCOM](https://socom-program.github.io/socomv2/), [SOCONET](https://www.ioccp.org/soconet), and [SOCAT](https://socat.info) are international programs endorsed by the International Ocean Carbon Coordination Project ([IOCCP](https://www.ioccp.org)) and the Global Ocean Observing System ([GOOS](https://goosocean.org)) Biogeochemistry Panel.*
 
  -- Galen A. McKinley, November 16, 2026
